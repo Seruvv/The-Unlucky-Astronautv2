@@ -3887,3 +3887,1000 @@ Script call stack:
 [2018.06.15-07.00.35:075][376]LogSlate: FSceneViewport::OnFocusLost() reason 2
 [2018.06.15-07.06.58:032][ 94]LogAudio: Warning: Current Audio Device with ID {0.0.0.00000000}.{1f5ff9f4-4c50-4a89-adf4-e8019ece3697} was removed. Shutting down audio device.
 [2018.06.15-07.06.58:237][ 94]LogInit: XAudio2 using 'רמקולים/אזניות (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.06.15-07.15.28:165][985]BlueprintLog: New page: Compile Layer_Change
+[2018.06.15-07.15.28:171][985]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002b389b1d7b0, Size=16
+[2018.06.15-07.15.28:171][985]LogUObjectGlobals: Created PersistentFrame Addr=0x000002b389b1d7b0, Size=16, Default__Layer_Change_C Function /Engine/Transient.REINST_Layer_Change_C_459:ExecuteUbergraph_Layer_Change
+[2018.06.15-07.15.28:172][985]LogUObjectGlobals: Created PersistentFrame Addr=0x000002b389b1d670, Size=16, Default__Layer_Change_C Function /Game/EncounterScene/GameMode/Layer_Change.Layer_Change_C:ExecuteUbergraph_Layer_Change
+[2018.06.15-07.16.47:334][323]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002b389b1d7b0, Size=16
+[2018.06.15-07.16.47:335][323]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Map/ULA' took 0.040
+[2018.06.15-07.16.47:337][323]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/EncounterScene/GameMode/EncounterPanel] ([1] browsable assets)...
+[2018.06.15-07.16.47:337][323]OBJ SavePackage: Finished generating thumbnails for package [/Game/EncounterScene/GameMode/EncounterPanel]
+[2018.06.15-07.16.47:383][323]LogSavePackage: Save=37.41ms
+[2018.06.15-07.16.47:383][323]LogSavePackage: Moving '../../../../Unreal_Projects/The-Unlucky-Astronautv2/Saved/EncounterPanel_Auto2E2EEC6BB4C6DC6E94EACA9A5DDA41872.tmp' to '../../../../Unreal_Projects/The-Unlucky-Astronautv2/Saved/Autosaves/Game/EncounterScene/GameMode/EncounterPanel_Auto2.uasset'
+[2018.06.15-07.16.47:384][323]LogSavePackage: Display: Finished SavePackage ../../../../Unreal_Projects/The-Unlucky-Astronautv2/Saved/Autosaves/Game/EncounterScene/GameMode/EncounterPanel_Auto2.uasset
+[2018.06.15-07.16.47:385][323]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/EncounterScene/GameMode/Layer_Change] ([1] browsable assets)...
+[2018.06.15-07.16.47:397][323]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/EncounterScene/GameMode/Layer_Change.Layer_Change]
+[2018.06.15-07.16.47:398][323]OBJ SavePackage: Finished generating thumbnails for package [/Game/EncounterScene/GameMode/Layer_Change]
+[2018.06.15-07.16.47:425][323]LogSavePackage: Save=19.00ms
+[2018.06.15-07.16.47:425][323]LogSavePackage: Moving '../../../../Unreal_Projects/The-Unlucky-Astronautv2/Saved/Layer_Change_Auto28CA592DA4CF74F0A0ED751B78360A293.tmp' to '../../../../Unreal_Projects/The-Unlucky-Astronautv2/Saved/Autosaves/Game/EncounterScene/GameMode/Layer_Change_Auto2.uasset'
+[2018.06.15-07.16.47:426][323]LogSavePackage: Display: Finished SavePackage ../../../../Unreal_Projects/The-Unlucky-Astronautv2/Saved/Autosaves/Game/EncounterScene/GameMode/Layer_Change_Auto2.uasset
+[2018.06.15-07.16.47:426][323]LogFileHelpers: Auto-saving content packages took 0.090
+[2018.06.15-07.18.48:616][924]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/AdvancedTurnBasedTileToolkit/Core/Grid/BP_GridActor.BP_GridActor_C:UserConstructionScript'!
+[2018.06.15-07.18.48:616][924]LogScript: Warning: Accessed None trying to read property GridManagerRef
+	BP_GA_Tile_Hex_2Cost_C /Engine/Transient.World_30:PersistentLevel.BP_GA_Tile_Hex_2Cost_C_0
+	Function /Game/AdvancedTurnBasedTileToolkit/Core/Grid/BP_GridActor.BP_GridActor_C:UserConstructionScript:00AB
+[2018.06.15-07.18.48:617][924]LogScript: Warning: Accessed None trying to read property GridManagerRef
+	BP_GA_Tile_Hex_2Cost_C /Engine/Transient.World_30:PersistentLevel.BP_GA_Tile_Hex_2Cost_C_0
+	Function /Game/AdvancedTurnBasedTileToolkit/Core/Grid/BP_GridActor.BP_GridActor_C:UserConstructionScript:01BA
+[2018.06.15-07.18.48:617][924]LogScript: Warning: Accessed None trying to read property GridManagerRef
+	BP_GA_Tile_Hex_2Cost_C /Engine/Transient.World_30:PersistentLevel.BP_GA_Tile_Hex_2Cost_C_0
+	Function /Game/AdvancedTurnBasedTileToolkit/Core/Grid/BP_GridActor.BP_GridActor_C:UserConstructionScript:0168
+[2018.06.15-07.18.48:618][924]LogScript: Warning: Accessed None trying to read property GridManagerRef
+	BP_GA_Tile_Hex_2Cost_C /Engine/Transient.World_30:PersistentLevel.BP_GA_Tile_Hex_2Cost_C_0
+	Function /Game/AdvancedTurnBasedTileToolkit/Core/Tiles/BP_GA_Tile.BP_GA_Tile_C:MakeEdgeCostsArray:0043
+[2018.06.15-07.18.48:619][924]LogScript: Warning: Accessed None trying to read property GridManagerRef
+	BP_GA_Tile_Hex_2Cost_C /Engine/Transient.World_30:PersistentLevel.BP_GA_Tile_Hex_2Cost_C_0
+	Function /Game/AdvancedTurnBasedTileToolkit/Core/Tiles/BP_GA_Tile.BP_GA_Tile_C:MakeEdgeCostsArray:0527
+[2018.06.15-07.18.48:619][924]LogScript: Warning: Accessed None trying to read property GridManagerRef
+	BP_GA_Tile_Hex_2Cost_C /Engine/Transient.World_30:PersistentLevel.BP_GA_Tile_Hex_2Cost_C_0
+	Function /Game/AdvancedTurnBasedTileToolkit/Core/Tiles/BP_GA_Tile.BP_GA_Tile_C:MakeEdgeCostsArray:05EB
+[2018.06.15-07.18.48:620][924]LogScript: Warning: Accessed None trying to read property GridManagerRef
+	BP_GA_Tile_Hex_2Cost_C /Engine/Transient.World_30:PersistentLevel.BP_GA_Tile_Hex_2Cost_C_0
+	Function /Game/AdvancedTurnBasedTileToolkit/Core/Tiles/BP_GA_Tile.BP_GA_Tile_C:MakeEdgeCostsArray:06AF
+[2018.06.15-07.18.48:620][924]LogScript: Warning: Accessed None trying to read property GridManagerRef
+	BP_GA_Tile_Hex_2Cost_C /Engine/Transient.World_30:PersistentLevel.BP_GA_Tile_Hex_2Cost_C_0
+	Function /Game/AdvancedTurnBasedTileToolkit/Core/Tiles/BP_GA_Tile.BP_GA_Tile_C:MakeEdgeCostsArray:0748
+[2018.06.15-07.18.48:620][924]LogScript: Warning: Accessed None trying to read property GridManagerRef
+	BP_GA_Tile_Hex_2Cost_C /Engine/Transient.World_30:PersistentLevel.BP_GA_Tile_Hex_2Cost_C_0
+	Function /Game/AdvancedTurnBasedTileToolkit/Core/Tiles/BP_GA_Tile.BP_GA_Tile_C:MakeEdgeCostsArray:07E1
+[2018.06.15-07.18.48:621][924]LogScript: Warning: Accessed None trying to read property GridManagerRef
+	BP_GA_Tile_Hex_2Cost_C /Engine/Transient.World_30:PersistentLevel.BP_GA_Tile_Hex_2Cost_C_0
+	Function /Game/AdvancedTurnBasedTileToolkit/Core/Tiles/BP_GA_Tile.BP_GA_Tile_C:MakeEdgeCostsArray:087A
+[2018.06.15-07.18.48:621][924]LogScript: Warning: Accessed None trying to read property GridManagerRef
+	BP_GA_Tile_Hex_2Cost_C /Engine/Transient.World_30:PersistentLevel.BP_GA_Tile_Hex_2Cost_C_0
+	Function /Game/AdvancedTurnBasedTileToolkit/Core/Tiles/BP_GA_Tile.BP_GA_Tile_C:UserConstructionScript:01F3
+[2018.06.15-07.18.48:640][925]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/AdvancedTurnBasedTileToolkit/Core/Grid/BP_GridActor.BP_GridActor_C:UserConstructionScript'!
+[2018.06.15-07.18.48:640][925]LogScript: Warning: Accessed None trying to read property GridManagerRef
+	BP_GA_Tile_Hex_Wall_C /Engine/Transient.World_31:PersistentLevel.BP_GA_Tile_Hex_Wall_C_0
+	Function /Game/AdvancedTurnBasedTileToolkit/Core/Grid/BP_GridActor.BP_GridActor_C:UserConstructionScript:00AB
+[2018.06.15-07.18.48:640][925]LogScript: Warning: Accessed None trying to read property GridManagerRef
+	BP_GA_Tile_Hex_Wall_C /Engine/Transient.World_31:PersistentLevel.BP_GA_Tile_Hex_Wall_C_0
+	Function /Game/AdvancedTurnBasedTileToolkit/Core/Grid/BP_GridActor.BP_GridActor_C:UserConstructionScript:01BA
+[2018.06.15-07.18.48:641][925]LogScript: Warning: Accessed None trying to read property GridManagerRef
+	BP_GA_Tile_Hex_Wall_C /Engine/Transient.World_31:PersistentLevel.BP_GA_Tile_Hex_Wall_C_0
+	Function /Game/AdvancedTurnBasedTileToolkit/Core/Grid/BP_GridActor.BP_GridActor_C:UserConstructionScript:0168
+[2018.06.15-07.18.48:641][925]LogScript: Warning: Accessed None trying to read property GridManagerRef
+	BP_GA_Tile_Hex_Wall_C /Engine/Transient.World_31:PersistentLevel.BP_GA_Tile_Hex_Wall_C_0
+	Function /Game/AdvancedTurnBasedTileToolkit/Core/Tiles/BP_GA_Tile.BP_GA_Tile_C:MakeEdgeCostsArray:0043
+[2018.06.15-07.18.48:642][925]LogScript: Warning: Accessed None trying to read property GridManagerRef
+	BP_GA_Tile_Hex_Wall_C /Engine/Transient.World_31:PersistentLevel.BP_GA_Tile_Hex_Wall_C_0
+	Function /Game/AdvancedTurnBasedTileToolkit/Core/Tiles/BP_GA_Tile.BP_GA_Tile_C:MakeEdgeCostsArray:0527
+[2018.06.15-07.18.48:642][925]LogScript: Warning: Accessed None trying to read property GridManagerRef
+	BP_GA_Tile_Hex_Wall_C /Engine/Transient.World_31:PersistentLevel.BP_GA_Tile_Hex_Wall_C_0
+	Function /Game/AdvancedTurnBasedTileToolkit/Core/Tiles/BP_GA_Tile.BP_GA_Tile_C:MakeEdgeCostsArray:05EB
+[2018.06.15-07.18.48:643][925]LogScript: Warning: Accessed None trying to read property GridManagerRef
+	BP_GA_Tile_Hex_Wall_C /Engine/Transient.World_31:PersistentLevel.BP_GA_Tile_Hex_Wall_C_0
+	Function /Game/AdvancedTurnBasedTileToolkit/Core/Tiles/BP_GA_Tile.BP_GA_Tile_C:MakeEdgeCostsArray:06AF
+[2018.06.15-07.18.48:643][925]LogScript: Warning: Accessed None trying to read property GridManagerRef
+	BP_GA_Tile_Hex_Wall_C /Engine/Transient.World_31:PersistentLevel.BP_GA_Tile_Hex_Wall_C_0
+	Function /Game/AdvancedTurnBasedTileToolkit/Core/Tiles/BP_GA_Tile.BP_GA_Tile_C:MakeEdgeCostsArray:0748
+[2018.06.15-07.18.48:644][925]LogScript: Warning: Accessed None trying to read property GridManagerRef
+	BP_GA_Tile_Hex_Wall_C /Engine/Transient.World_31:PersistentLevel.BP_GA_Tile_Hex_Wall_C_0
+	Function /Game/AdvancedTurnBasedTileToolkit/Core/Tiles/BP_GA_Tile.BP_GA_Tile_C:MakeEdgeCostsArray:07E1
+[2018.06.15-07.18.48:644][925]LogScript: Warning: Accessed None trying to read property GridManagerRef
+	BP_GA_Tile_Hex_Wall_C /Engine/Transient.World_31:PersistentLevel.BP_GA_Tile_Hex_Wall_C_0
+	Function /Game/AdvancedTurnBasedTileToolkit/Core/Tiles/BP_GA_Tile.BP_GA_Tile_C:MakeEdgeCostsArray:087A
+[2018.06.15-07.18.48:644][925]LogScript: Warning: Accessed None trying to read property GridManagerRef
+	BP_GA_Tile_Hex_Wall_C /Engine/Transient.World_31:PersistentLevel.BP_GA_Tile_Hex_Wall_C_0
+	Function /Game/AdvancedTurnBasedTileToolkit/Core/Tiles/BP_GA_Tile.BP_GA_Tile_C:UserConstructionScript:01F3
+[2018.06.15-07.18.48:663][926]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/AdvancedTurnBasedTileToolkit/Core/Grid/BP_GridActor.BP_GridActor_C:UserConstructionScript'!
+[2018.06.15-07.18.48:663][926]LogScript: Warning: Accessed None trying to read property GridManagerRef
+	BP_GA_Tile_Hex_Wall_Low_C /Engine/Transient.World_32:PersistentLevel.BP_GA_Tile_Hex_Wall_Low_C_0
+	Function /Game/AdvancedTurnBasedTileToolkit/Core/Grid/BP_GridActor.BP_GridActor_C:UserConstructionScript:00AB
+[2018.06.15-07.18.48:664][926]LogScript: Warning: Accessed None trying to read property GridManagerRef
+	BP_GA_Tile_Hex_Wall_Low_C /Engine/Transient.World_32:PersistentLevel.BP_GA_Tile_Hex_Wall_Low_C_0
+	Function /Game/AdvancedTurnBasedTileToolkit/Core/Grid/BP_GridActor.BP_GridActor_C:UserConstructionScript:01BA
+[2018.06.15-07.18.48:664][926]LogScript: Warning: Accessed None trying to read property GridManagerRef
+	BP_GA_Tile_Hex_Wall_Low_C /Engine/Transient.World_32:PersistentLevel.BP_GA_Tile_Hex_Wall_Low_C_0
+	Function /Game/AdvancedTurnBasedTileToolkit/Core/Grid/BP_GridActor.BP_GridActor_C:UserConstructionScript:0168
+[2018.06.15-07.18.48:665][926]LogScript: Warning: Accessed None trying to read property GridManagerRef
+	BP_GA_Tile_Hex_Wall_Low_C /Engine/Transient.World_32:PersistentLevel.BP_GA_Tile_Hex_Wall_Low_C_0
+	Function /Game/AdvancedTurnBasedTileToolkit/Core/Tiles/BP_GA_Tile.BP_GA_Tile_C:MakeEdgeCostsArray:0043
+[2018.06.15-07.18.48:665][926]LogScript: Warning: Accessed None trying to read property GridManagerRef
+	BP_GA_Tile_Hex_Wall_Low_C /Engine/Transient.World_32:PersistentLevel.BP_GA_Tile_Hex_Wall_Low_C_0
+	Function /Game/AdvancedTurnBasedTileToolkit/Core/Tiles/BP_GA_Tile.BP_GA_Tile_C:MakeEdgeCostsArray:0527
+[2018.06.15-07.18.48:666][926]LogScript: Warning: Accessed None trying to read property GridManagerRef
+	BP_GA_Tile_Hex_Wall_Low_C /Engine/Transient.World_32:PersistentLevel.BP_GA_Tile_Hex_Wall_Low_C_0
+	Function /Game/AdvancedTurnBasedTileToolkit/Core/Tiles/BP_GA_Tile.BP_GA_Tile_C:MakeEdgeCostsArray:05EB
+[2018.06.15-07.18.48:667][926]LogScript: Warning: Accessed None trying to read property GridManagerRef
+	BP_GA_Tile_Hex_Wall_Low_C /Engine/Transient.World_32:PersistentLevel.BP_GA_Tile_Hex_Wall_Low_C_0
+	Function /Game/AdvancedTurnBasedTileToolkit/Core/Tiles/BP_GA_Tile.BP_GA_Tile_C:MakeEdgeCostsArray:06AF
+[2018.06.15-07.18.48:667][926]LogScript: Warning: Accessed None trying to read property GridManagerRef
+	BP_GA_Tile_Hex_Wall_Low_C /Engine/Transient.World_32:PersistentLevel.BP_GA_Tile_Hex_Wall_Low_C_0
+	Function /Game/AdvancedTurnBasedTileToolkit/Core/Tiles/BP_GA_Tile.BP_GA_Tile_C:MakeEdgeCostsArray:0748
+[2018.06.15-07.18.48:669][926]LogScript: Warning: Accessed None trying to read property GridManagerRef
+	BP_GA_Tile_Hex_Wall_Low_C /Engine/Transient.World_32:PersistentLevel.BP_GA_Tile_Hex_Wall_Low_C_0
+	Function /Game/AdvancedTurnBasedTileToolkit/Core/Tiles/BP_GA_Tile.BP_GA_Tile_C:MakeEdgeCostsArray:07E1
+[2018.06.15-07.18.48:669][926]LogScript: Warning: Accessed None trying to read property GridManagerRef
+	BP_GA_Tile_Hex_Wall_Low_C /Engine/Transient.World_32:PersistentLevel.BP_GA_Tile_Hex_Wall_Low_C_0
+	Function /Game/AdvancedTurnBasedTileToolkit/Core/Tiles/BP_GA_Tile.BP_GA_Tile_C:MakeEdgeCostsArray:087A
+[2018.06.15-07.18.48:670][926]LogScript: Warning: Accessed None trying to read property GridManagerRef
+	BP_GA_Tile_Hex_Wall_Low_C /Engine/Transient.World_32:PersistentLevel.BP_GA_Tile_Hex_Wall_Low_C_0
+	Function /Game/AdvancedTurnBasedTileToolkit/Core/Tiles/BP_GA_Tile.BP_GA_Tile_C:UserConstructionScript:01F3
+[2018.06.15-07.18.48:690][927]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/AdvancedTurnBasedTileToolkit/Core/Grid/BP_GridActor.BP_GridActor_C:UserConstructionScript'!
+[2018.06.15-07.18.48:691][927]LogScript: Warning: Accessed None trying to read property GridManagerRef
+	BP_GA_Tile_Hex_Wall_NE_C /Engine/Transient.World_33:PersistentLevel.BP_GA_Tile_Hex_Wall_NE_C_0
+	Function /Game/AdvancedTurnBasedTileToolkit/Core/Grid/BP_GridActor.BP_GridActor_C:UserConstructionScript:00AB
+[2018.06.15-07.18.48:691][927]LogScript: Warning: Accessed None trying to read property GridManagerRef
+	BP_GA_Tile_Hex_Wall_NE_C /Engine/Transient.World_33:PersistentLevel.BP_GA_Tile_Hex_Wall_NE_C_0
+	Function /Game/AdvancedTurnBasedTileToolkit/Core/Grid/BP_GridActor.BP_GridActor_C:UserConstructionScript:01BA
+[2018.06.15-07.18.48:691][927]LogScript: Warning: Accessed None trying to read property GridManagerRef
+	BP_GA_Tile_Hex_Wall_NE_C /Engine/Transient.World_33:PersistentLevel.BP_GA_Tile_Hex_Wall_NE_C_0
+	Function /Game/AdvancedTurnBasedTileToolkit/Core/Grid/BP_GridActor.BP_GridActor_C:UserConstructionScript:0168
+[2018.06.15-07.18.48:692][927]LogScript: Warning: Accessed None trying to read property GridManagerRef
+	BP_GA_Tile_Hex_Wall_NE_C /Engine/Transient.World_33:PersistentLevel.BP_GA_Tile_Hex_Wall_NE_C_0
+	Function /Game/AdvancedTurnBasedTileToolkit/Core/Tiles/BP_GA_Tile.BP_GA_Tile_C:MakeEdgeCostsArray:0043
+[2018.06.15-07.18.48:692][927]LogScript: Warning: Accessed None trying to read property GridManagerRef
+	BP_GA_Tile_Hex_Wall_NE_C /Engine/Transient.World_33:PersistentLevel.BP_GA_Tile_Hex_Wall_NE_C_0
+	Function /Game/AdvancedTurnBasedTileToolkit/Core/Tiles/BP_GA_Tile.BP_GA_Tile_C:MakeEdgeCostsArray:0527
+[2018.06.15-07.18.48:693][927]LogScript: Warning: Accessed None trying to read property GridManagerRef
+	BP_GA_Tile_Hex_Wall_NE_C /Engine/Transient.World_33:PersistentLevel.BP_GA_Tile_Hex_Wall_NE_C_0
+	Function /Game/AdvancedTurnBasedTileToolkit/Core/Tiles/BP_GA_Tile.BP_GA_Tile_C:MakeEdgeCostsArray:05EB
+[2018.06.15-07.18.48:693][927]LogScript: Warning: Accessed None trying to read property GridManagerRef
+	BP_GA_Tile_Hex_Wall_NE_C /Engine/Transient.World_33:PersistentLevel.BP_GA_Tile_Hex_Wall_NE_C_0
+	Function /Game/AdvancedTurnBasedTileToolkit/Core/Tiles/BP_GA_Tile.BP_GA_Tile_C:MakeEdgeCostsArray:06AF
+[2018.06.15-07.18.48:694][927]LogScript: Warning: Accessed None trying to read property GridManagerRef
+	BP_GA_Tile_Hex_Wall_NE_C /Engine/Transient.World_33:PersistentLevel.BP_GA_Tile_Hex_Wall_NE_C_0
+	Function /Game/AdvancedTurnBasedTileToolkit/Core/Tiles/BP_GA_Tile.BP_GA_Tile_C:MakeEdgeCostsArray:0748
+[2018.06.15-07.18.48:694][927]LogScript: Warning: Accessed None trying to read property GridManagerRef
+	BP_GA_Tile_Hex_Wall_NE_C /Engine/Transient.World_33:PersistentLevel.BP_GA_Tile_Hex_Wall_NE_C_0
+	Function /Game/AdvancedTurnBasedTileToolkit/Core/Tiles/BP_GA_Tile.BP_GA_Tile_C:MakeEdgeCostsArray:07E1
+[2018.06.15-07.18.48:695][927]LogScript: Warning: Accessed None trying to read property GridManagerRef
+	BP_GA_Tile_Hex_Wall_NE_C /Engine/Transient.World_33:PersistentLevel.BP_GA_Tile_Hex_Wall_NE_C_0
+	Function /Game/AdvancedTurnBasedTileToolkit/Core/Tiles/BP_GA_Tile.BP_GA_Tile_C:MakeEdgeCostsArray:087A
+[2018.06.15-07.18.48:695][927]LogScript: Warning: Accessed None trying to read property GridManagerRef
+	BP_GA_Tile_Hex_Wall_NE_C /Engine/Transient.World_33:PersistentLevel.BP_GA_Tile_Hex_Wall_NE_C_0
+	Function /Game/AdvancedTurnBasedTileToolkit/Core/Tiles/BP_GA_Tile.BP_GA_Tile_C:UserConstructionScript:01F3
+[2018.06.15-07.18.48:713][928]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/AdvancedTurnBasedTileToolkit/Core/Grid/BP_GridActor.BP_GridActor_C:UserConstructionScript'!
+[2018.06.15-07.18.48:714][928]LogScript: Warning: Accessed None trying to read property GridManagerRef
+	BP_GA_Tile_Hex_Wall_NW_C /Engine/Transient.World_34:PersistentLevel.BP_GA_Tile_Hex_Wall_NW_C_0
+	Function /Game/AdvancedTurnBasedTileToolkit/Core/Grid/BP_GridActor.BP_GridActor_C:UserConstructionScript:00AB
+[2018.06.15-07.18.48:714][928]LogScript: Warning: Accessed None trying to read property GridManagerRef
+	BP_GA_Tile_Hex_Wall_NW_C /Engine/Transient.World_34:PersistentLevel.BP_GA_Tile_Hex_Wall_NW_C_0
+	Function /Game/AdvancedTurnBasedTileToolkit/Core/Grid/BP_GridActor.BP_GridActor_C:UserConstructionScript:01BA
+[2018.06.15-07.18.48:715][928]LogScript: Warning: Accessed None trying to read property GridManagerRef
+	BP_GA_Tile_Hex_Wall_NW_C /Engine/Transient.World_34:PersistentLevel.BP_GA_Tile_Hex_Wall_NW_C_0
+	Function /Game/AdvancedTurnBasedTileToolkit/Core/Grid/BP_GridActor.BP_GridActor_C:UserConstructionScript:0168
+[2018.06.15-07.18.48:716][928]LogScript: Warning: Accessed None trying to read property GridManagerRef
+	BP_GA_Tile_Hex_Wall_NW_C /Engine/Transient.World_34:PersistentLevel.BP_GA_Tile_Hex_Wall_NW_C_0
+	Function /Game/AdvancedTurnBasedTileToolkit/Core/Tiles/BP_GA_Tile.BP_GA_Tile_C:MakeEdgeCostsArray:0043
+[2018.06.15-07.18.48:717][928]LogScript: Warning: Accessed None trying to read property GridManagerRef
+	BP_GA_Tile_Hex_Wall_NW_C /Engine/Transient.World_34:PersistentLevel.BP_GA_Tile_Hex_Wall_NW_C_0
+	Function /Game/AdvancedTurnBasedTileToolkit/Core/Tiles/BP_GA_Tile.BP_GA_Tile_C:MakeEdgeCostsArray:0527
+[2018.06.15-07.18.48:717][928]LogScript: Warning: Accessed None trying to read property GridManagerRef
+	BP_GA_Tile_Hex_Wall_NW_C /Engine/Transient.World_34:PersistentLevel.BP_GA_Tile_Hex_Wall_NW_C_0
+	Function /Game/AdvancedTurnBasedTileToolkit/Core/Tiles/BP_GA_Tile.BP_GA_Tile_C:MakeEdgeCostsArray:05EB
+[2018.06.15-07.18.48:718][928]LogScript: Warning: Accessed None trying to read property GridManagerRef
+	BP_GA_Tile_Hex_Wall_NW_C /Engine/Transient.World_34:PersistentLevel.BP_GA_Tile_Hex_Wall_NW_C_0
+	Function /Game/AdvancedTurnBasedTileToolkit/Core/Tiles/BP_GA_Tile.BP_GA_Tile_C:MakeEdgeCostsArray:06AF
+[2018.06.15-07.18.48:719][928]LogScript: Warning: Accessed None trying to read property GridManagerRef
+	BP_GA_Tile_Hex_Wall_NW_C /Engine/Transient.World_34:PersistentLevel.BP_GA_Tile_Hex_Wall_NW_C_0
+	Function /Game/AdvancedTurnBasedTileToolkit/Core/Tiles/BP_GA_Tile.BP_GA_Tile_C:MakeEdgeCostsArray:0748
+[2018.06.15-07.18.48:720][928]LogScript: Warning: Accessed None trying to read property GridManagerRef
+	BP_GA_Tile_Hex_Wall_NW_C /Engine/Transient.World_34:PersistentLevel.BP_GA_Tile_Hex_Wall_NW_C_0
+	Function /Game/AdvancedTurnBasedTileToolkit/Core/Tiles/BP_GA_Tile.BP_GA_Tile_C:MakeEdgeCostsArray:07E1
+[2018.06.15-07.18.48:720][928]LogScript: Warning: Accessed None trying to read property GridManagerRef
+	BP_GA_Tile_Hex_Wall_NW_C /Engine/Transient.World_34:PersistentLevel.BP_GA_Tile_Hex_Wall_NW_C_0
+	Function /Game/AdvancedTurnBasedTileToolkit/Core/Tiles/BP_GA_Tile.BP_GA_Tile_C:MakeEdgeCostsArray:087A
+[2018.06.15-07.18.48:721][928]LogScript: Warning: Accessed None trying to read property GridManagerRef
+	BP_GA_Tile_Hex_Wall_NW_C /Engine/Transient.World_34:PersistentLevel.BP_GA_Tile_Hex_Wall_NW_C_0
+	Function /Game/AdvancedTurnBasedTileToolkit/Core/Tiles/BP_GA_Tile.BP_GA_Tile_C:UserConstructionScript:01F3
+[2018.06.15-07.19.10:495][217]LogUObjectGlobals: Created PersistentFrame Addr=0x000002b3036fc148, Size=4, Default__SKEL_BP_Instance_ATBTT_C Function /Game/AdvancedTurnBasedTileToolkit/Maps/MP/Core/BP_Instance_ATBTT.SKEL_BP_Instance_ATBTT_C:ExecuteUbergraph_BP_Instance_ATBTT
+[2018.06.15-07.19.28:500][296]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002b3036fc148, Size=4
+[2018.06.15-07.19.28:500][296]LogUObjectGlobals: Created PersistentFrame Addr=0x000002b3036fc148, Size=4, Default__SKEL_BP_Instance_ATBTT_C Function /Engine/Transient.REINST_SKEL_BP_Instance_ATBTT_C_463:ExecuteUbergraph_BP_Instance_ATBTT
+[2018.06.15-07.19.28:501][296]LogUObjectGlobals: Created PersistentFrame Addr=0x000002b3036fc738, Size=4, Default__SKEL_BP_Instance_ATBTT_C Function /Game/AdvancedTurnBasedTileToolkit/Maps/MP/Core/BP_Instance_ATBTT.SKEL_BP_Instance_ATBTT_C:ExecuteUbergraph_BP_Instance_ATBTT
+[2018.06.15-07.19.39:844][973]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002b3036fc738, Size=4
+[2018.06.15-07.19.39:845][973]LogUObjectGlobals: Created PersistentFrame Addr=0x000002b3a50d4530, Size=4, Default__SKEL_BP_Instance_ATBTT_C Function /Engine/Transient.REINST_SKEL_BP_Instance_ATBTT_C_465:ExecuteUbergraph_BP_Instance_ATBTT
+[2018.06.15-07.19.39:846][973]LogUObjectGlobals: Created PersistentFrame Addr=0x000002b3a50d44f8, Size=4, Default__SKEL_BP_Instance_ATBTT_C Function /Game/AdvancedTurnBasedTileToolkit/Maps/MP/Core/BP_Instance_ATBTT.SKEL_BP_Instance_ATBTT_C:ExecuteUbergraph_BP_Instance_ATBTT
+[2018.06.15-07.19.42:315][120]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002b3a50d44f8, Size=4
+[2018.06.15-07.19.42:315][120]LogUObjectGlobals: Created PersistentFrame Addr=0x000002b3a50d44f8, Size=4, Default__SKEL_BP_Instance_ATBTT_C Function /Engine/Transient.REINST_SKEL_BP_Instance_ATBTT_C_467:ExecuteUbergraph_BP_Instance_ATBTT
+[2018.06.15-07.19.42:317][120]LogUObjectGlobals: Created PersistentFrame Addr=0x000002b3a50d51d8, Size=4, Default__SKEL_BP_Instance_ATBTT_C Function /Game/AdvancedTurnBasedTileToolkit/Maps/MP/Core/BP_Instance_ATBTT.SKEL_BP_Instance_ATBTT_C:ExecuteUbergraph_BP_Instance_ATBTT
+[2018.06.15-07.19.48:737][504]BlueprintLog: New page: Compile BP_Instance_ATBTT
+[2018.06.15-07.19.48:739][504]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002b3a50d51d8, Size=4
+[2018.06.15-07.19.48:739][504]LogUObjectGlobals: Created PersistentFrame Addr=0x000002b3a50d51d8, Size=4, Default__SKEL_BP_Instance_ATBTT_C Function /Engine/Transient.REINST_SKEL_BP_Instance_ATBTT_C_469:ExecuteUbergraph_BP_Instance_ATBTT
+[2018.06.15-07.19.48:790][504]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002b360249500, Size=256
+[2018.06.15-07.19.48:790][504]LogUObjectGlobals: Created PersistentFrame Addr=0x000002b309ff7900, Size=256, Default__BP_Instance_ATBTT_C Function /Engine/Transient.REINST_BP_Instance_ATBTT_C_476:ExecuteUbergraph_BP_Instance_ATBTT
+[2018.06.15-07.19.48:791][504]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002b29f26e800, Size=248
+[2018.06.15-07.19.48:791][504]LogUObjectGlobals: Created PersistentFrame Addr=0x000002b309ff4800, Size=248, Default__BP_GA_Tile_Box_02_C Function /Engine/Transient.REINST_BP_GA_Tile_Box_02_C_477:ExecuteUbergraph_BP_GA_Tile_Box_02
+[2018.06.15-07.19.48:791][504]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002b373a353a0, Size=32
+[2018.06.15-07.19.48:791][504]LogUObjectGlobals: Created PersistentFrame Addr=0x000002b38c0ebb40, Size=32, Default__ULA_C Function /Engine/Transient.REINST_ULA_C_478:ExecuteUbergraph_ULA
+[2018.06.15-07.19.48:792][504]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002b2697b1540, Size=168
+[2018.06.15-07.19.48:792][504]LogUObjectGlobals: Created PersistentFrame Addr=0x000002b363bc50c0, Size=168, Default__EncounterPanel_C Function /Engine/Transient.REINST_EncounterPanel_C_25:ExecuteUbergraph_EncounterPanel
+[2018.06.15-07.19.48:799][504]LogUObjectGlobals: Created PersistentFrame Addr=0x000002b307145700, Size=256, Default__BP_Instance_ATBTT_C Function /Game/AdvancedTurnBasedTileToolkit/Maps/MP/Core/BP_Instance_ATBTT.BP_Instance_ATBTT_C:ExecuteUbergraph_BP_Instance_ATBTT
+[2018.06.15-07.19.48:800][504]LogUObjectGlobals: Created PersistentFrame Addr=0x000002b300dd9700, Size=248, Default__BP_GA_Tile_Box_02_C Function /Game/AdvancedTurnBasedTileToolkit/Maps/Advanced/Tiles/BP_GA_Tile_Box_02.BP_GA_Tile_Box_02_C:ExecuteUbergraph_BP_GA_Tile_Box_02
+[2018.06.15-07.19.48:801][504]LogUObjectGlobals: Created PersistentFrame Addr=0x000002b3743f9e20, Size=32, Default__ULA_C Function /Game/Map/ULA.ULA_C:ExecuteUbergraph_ULA
+[2018.06.15-07.19.48:803][504]LogUObjectGlobals: Created PersistentFrame Addr=0x000002b3128a1780, Size=168, Default__EncounterPanel_C Function /Game/EncounterScene/GameMode/EncounterPanel.EncounterPanel_C:ExecuteUbergraph_EncounterPanel
+[2018.06.15-07.19.48:809][504]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/AdvancedTurnBasedTileToolkit/Core/Grid/BP_GridActor.BP_GridActor_C:UserConstructionScript'!
+[2018.06.15-07.19.48:809][504]LogScript: Warning: Accessed None trying to read property GridManagerRef
+	BP_GA_Tile_Box_02_C /Engine/Transient.World_27:PersistentLevel.BP_GA_Tile_Box_02_C_435
+	Function /Game/AdvancedTurnBasedTileToolkit/Core/Grid/BP_GridActor.BP_GridActor_C:UserConstructionScript:00AB
+[2018.06.15-07.19.48:810][504]LogScript: Warning: Accessed None trying to read property GridManagerRef
+	BP_GA_Tile_Box_02_C /Engine/Transient.World_27:PersistentLevel.BP_GA_Tile_Box_02_C_435
+	Function /Game/AdvancedTurnBasedTileToolkit/Core/Grid/BP_GridActor.BP_GridActor_C:UserConstructionScript:01BA
+[2018.06.15-07.19.48:810][504]LogScript: Warning: Accessed None trying to read property GridManagerRef
+	BP_GA_Tile_Box_02_C /Engine/Transient.World_27:PersistentLevel.BP_GA_Tile_Box_02_C_435
+	Function /Game/AdvancedTurnBasedTileToolkit/Core/Grid/BP_GridActor.BP_GridActor_C:UserConstructionScript:0168
+[2018.06.15-07.19.48:923][504]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/AdvancedTurnBasedTileToolkit/Core/Grid/BP_GridActor.BP_GridActor_C:UserConstructionScript'!
+[2018.06.15-07.19.48:923][504]LogScript: Warning: Accessed None trying to read property GridManagerRef
+	BP_GA_Tile_Box_02_C /Engine/Transient.World_18:PersistentLevel.BP_GA_Tile_Box_02_C_426
+	Function /Game/AdvancedTurnBasedTileToolkit/Core/Grid/BP_GridActor.BP_GridActor_C:UserConstructionScript:00AB
+[2018.06.15-07.19.48:924][504]LogScript: Warning: Accessed None trying to read property GridManagerRef
+	BP_GA_Tile_Box_02_C /Engine/Transient.World_18:PersistentLevel.BP_GA_Tile_Box_02_C_426
+	Function /Game/AdvancedTurnBasedTileToolkit/Core/Grid/BP_GridActor.BP_GridActor_C:UserConstructionScript:01BA
+[2018.06.15-07.19.48:924][504]LogScript: Warning: Accessed None trying to read property GridManagerRef
+	BP_GA_Tile_Box_02_C /Engine/Transient.World_18:PersistentLevel.BP_GA_Tile_Box_02_C_426
+	Function /Game/AdvancedTurnBasedTileToolkit/Core/Grid/BP_GridActor.BP_GridActor_C:UserConstructionScript:0168
+[2018.06.15-07.19.49:288][504]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002b3a50d4530, Size=4
+[2018.06.15-07.19.49:288][504]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002b3036fc148, Size=4
+[2018.06.15-07.19.49:288][504]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002b3a50d51d8, Size=4
+[2018.06.15-07.19.49:288][504]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002b3a50d44f8, Size=4
+[2018.06.15-07.19.49:297][504]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/AdvancedTurnBasedTileToolkit/Core/Grid/BP_GridActor.BP_GridActor_C:UserConstructionScript'!
+[2018.06.15-07.19.49:298][504]LogScript: Warning: Accessed None trying to read property GridManagerRef
+	BP_GA_Tile_Box_02_C /Engine/Transient.World_27:PersistentLevel.BP_GA_Tile_Box_02_C_435
+	Function /Game/AdvancedTurnBasedTileToolkit/Core/Grid/BP_GridActor.BP_GridActor_C:UserConstructionScript:00AB
+[2018.06.15-07.19.49:298][504]LogScript: Warning: Accessed None trying to read property GridManagerRef
+	BP_GA_Tile_Box_02_C /Engine/Transient.World_27:PersistentLevel.BP_GA_Tile_Box_02_C_435
+	Function /Game/AdvancedTurnBasedTileToolkit/Core/Grid/BP_GridActor.BP_GridActor_C:UserConstructionScript:01BA
+[2018.06.15-07.19.49:299][504]LogScript: Warning: Accessed None trying to read property GridManagerRef
+	BP_GA_Tile_Box_02_C /Engine/Transient.World_27:PersistentLevel.BP_GA_Tile_Box_02_C_435
+	Function /Game/AdvancedTurnBasedTileToolkit/Core/Grid/BP_GridActor.BP_GridActor_C:UserConstructionScript:0168
+[2018.06.15-07.19.49:300][504]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/AdvancedTurnBasedTileToolkit/Core/Grid/BP_GridActor.BP_GridActor_C:UserConstructionScript'!
+[2018.06.15-07.19.49:301][504]LogScript: Warning: Accessed None trying to read property GridManagerRef
+	BP_GA_Tile_Box_02_C /Engine/Transient.World_18:PersistentLevel.BP_GA_Tile_Box_02_C_426
+	Function /Game/AdvancedTurnBasedTileToolkit/Core/Grid/BP_GridActor.BP_GridActor_C:UserConstructionScript:00AB
+[2018.06.15-07.19.49:301][504]LogScript: Warning: Accessed None trying to read property GridManagerRef
+	BP_GA_Tile_Box_02_C /Engine/Transient.World_18:PersistentLevel.BP_GA_Tile_Box_02_C_426
+	Function /Game/AdvancedTurnBasedTileToolkit/Core/Grid/BP_GridActor.BP_GridActor_C:UserConstructionScript:01BA
+[2018.06.15-07.19.49:302][504]LogScript: Warning: Accessed None trying to read property GridManagerRef
+	BP_GA_Tile_Box_02_C /Engine/Transient.World_18:PersistentLevel.BP_GA_Tile_Box_02_C_426
+	Function /Game/AdvancedTurnBasedTileToolkit/Core/Grid/BP_GridActor.BP_GridActor_C:UserConstructionScript:0168
+[2018.06.15-07.19.49:305][504]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/AdvancedTurnBasedTileToolkit/Core/Grid/BP_GridActor.BP_GridActor_C:UserConstructionScript'!
+[2018.06.15-07.19.49:305][504]LogScript: Warning: Accessed None trying to read property GridManagerRef
+	BP_GA_Tile_Box_02_C /Engine/Transient.World_18:PersistentLevel.BP_GA_Tile_Box_02_C_444
+	Function /Game/AdvancedTurnBasedTileToolkit/Core/Grid/BP_GridActor.BP_GridActor_C:UserConstructionScript:00AB
+[2018.06.15-07.19.49:306][504]LogScript: Warning: Accessed None trying to read property GridManagerRef
+	BP_GA_Tile_Box_02_C /Engine/Transient.World_18:PersistentLevel.BP_GA_Tile_Box_02_C_444
+	Function /Game/AdvancedTurnBasedTileToolkit/Core/Grid/BP_GridActor.BP_GridActor_C:UserConstructionScript:01BA
+[2018.06.15-07.19.49:306][504]LogScript: Warning: Accessed None trying to read property GridManagerRef
+	BP_GA_Tile_Box_02_C /Engine/Transient.World_18:PersistentLevel.BP_GA_Tile_Box_02_C_444
+	Function /Game/AdvancedTurnBasedTileToolkit/Core/Grid/BP_GridActor.BP_GridActor_C:UserConstructionScript:0168
+[2018.06.15-07.19.49:315][504]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/AdvancedTurnBasedTileToolkit/Core/Grid/BP_GridActor.BP_GridActor_C:UserConstructionScript'!
+[2018.06.15-07.19.49:315][504]LogScript: Warning: Accessed None trying to read property GridManagerRef
+	BP_GA_Tile_Box_02_C /Engine/Transient.World_27:PersistentLevel.BP_GA_Tile_Box_02_C_435
+	Function /Game/AdvancedTurnBasedTileToolkit/Core/Grid/BP_GridActor.BP_GridActor_C:UserConstructionScript:00AB
+[2018.06.15-07.19.49:316][504]LogScript: Warning: Accessed None trying to read property GridManagerRef
+	BP_GA_Tile_Box_02_C /Engine/Transient.World_27:PersistentLevel.BP_GA_Tile_Box_02_C_435
+	Function /Game/AdvancedTurnBasedTileToolkit/Core/Grid/BP_GridActor.BP_GridActor_C:UserConstructionScript:01BA
+[2018.06.15-07.19.49:316][504]LogScript: Warning: Accessed None trying to read property GridManagerRef
+	BP_GA_Tile_Box_02_C /Engine/Transient.World_27:PersistentLevel.BP_GA_Tile_Box_02_C_435
+	Function /Game/AdvancedTurnBasedTileToolkit/Core/Grid/BP_GridActor.BP_GridActor_C:UserConstructionScript:0168
+[2018.06.15-07.19.49:318][504]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/AdvancedTurnBasedTileToolkit/Core/Grid/BP_GridActor.BP_GridActor_C:UserConstructionScript'!
+[2018.06.15-07.19.49:318][504]LogScript: Warning: Accessed None trying to read property GridManagerRef
+	BP_GA_Tile_Box_02_C /Engine/Transient.World_18:PersistentLevel.BP_GA_Tile_Box_02_C_444
+	Function /Game/AdvancedTurnBasedTileToolkit/Core/Grid/BP_GridActor.BP_GridActor_C:UserConstructionScript:00AB
+[2018.06.15-07.19.49:319][504]LogScript: Warning: Accessed None trying to read property GridManagerRef
+	BP_GA_Tile_Box_02_C /Engine/Transient.World_18:PersistentLevel.BP_GA_Tile_Box_02_C_444
+	Function /Game/AdvancedTurnBasedTileToolkit/Core/Grid/BP_GridActor.BP_GridActor_C:UserConstructionScript:01BA
+[2018.06.15-07.19.49:320][504]LogScript: Warning: Accessed None trying to read property GridManagerRef
+	BP_GA_Tile_Box_02_C /Engine/Transient.World_18:PersistentLevel.BP_GA_Tile_Box_02_C_444
+	Function /Game/AdvancedTurnBasedTileToolkit/Core/Grid/BP_GridActor.BP_GridActor_C:UserConstructionScript:0168
+[2018.06.15-07.24.09:919][ 63]LogUObjectGlobals: Created PersistentFrame Addr=0x000002b389991cc8, Size=4, Default__SKEL_BP_Instance_ATBTT_C Function /Game/AdvancedTurnBasedTileToolkit/Maps/MP/Core/BP_Instance_ATBTT.SKEL_BP_Instance_ATBTT_C:ExecuteUbergraph_BP_Instance_ATBTT
+[2018.06.15-07.24.23:126][854]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002b389991cc8, Size=4
+[2018.06.15-07.24.23:126][854]LogUObjectGlobals: Created PersistentFrame Addr=0x000002b389991cc8, Size=4, Default__SKEL_BP_Instance_ATBTT_C Function /Engine/Transient.REINST_SKEL_BP_Instance_ATBTT_C_485:ExecuteUbergraph_BP_Instance_ATBTT
+[2018.06.15-07.24.23:128][854]LogUObjectGlobals: Created PersistentFrame Addr=0x000002b3899919e0, Size=4, Default__SKEL_BP_Instance_ATBTT_C Function /Game/AdvancedTurnBasedTileToolkit/Maps/MP/Core/BP_Instance_ATBTT.SKEL_BP_Instance_ATBTT_C:ExecuteUbergraph_BP_Instance_ATBTT
+[2018.06.15-07.24.26:764][ 71]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002b3899919e0, Size=4
+[2018.06.15-07.24.26:765][ 71]LogUObjectGlobals: Created PersistentFrame Addr=0x000002b3899919e0, Size=4, Default__SKEL_BP_Instance_ATBTT_C Function /Engine/Transient.REINST_SKEL_BP_Instance_ATBTT_C_487:ExecuteUbergraph_BP_Instance_ATBTT
+[2018.06.15-07.24.26:766][ 71]LogUObjectGlobals: Created PersistentFrame Addr=0x000002b389992ab8, Size=4, Default__SKEL_BP_Instance_ATBTT_C Function /Game/AdvancedTurnBasedTileToolkit/Maps/MP/Core/BP_Instance_ATBTT.SKEL_BP_Instance_ATBTT_C:ExecuteUbergraph_BP_Instance_ATBTT
+[2018.06.15-07.25.05:376][386]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002b389992ab8, Size=4
+[2018.06.15-07.25.05:376][386]LogUObjectGlobals: Created PersistentFrame Addr=0x000002b389992ab8, Size=4, Default__SKEL_BP_Instance_ATBTT_C Function /Engine/Transient.REINST_SKEL_BP_Instance_ATBTT_C_489:ExecuteUbergraph_BP_Instance_ATBTT
+[2018.06.15-07.25.05:378][386]LogUObjectGlobals: Created PersistentFrame Addr=0x000002b389993b98, Size=4, Default__SKEL_BP_Instance_ATBTT_C Function /Game/AdvancedTurnBasedTileToolkit/Maps/MP/Core/BP_Instance_ATBTT.SKEL_BP_Instance_ATBTT_C:ExecuteUbergraph_BP_Instance_ATBTT
+[2018.06.15-07.25.08:543][575]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002b389993b98, Size=4
+[2018.06.15-07.25.08:544][575]LogUObjectGlobals: Created PersistentFrame Addr=0x000002b389993b98, Size=4, Default__SKEL_BP_Instance_ATBTT_C Function /Engine/Transient.REINST_SKEL_BP_Instance_ATBTT_C_491:ExecuteUbergraph_BP_Instance_ATBTT
+[2018.06.15-07.25.08:545][575]LogUObjectGlobals: Created PersistentFrame Addr=0x000002b389991668, Size=4, Default__SKEL_BP_Instance_ATBTT_C Function /Game/AdvancedTurnBasedTileToolkit/Maps/MP/Core/BP_Instance_ATBTT.SKEL_BP_Instance_ATBTT_C:ExecuteUbergraph_BP_Instance_ATBTT
+[2018.06.15-07.25.09:600][637]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002b389991668, Size=4
+[2018.06.15-07.25.09:600][637]LogUObjectGlobals: Created PersistentFrame Addr=0x000002b389991668, Size=4, Default__SKEL_BP_Instance_ATBTT_C Function /Engine/Transient.REINST_SKEL_BP_Instance_ATBTT_C_493:ExecuteUbergraph_BP_Instance_ATBTT
+[2018.06.15-07.25.09:601][637]LogUObjectGlobals: Created PersistentFrame Addr=0x000002b389992b10, Size=4, Default__SKEL_BP_Instance_ATBTT_C Function /Game/AdvancedTurnBasedTileToolkit/Maps/MP/Core/BP_Instance_ATBTT.SKEL_BP_Instance_ATBTT_C:ExecuteUbergraph_BP_Instance_ATBTT
+[2018.06.15-07.25.14:557][933]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002b389992b10, Size=4
+[2018.06.15-07.25.14:557][933]LogUObjectGlobals: Created PersistentFrame Addr=0x000002b389992b10, Size=4, Default__SKEL_BP_Instance_ATBTT_C Function /Engine/Transient.REINST_SKEL_BP_Instance_ATBTT_C_495:ExecuteUbergraph_BP_Instance_ATBTT
+[2018.06.15-07.25.14:558][933]LogUObjectGlobals: Created PersistentFrame Addr=0x000002b389992530, Size=4, Default__SKEL_BP_Instance_ATBTT_C Function /Game/AdvancedTurnBasedTileToolkit/Maps/MP/Core/BP_Instance_ATBTT.SKEL_BP_Instance_ATBTT_C:ExecuteUbergraph_BP_Instance_ATBTT
+[2018.06.15-07.25.15:960][ 16]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002b389992530, Size=4
+[2018.06.15-07.25.15:960][ 16]LogUObjectGlobals: Created PersistentFrame Addr=0x000002b389992530, Size=4, Default__SKEL_BP_Instance_ATBTT_C Function /Engine/Transient.REINST_SKEL_BP_Instance_ATBTT_C_497:ExecuteUbergraph_BP_Instance_ATBTT
+[2018.06.15-07.25.15:961][ 16]LogUObjectGlobals: Created PersistentFrame Addr=0x000002b389992490, Size=4, Default__SKEL_BP_Instance_ATBTT_C Function /Game/AdvancedTurnBasedTileToolkit/Maps/MP/Core/BP_Instance_ATBTT.SKEL_BP_Instance_ATBTT_C:ExecuteUbergraph_BP_Instance_ATBTT
+[2018.06.15-07.25.28:019][738]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002b389992490, Size=4
+[2018.06.15-07.25.28:020][738]LogUObjectGlobals: Created PersistentFrame Addr=0x000002b389992490, Size=4, Default__SKEL_BP_Instance_ATBTT_C Function /Engine/Transient.REINST_SKEL_BP_Instance_ATBTT_C_499:ExecuteUbergraph_BP_Instance_ATBTT
+[2018.06.15-07.25.28:021][738]LogUObjectGlobals: Created PersistentFrame Addr=0x000002b389991148, Size=4, Default__SKEL_BP_Instance_ATBTT_C Function /Game/AdvancedTurnBasedTileToolkit/Maps/MP/Core/BP_Instance_ATBTT.SKEL_BP_Instance_ATBTT_C:ExecuteUbergraph_BP_Instance_ATBTT
+[2018.06.15-07.26.47:687][511]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002b389992b10, Size=4
+[2018.06.15-07.26.47:687][511]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002b389992490, Size=4
+[2018.06.15-07.26.47:687][511]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002b389992530, Size=4
+[2018.06.15-07.26.47:687][511]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002b389991668, Size=4
+[2018.06.15-07.26.47:688][511]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002b389993b98, Size=4
+[2018.06.15-07.26.47:688][511]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002b389992ab8, Size=4
+[2018.06.15-07.26.47:688][511]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002b309ff7900, Size=256
+[2018.06.15-07.26.47:688][511]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002b3899919e0, Size=4
+[2018.06.15-07.26.47:688][511]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002b363bc50c0, Size=168
+[2018.06.15-07.26.47:688][511]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002b389991cc8, Size=4
+[2018.06.15-07.26.47:689][511]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002b309ff4800, Size=248
+[2018.06.15-07.26.47:689][511]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002b38c0ebb40, Size=32
+[2018.06.15-07.26.47:692][511]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Map/ULA" FILE="../../../../Unreal_Projects/The-Unlucky-Astronautv2/Saved/Autosaves/Game/Map/ULA_Auto3.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2018.06.15-07.26.47:706][511]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002b3743f9e20, Size=32
+[2018.06.15-07.26.47:706][511]LogUObjectGlobals: Created PersistentFrame Addr=0x000002b356ab4640, Size=32, Default__ULA_C Function /Engine/Transient.REINST_ULA_C_503:ExecuteUbergraph_ULA
+[2018.06.15-07.26.47:708][511]LogUObjectGlobals: Created PersistentFrame Addr=0x000002b356ab57a0, Size=32, Default__ULA_C Function /Game/Map/ULA.ULA_C:ExecuteUbergraph_ULA
+[2018.06.15-07.26.47:871][511]LogSavePackage: Save=169.12ms
+[2018.06.15-07.26.47:871][511]LogSavePackage: Moving '../../../../Unreal_Projects/The-Unlucky-Astronautv2/Saved/ULA_Auto387B7DA5746ECA62ED369A0852A1255B7.tmp' to '../../../../Unreal_Projects/The-Unlucky-Astronautv2/Saved/Autosaves/Game/Map/ULA_Auto3.umap'
+[2018.06.15-07.26.47:872][511]LogSavePackage: Display: Finished SavePackage ../../../../Unreal_Projects/The-Unlucky-Astronautv2/Saved/Autosaves/Game/Map/ULA_Auto3.umap
+[2018.06.15-07.26.47:876][511]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Map/ULA' took 0.232
+[2018.06.15-07.26.47:876][511]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.232
+[2018.06.15-07.26.47:881][511]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/AdvancedTurnBasedTileToolkit/Maps/MP/Core/BP_Instance_ATBTT] ([1] browsable assets)...
+[2018.06.15-07.26.47:881][511]OBJ SavePackage: Finished generating thumbnails for package [/Game/AdvancedTurnBasedTileToolkit/Maps/MP/Core/BP_Instance_ATBTT]
+[2018.06.15-07.26.47:900][511]LogSavePackage: Save=10.71ms
+[2018.06.15-07.26.47:901][511]LogSavePackage: Moving '../../../../Unreal_Projects/The-Unlucky-Astronautv2/Saved/BP_Instance_ATBTT_Auto3C06A4AF845C5D1BE2B1CC6983BC4F931.tmp' to '../../../../Unreal_Projects/The-Unlucky-Astronautv2/Saved/Autosaves/Game/AdvancedTurnBasedTileToolkit/Maps/MP/Core/BP_Instance_ATBTT_Auto3.uasset'
+[2018.06.15-07.26.47:902][511]LogSavePackage: Display: Finished SavePackage ../../../../Unreal_Projects/The-Unlucky-Astronautv2/Saved/Autosaves/Game/AdvancedTurnBasedTileToolkit/Maps/MP/Core/BP_Instance_ATBTT_Auto3.uasset
+[2018.06.15-07.26.47:902][511]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/EncounterScene/GameMode/EncounterPanel] ([1] browsable assets)...
+[2018.06.15-07.26.47:903][511]OBJ SavePackage: Finished generating thumbnails for package [/Game/EncounterScene/GameMode/EncounterPanel]
+[2018.06.15-07.26.47:948][511]LogSavePackage: Save=38.27ms
+[2018.06.15-07.26.47:948][511]LogSavePackage: Moving '../../../../Unreal_Projects/The-Unlucky-Astronautv2/Saved/EncounterPanel_Auto3F23D2AEB486B23B09E59A7A239CCC6E0.tmp' to '../../../../Unreal_Projects/The-Unlucky-Astronautv2/Saved/Autosaves/Game/EncounterScene/GameMode/EncounterPanel_Auto3.uasset'
+[2018.06.15-07.26.47:949][511]LogSavePackage: Display: Finished SavePackage ../../../../Unreal_Projects/The-Unlucky-Astronautv2/Saved/Autosaves/Game/EncounterScene/GameMode/EncounterPanel_Auto3.uasset
+[2018.06.15-07.26.47:950][511]LogFileHelpers: Auto-saving content packages took 0.071
+[2018.06.15-07.27.56:311][612]BlueprintLog: New page: Compile BP_Instance_ATBTT
+[2018.06.15-07.27.56:313][612]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002b389991148, Size=4
+[2018.06.15-07.27.56:313][612]LogUObjectGlobals: Created PersistentFrame Addr=0x000002b3a50d4f80, Size=4, Default__SKEL_BP_Instance_ATBTT_C Function /Engine/Transient.REINST_SKEL_BP_Instance_ATBTT_C_505:ExecuteUbergraph_BP_Instance_ATBTT
+[2018.06.15-07.27.56:339][612]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002b307145700, Size=256
+[2018.06.15-07.27.56:339][612]LogUObjectGlobals: Created PersistentFrame Addr=0x000002b309ff6000, Size=256, Default__BP_Instance_ATBTT_C Function /Engine/Transient.REINST_BP_Instance_ATBTT_C_512:ExecuteUbergraph_BP_Instance_ATBTT
+[2018.06.15-07.27.56:340][612]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002b300dd9700, Size=248
+[2018.06.15-07.27.56:340][612]LogUObjectGlobals: Created PersistentFrame Addr=0x000002b309ff6200, Size=248, Default__BP_GA_Tile_Box_02_C Function /Engine/Transient.REINST_BP_GA_Tile_Box_02_C_513:ExecuteUbergraph_BP_GA_Tile_Box_02
+[2018.06.15-07.27.56:340][612]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002b356ab57a0, Size=32
+[2018.06.15-07.27.56:341][612]LogUObjectGlobals: Created PersistentFrame Addr=0x000002b34a1d4d20, Size=32, ULA_C_0 Function /Engine/Transient.REINST_ULA_C_514:ExecuteUbergraph_ULA
+[2018.06.15-07.27.56:341][612]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002b3128a1780, Size=168
+[2018.06.15-07.27.56:341][612]LogUObjectGlobals: Created PersistentFrame Addr=0x000002b30a1a9300, Size=168, Default__EncounterPanel_C Function /Engine/Transient.REINST_EncounterPanel_C_27:ExecuteUbergraph_EncounterPanel
+[2018.06.15-07.27.56:348][612]LogUObjectGlobals: Created PersistentFrame Addr=0x000002b3a4f9d500, Size=256, Default__BP_Instance_ATBTT_C Function /Game/AdvancedTurnBasedTileToolkit/Maps/MP/Core/BP_Instance_ATBTT.BP_Instance_ATBTT_C:ExecuteUbergraph_BP_Instance_ATBTT
+[2018.06.15-07.27.56:349][612]LogUObjectGlobals: Created PersistentFrame Addr=0x000002b3a5293000, Size=248, Default__BP_GA_Tile_Box_02_C Function /Game/AdvancedTurnBasedTileToolkit/Maps/Advanced/Tiles/BP_GA_Tile_Box_02.BP_GA_Tile_Box_02_C:ExecuteUbergraph_BP_GA_Tile_Box_02
+[2018.06.15-07.27.56:350][612]LogUObjectGlobals: Created PersistentFrame Addr=0x000002b3860f9300, Size=32, Default__ULA_C Function /Game/Map/ULA.ULA_C:ExecuteUbergraph_ULA
+[2018.06.15-07.27.56:352][612]LogUObjectGlobals: Created PersistentFrame Addr=0x000002b337aede40, Size=168, Default__EncounterPanel_C Function /Game/EncounterScene/GameMode/EncounterPanel.EncounterPanel_C:ExecuteUbergraph_EncounterPanel
+[2018.06.15-07.27.56:353][612]LogClass: Warning: Type mismatch in encounterLayer of BP_Instance_ATBTT_C - Previous (ArrayProperty) Current(ObjectProperty) for package:  FObjectReader
+[2018.06.15-07.27.56:357][612]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/AdvancedTurnBasedTileToolkit/Core/Grid/BP_GridActor.BP_GridActor_C:UserConstructionScript'!
+[2018.06.15-07.27.56:357][612]LogScript: Warning: Accessed None trying to read property GridManagerRef
+	BP_GA_Tile_Box_02_C /Engine/Transient.World_27:PersistentLevel.BP_GA_Tile_Box_02_C_435
+	Function /Game/AdvancedTurnBasedTileToolkit/Core/Grid/BP_GridActor.BP_GridActor_C:UserConstructionScript:00AB
+[2018.06.15-07.27.56:358][612]LogScript: Warning: Accessed None trying to read property GridManagerRef
+	BP_GA_Tile_Box_02_C /Engine/Transient.World_27:PersistentLevel.BP_GA_Tile_Box_02_C_435
+	Function /Game/AdvancedTurnBasedTileToolkit/Core/Grid/BP_GridActor.BP_GridActor_C:UserConstructionScript:01BA
+[2018.06.15-07.27.56:358][612]LogScript: Warning: Accessed None trying to read property GridManagerRef
+	BP_GA_Tile_Box_02_C /Engine/Transient.World_27:PersistentLevel.BP_GA_Tile_Box_02_C_435
+	Function /Game/AdvancedTurnBasedTileToolkit/Core/Grid/BP_GridActor.BP_GridActor_C:UserConstructionScript:0168
+[2018.06.15-07.27.56:586][612]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/AdvancedTurnBasedTileToolkit/Core/Grid/BP_GridActor.BP_GridActor_C:UserConstructionScript'!
+[2018.06.15-07.27.56:586][612]LogScript: Warning: Accessed None trying to read property GridManagerRef
+	BP_GA_Tile_Box_02_C /Engine/Transient.World_18:PersistentLevel.BP_GA_Tile_Box_02_C_444
+	Function /Game/AdvancedTurnBasedTileToolkit/Core/Grid/BP_GridActor.BP_GridActor_C:UserConstructionScript:00AB
+[2018.06.15-07.27.56:587][612]LogScript: Warning: Accessed None trying to read property GridManagerRef
+	BP_GA_Tile_Box_02_C /Engine/Transient.World_18:PersistentLevel.BP_GA_Tile_Box_02_C_444
+	Function /Game/AdvancedTurnBasedTileToolkit/Core/Grid/BP_GridActor.BP_GridActor_C:UserConstructionScript:01BA
+[2018.06.15-07.27.56:588][612]LogScript: Warning: Accessed None trying to read property GridManagerRef
+	BP_GA_Tile_Box_02_C /Engine/Transient.World_18:PersistentLevel.BP_GA_Tile_Box_02_C_444
+	Function /Game/AdvancedTurnBasedTileToolkit/Core/Grid/BP_GridActor.BP_GridActor_C:UserConstructionScript:0168
+[2018.06.15-07.27.56:847][612]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002b3a50d4f80, Size=4
+[2018.06.15-07.27.56:847][612]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002b356ab4640, Size=32
+[2018.06.15-07.27.56:852][612]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/AdvancedTurnBasedTileToolkit/Core/Grid/BP_GridActor.BP_GridActor_C:UserConstructionScript'!
+[2018.06.15-07.27.56:852][612]LogScript: Warning: Accessed None trying to read property GridManagerRef
+	BP_GA_Tile_Box_02_C /Engine/Transient.World_27:PersistentLevel.BP_GA_Tile_Box_02_C_435
+	Function /Game/AdvancedTurnBasedTileToolkit/Core/Grid/BP_GridActor.BP_GridActor_C:UserConstructionScript:00AB
+[2018.06.15-07.27.56:853][612]LogScript: Warning: Accessed None trying to read property GridManagerRef
+	BP_GA_Tile_Box_02_C /Engine/Transient.World_27:PersistentLevel.BP_GA_Tile_Box_02_C_435
+	Function /Game/AdvancedTurnBasedTileToolkit/Core/Grid/BP_GridActor.BP_GridActor_C:UserConstructionScript:01BA
+[2018.06.15-07.27.56:855][612]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/AdvancedTurnBasedTileToolkit/Core/Grid/BP_GridActor.BP_GridActor_C:UserConstructionScript'!
+[2018.06.15-07.27.56:855][612]LogScript: Warning: Accessed None trying to read property GridManagerRef
+	BP_GA_Tile_Box_02_C /Engine/Transient.World_18:PersistentLevel.BP_GA_Tile_Box_02_C_444
+	Function /Game/AdvancedTurnBasedTileToolkit/Core/Grid/BP_GridActor.BP_GridActor_C:UserConstructionScript:00AB
+[2018.06.15-07.27.56:855][612]LogScript: Warning: Accessed None trying to read property GridManagerRef
+	BP_GA_Tile_Box_02_C /Engine/Transient.World_18:PersistentLevel.BP_GA_Tile_Box_02_C_444
+	Function /Game/AdvancedTurnBasedTileToolkit/Core/Grid/BP_GridActor.BP_GridActor_C:UserConstructionScript:01BA
+[2018.06.15-07.27.56:856][612]LogScript: Warning: Accessed None trying to read property GridManagerRef
+	BP_GA_Tile_Box_02_C /Engine/Transient.World_18:PersistentLevel.BP_GA_Tile_Box_02_C_444
+	Function /Game/AdvancedTurnBasedTileToolkit/Core/Grid/BP_GridActor.BP_GridActor_C:UserConstructionScript:0168
+[2018.06.15-07.27.56:857][612]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/AdvancedTurnBasedTileToolkit/Core/Grid/BP_GridActor.BP_GridActor_C:UserConstructionScript'!
+[2018.06.15-07.27.56:857][612]LogScript: Warning: Accessed None trying to read property GridManagerRef
+	BP_GA_Tile_Box_02_C /Engine/Transient.World_18:PersistentLevel.BP_GA_Tile_Box_02_C_461
+	Function /Game/AdvancedTurnBasedTileToolkit/Core/Grid/BP_GridActor.BP_GridActor_C:UserConstructionScript:00AB
+[2018.06.15-07.27.56:858][612]LogScript: Warning: Accessed None trying to read property GridManagerRef
+	BP_GA_Tile_Box_02_C /Engine/Transient.World_18:PersistentLevel.BP_GA_Tile_Box_02_C_461
+	Function /Game/AdvancedTurnBasedTileToolkit/Core/Grid/BP_GridActor.BP_GridActor_C:UserConstructionScript:01BA
+[2018.06.15-07.27.56:858][612]LogScript: Warning: Accessed None trying to read property GridManagerRef
+	BP_GA_Tile_Box_02_C /Engine/Transient.World_18:PersistentLevel.BP_GA_Tile_Box_02_C_461
+	Function /Game/AdvancedTurnBasedTileToolkit/Core/Grid/BP_GridActor.BP_GridActor_C:UserConstructionScript:0168
+[2018.06.15-07.27.56:867][612]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/AdvancedTurnBasedTileToolkit/Core/Grid/BP_GridActor.BP_GridActor_C:UserConstructionScript'!
+[2018.06.15-07.27.56:869][612]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/AdvancedTurnBasedTileToolkit/Core/Grid/BP_GridActor.BP_GridActor_C:UserConstructionScript'!
+[2018.06.15-07.27.56:869][612]LogScript: Warning: Accessed None trying to read property GridManagerRef
+	BP_GA_Tile_Box_02_C /Engine/Transient.World_18:PersistentLevel.BP_GA_Tile_Box_02_C_461
+	Function /Game/AdvancedTurnBasedTileToolkit/Core/Grid/BP_GridActor.BP_GridActor_C:UserConstructionScript:00AB
+[2018.06.15-07.27.56:870][612]LogScript: Warning: Accessed None trying to read property GridManagerRef
+	BP_GA_Tile_Box_02_C /Engine/Transient.World_18:PersistentLevel.BP_GA_Tile_Box_02_C_461
+	Function /Game/AdvancedTurnBasedTileToolkit/Core/Grid/BP_GridActor.BP_GridActor_C:UserConstructionScript:01BA
+[2018.06.15-07.27.56:870][612]LogScript: Warning: Accessed None trying to read property GridManagerRef
+	BP_GA_Tile_Box_02_C /Engine/Transient.World_18:PersistentLevel.BP_GA_Tile_Box_02_C_461
+	Function /Game/AdvancedTurnBasedTileToolkit/Core/Grid/BP_GridActor.BP_GridActor_C:UserConstructionScript:0168
+[2018.06.15-07.36.48:472][790]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002b30a1a9300, Size=168
+[2018.06.15-07.36.48:472][790]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002b309ff6200, Size=248
+[2018.06.15-07.36.48:472][790]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002b309ff6000, Size=256
+[2018.06.15-07.36.48:473][790]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002b34a1d4d20, Size=32
+[2018.06.15-07.36.48:475][790]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Map/ULA" FILE="../../../../Unreal_Projects/The-Unlucky-Astronautv2/Saved/Autosaves/Game/Map/ULA_Auto4.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2018.06.15-07.36.48:488][790]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002b3860f9300, Size=32
+[2018.06.15-07.36.48:488][790]LogUObjectGlobals: Created PersistentFrame Addr=0x000002b30980fa00, Size=32, Default__ULA_C Function /Engine/Transient.REINST_ULA_C_521:ExecuteUbergraph_ULA
+[2018.06.15-07.36.48:489][790]LogUObjectGlobals: Created PersistentFrame Addr=0x000002b30980edc0, Size=32, Default__ULA_C Function /Game/Map/ULA.ULA_C:ExecuteUbergraph_ULA
+[2018.06.15-07.36.48:660][790]LogSavePackage: Save=176.53ms
+[2018.06.15-07.36.48:660][790]LogSavePackage: Moving '../../../../Unreal_Projects/The-Unlucky-Astronautv2/Saved/ULA_Auto42CFEB01C41699684CAD2FD88949977D3.tmp' to '../../../../Unreal_Projects/The-Unlucky-Astronautv2/Saved/Autosaves/Game/Map/ULA_Auto4.umap'
+[2018.06.15-07.36.48:661][790]LogSavePackage: Display: Finished SavePackage ../../../../Unreal_Projects/The-Unlucky-Astronautv2/Saved/Autosaves/Game/Map/ULA_Auto4.umap
+[2018.06.15-07.36.48:664][790]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Map/ULA' took 0.234
+[2018.06.15-07.36.48:664][790]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.234
+[2018.06.15-07.36.48:668][790]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/AdvancedTurnBasedTileToolkit/Maps/MP/Core/BP_Instance_ATBTT] ([1] browsable assets)...
+[2018.06.15-07.36.48:668][790]OBJ SavePackage: Finished generating thumbnails for package [/Game/AdvancedTurnBasedTileToolkit/Maps/MP/Core/BP_Instance_ATBTT]
+[2018.06.15-07.36.48:688][790]LogSavePackage: Save=11.05ms
+[2018.06.15-07.36.48:688][790]LogSavePackage: Moving '../../../../Unreal_Projects/The-Unlucky-Astronautv2/Saved/BP_Instance_ATBTT_Auto43ECBA39643B3559277516AA81265F413.tmp' to '../../../../Unreal_Projects/The-Unlucky-Astronautv2/Saved/Autosaves/Game/AdvancedTurnBasedTileToolkit/Maps/MP/Core/BP_Instance_ATBTT_Auto4.uasset'
+[2018.06.15-07.36.48:689][790]LogSavePackage: Display: Finished SavePackage ../../../../Unreal_Projects/The-Unlucky-Astronautv2/Saved/Autosaves/Game/AdvancedTurnBasedTileToolkit/Maps/MP/Core/BP_Instance_ATBTT_Auto4.uasset
+[2018.06.15-07.36.48:690][790]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/EncounterScene/GameMode/EncounterPanel] ([1] browsable assets)...
+[2018.06.15-07.36.48:690][790]OBJ SavePackage: Finished generating thumbnails for package [/Game/EncounterScene/GameMode/EncounterPanel]
+[2018.06.15-07.36.48:741][790]LogSavePackage: Save=42.85ms
+[2018.06.15-07.36.48:742][790]LogSavePackage: Moving '../../../../Unreal_Projects/The-Unlucky-Astronautv2/Saved/EncounterPanel_Auto443C2006D4437F3A07F245E9D981F3714.tmp' to '../../../../Unreal_Projects/The-Unlucky-Astronautv2/Saved/Autosaves/Game/EncounterScene/GameMode/EncounterPanel_Auto4.uasset'
+[2018.06.15-07.36.48:743][790]LogSavePackage: Display: Finished SavePackage ../../../../Unreal_Projects/The-Unlucky-Astronautv2/Saved/Autosaves/Game/EncounterScene/GameMode/EncounterPanel_Auto4.uasset
+[2018.06.15-07.36.48:743][790]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/EncounterScene/GameMode/EncounterFeedback] ([1] browsable assets)...
+[2018.06.15-07.36.48:743][790]OBJ SavePackage: Finished generating thumbnails for package [/Game/EncounterScene/GameMode/EncounterFeedback]
+[2018.06.15-07.36.48:751][790]LogSavePackage: Save=5.55ms
+[2018.06.15-07.36.48:751][790]LogSavePackage: Moving '../../../../Unreal_Projects/The-Unlucky-Astronautv2/Saved/EncounterFeedback_Auto4D3259C6B432EF35459CEBAAA3B088676.tmp' to '../../../../Unreal_Projects/The-Unlucky-Astronautv2/Saved/Autosaves/Game/EncounterScene/GameMode/EncounterFeedback_Auto4.uasset'
+[2018.06.15-07.36.48:754][790]LogSavePackage: Display: Finished SavePackage ../../../../Unreal_Projects/The-Unlucky-Astronautv2/Saved/Autosaves/Game/EncounterScene/GameMode/EncounterFeedback_Auto4.uasset
+[2018.06.15-07.36.48:754][790]LogFileHelpers: Auto-saving content packages took 0.087
+[2018.06.15-07.40.55:143][530]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.06.15-07.40.55:144][530]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.06.15-07.40.58:593][735]LogSavePackage: Save=6.80ms
+[2018.06.15-07.40.58:593][735]LogSavePackage: Moving '../../../../Unreal_Projects/The-Unlucky-Astronautv2/Saved/EncounterFeedback8D9298CF4DE970CBB5300F8127440833.tmp' to '../../../../Unreal_Projects/The-Unlucky-Astronautv2/Content/EncounterScene/GameMode/EncounterFeedback.uasset'
+[2018.06.15-07.40.58:600][735]LogSavePackage: Display: Finished SavePackage ../../../../Unreal_Projects/The-Unlucky-Astronautv2/Content/EncounterScene/GameMode/EncounterFeedback.uasset
+[2018.06.15-10.44.13:826][844]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.06.15-10.44.13:826][844]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.06.15-10.44.19:086][147]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.06.15-10.44.19:128][147]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Map/ULA.ULA:PersistentLevel' has LevelScriptBlueprint '/Game/Map/ULA.ULA:PersistentLevel.ULA' with GeneratedClass '/Game/Map/ULA.ULA_C' with ClassGeneratedBy '/Game/Map/ULA.ULA:PersistentLevel.ULA'
+[2018.06.15-10.44.19:129][147]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.06.15-10.44.19:130][147]PIE: New page: PIE session: ULA (15 ביוני 2018, 16:44:19)
+[2018.06.15-10.44.19:134][147]LogPlayLevel: Creating play world package: /Game/Map/UEDPIE_0_ULA
+[2018.06.15-10.44.19:142][147]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008408s)
+[2018.06.15-10.44.19:144][147]LogAIModule: Creating AISystem for world ULA
+[2018.06.15-10.44.19:145][147]LogPlayLevel: PIE: World Init took: (0.002145s)
+[2018.06.15-10.44.19:145][147]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Map/ULA.ULA to /Game/Map/UEDPIE_0_ULA.ULA (0.011349s)
+[2018.06.15-10.44.19:181][147]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002b30980fa00, Size=32
+[2018.06.15-10.44.19:187][147]LogInit: XAudio2 using 'רמקולים/אזניות (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.06.15-10.44.19:265][147]LogInit: FAudioDevice initialized.
+[2018.06.15-10.44.19:425][147]LogLoad: Game class is 'BP_ATBTT_C'
+[2018.06.15-10.44.19:430][147]LogWorld: Bringing World /Game/Map/UEDPIE_0_ULA.ULA up for play (max tick rate 60) at 2018.06.15-13.44.19
+[2018.06.15-10.44.19:431][147]LogWorld: Bringing up level for play took: 0.004399
+[2018.06.15-10.44.19:433][147]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2018.06.15-10.44.19:433][147]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2018.06.15-10.44.19:433][147]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2018.06.15-10.44.19:441][147]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2018.06.15-10.44.19:446][147]PIE: Play in editor start time for /Game/Map/UEDPIE_0_ULA 0.151
+[2018.06.15-10.44.19:447][147]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Map/ULA.ULA:PersistentLevel' has LevelScriptBlueprint '/Game/Map/ULA.ULA:PersistentLevel.ULA' with GeneratedClass '/Game/Map/ULA.ULA_C' with ClassGeneratedBy '/Game/Map/ULA.ULA:PersistentLevel.ULA'
+[2018.06.15-10.44.21:529][262]LogBlueprintUserMessages: [GoToEncounter] Cool
+[2018.06.15-10.44.21:541][263]LogGameMode: Display: Match State Changed from InProgress to LeavingMap
+[2018.06.15-10.44.21:541][263]LogGameState: Match State Changed from InProgress to LeavingMap
+[2018.06.15-10.44.21:542][263]LogNet: Browse: /Game/EncounterScene/Map/EncounterMap
+[2018.06.15-10.44.21:543][263]LogLoad: LoadMap: /Game/EncounterScene/Map/EncounterMap
+[2018.06.15-10.44.21:625][263]LogAIModule: Creating AISystem for world EncounterMap
+[2018.06.15-10.44.21:626][263]LogLoad: Game class is 'EncounterGameMode_C'
+[2018.06.15-10.44.21:628][263]LogWorld: Bringing World /Game/EncounterScene/Map/UEDPIE_0_EncounterMap.EncounterMap up for play (max tick rate 60) at 2018.06.15-13.44.21
+[2018.06.15-10.44.21:629][263]LogWorld: Bringing up level for play took: 0.001439
+[2018.06.15-10.44.21:631][263]LogBlueprintUserMessages: [EncounterPanel_C_166] 0.75
+[2018.06.15-10.44.21:631][263]LogLoad: Took 0.087494 seconds to LoadMap(/Game/EncounterScene/Map/EncounterMap)
+[2018.06.15-10.44.30:819][811]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.15-10.44.30:936][818]LogBlueprintUserMessages: [EncounterPanel_C_166] Interact
+[2018.06.15-10.44.32:838][932]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.15-10.44.32:939][938]LogBlueprintUserMessages: [EncounterPanel_C_166] Attack
+[2018.06.15-10.44.32:939][938]LogScript: Warning: Accessed None trying to read property Layer
+	EncounterPanel_C /Engine/Transient.UnrealEdEngine_0:BP_Instance_ATBTT_C_36.EncounterPanel_C_166
+	Function /Game/EncounterScene/GameMode/EncounterPanel.EncounterPanel_C:ExecuteUbergraph_EncounterPanel:001A
+[2018.06.15-10.44.32:940][938]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property Layer from function: 'ExecuteUbergraph_EncounterPanel' from node: Change Layer in graph: EventGraph in object: EncounterPanel with description: Accessed None trying to read property Layer
+[2018.06.15-10.44.33:939][998]LogBlueprintUserMessages: [EncounterPanel_C_166] Flee
+[2018.06.15-10.44.35:579][ 96]LogBlueprintUserMessages: [EncounterPanel_C_166] Recall
+[2018.06.15-10.44.37:886][233]LogSlate: Window 'Advanced Turn Based Tile Toolkit Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.06.15-10.44.37:896][233]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Map/ULA.ULA:PersistentLevel' has LevelScriptBlueprint '/Game/Map/ULA.ULA:PersistentLevel.ULA' with GeneratedClass '/Game/Map/ULA.ULA_C' with ClassGeneratedBy '/Game/Map/ULA.ULA:PersistentLevel.ULA'
+[2018.06.15-10.44.37:937][233]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Map/ULA.ULA:PersistentLevel' has LevelScriptBlueprint '/Game/Map/ULA.ULA:PersistentLevel.ULA' with GeneratedClass '/Game/Map/ULA.ULA_C' with ClassGeneratedBy '/Game/Map/ULA.ULA:PersistentLevel.ULA'
+[2018.06.15-10.44.40:725][389]LogEditorViewport: Clicking on Actor (LMB): BP_GA_Tile_Box_02_C (GoToEncounter)
+[2018.06.15-10.45.09:775][125]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.15-10.45.10:803][183]LogAIModule: Creating AISystem for world EncounterMap
+[2018.06.15-10.45.12:114][183]LogSlate: Window 'Save Content' being destroyed
+[2018.06.15-10.45.12:153][183]LogSavePackage: Save=12.51ms
+[2018.06.15-10.45.12:153][183]LogSavePackage: Moving '../../../../Unreal_Projects/The-Unlucky-Astronautv2/Saved/BP_Instance_ATBTT2D4A87D44E64CD5121A99F8CC833D100.tmp' to '../../../../Unreal_Projects/The-Unlucky-Astronautv2/Content/AdvancedTurnBasedTileToolkit/Maps/MP/Core/BP_Instance_ATBTT.uasset'
+[2018.06.15-10.45.12:161][183]LogSavePackage: Display: Finished SavePackage ../../../../Unreal_Projects/The-Unlucky-Astronautv2/Content/AdvancedTurnBasedTileToolkit/Maps/MP/Core/BP_Instance_ATBTT.uasset
+[2018.06.15-10.45.12:162][183]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/EncounterScene/GameMode/EncounterPanel" FILE="../../../../Unreal_Projects/The-Unlucky-Astronautv2/Content/EncounterScene/GameMode/EncounterPanel.uasset" SILENT=true
+[2018.06.15-10.45.12:211][183]LogSavePackage: Save=39.37ms
+[2018.06.15-10.45.12:212][183]LogSavePackage: Moving '../../../../Unreal_Projects/The-Unlucky-Astronautv2/Saved/EncounterPanelDC82AFC944F11BA92B206FA34B3D3F14.tmp' to '../../../../Unreal_Projects/The-Unlucky-Astronautv2/Content/EncounterScene/GameMode/EncounterPanel.uasset'
+[2018.06.15-10.45.12:217][183]LogSavePackage: Display: Finished SavePackage ../../../../Unreal_Projects/The-Unlucky-Astronautv2/Content/EncounterScene/GameMode/EncounterPanel.uasset
+[2018.06.15-10.45.12:218][183]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/EncounterScene/GameMode/Layer_Change" FILE="../../../../Unreal_Projects/The-Unlucky-Astronautv2/Content/EncounterScene/GameMode/Layer_Change.uasset" SILENT=true
+[2018.06.15-10.45.12:242][183]LogSavePackage: Save=13.08ms
+[2018.06.15-10.45.12:242][183]LogSavePackage: Moving '../../../../Unreal_Projects/The-Unlucky-Astronautv2/Saved/Layer_ChangeD7A9E6FF428F141F644472BCDF590483.tmp' to '../../../../Unreal_Projects/The-Unlucky-Astronautv2/Content/EncounterScene/GameMode/Layer_Change.uasset'
+[2018.06.15-10.45.12:247][183]LogSavePackage: Display: Finished SavePackage ../../../../Unreal_Projects/The-Unlucky-Astronautv2/Content/EncounterScene/GameMode/Layer_Change.uasset
+[2018.06.15-10.45.12:330][183]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Map/ULA" FILE="../../../../Unreal_Projects/The-Unlucky-Astronautv2/Content/Map/ULA.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.06.15-10.45.12:380][183]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002b30980edc0, Size=32
+[2018.06.15-10.45.12:380][183]LogUObjectGlobals: Created PersistentFrame Addr=0x000002b30980edc0, Size=32, Default__ULA_C Function /Engine/Transient.REINST_ULA_C_525:ExecuteUbergraph_ULA
+[2018.06.15-10.45.12:382][183]LogUObjectGlobals: Created PersistentFrame Addr=0x000002b30980e400, Size=32, Default__ULA_C Function /Game/Map/ULA.ULA_C:ExecuteUbergraph_ULA
+[2018.06.15-10.45.12:553][183]LogSavePackage: Save=175.85ms
+[2018.06.15-10.45.12:553][183]LogSavePackage: Moving '../../../../Unreal_Projects/The-Unlucky-Astronautv2/Saved/ULA1862C4A14020A872264FA2A0E355DA33.tmp' to '../../../../Unreal_Projects/The-Unlucky-Astronautv2/Content/Map/ULA.umap'
+[2018.06.15-10.45.12:558][183]LogSavePackage: Display: Finished SavePackage ../../../../Unreal_Projects/The-Unlucky-Astronautv2/Content/Map/ULA.umap
+[2018.06.15-10.45.12:584][183]LogFileHelpers: Saving map 'ULA' took 0.337
+[2018.06.15-10.45.12:589][183]Cmd: MAP LOAD FILE="../../../../Unreal_Projects/The-Unlucky-Astronautv2/Content/EncounterScene/Map/EncounterMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.06.15-10.45.12:590][183]LightingResults: New page: Lighting Build
+[2018.06.15-10.45.12:591][183]LoadErrors: New page: Loading map: EncounterMap.umap
+[2018.06.15-10.45.12:593][183]MapCheck: New page: Map Check
+[2018.06.15-10.45.12:593][183]LightingResults: New page: Lighting Build
+[2018.06.15-10.45.12:627][183]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002b30980e400, Size=32
+[2018.06.15-10.45.12:630][183]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002b30980edc0, Size=32
+[2018.06.15-10.45.12:902][183]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.06.15-10.45.12:966][183]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.06.15-10.45.13:036][183]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 69.777ms to complete.
+[2018.06.15-10.45.13:037][183]LogFileHelpers: Loading map 'EncounterMap' took 0.453
+[2018.06.15-10.45.15:890][351]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.06.15-10.45.15:927][351]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/EncounterScene/Map/EncounterMap.EncounterMap:PersistentLevel' has LevelScriptBlueprint '/Game/EncounterScene/Map/EncounterMap.EncounterMap:PersistentLevel.EncounterMap' with GeneratedClass '/Game/EncounterScene/Map/EncounterMap.EncounterMap_C' with ClassGeneratedBy '/Game/EncounterScene/Map/EncounterMap.EncounterMap:PersistentLevel.EncounterMap'
+[2018.06.15-10.45.15:928][351]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.06.15-10.45.15:928][351]PIE: New page: PIE session: EncounterMap (15 ביוני 2018, 16:45:15)
+[2018.06.15-10.45.15:931][351]LogPlayLevel: Creating play world package: /Game/EncounterScene/Map/UEDPIE_0_EncounterMap
+[2018.06.15-10.45.15:932][351]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000928s)
+[2018.06.15-10.45.15:933][351]LogAIModule: Creating AISystem for world EncounterMap
+[2018.06.15-10.45.15:933][351]LogPlayLevel: PIE: World Init took: (0.000818s)
+[2018.06.15-10.45.15:933][351]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/EncounterScene/Map/EncounterMap.EncounterMap to /Game/EncounterScene/Map/UEDPIE_0_EncounterMap.EncounterMap (0.002250s)
+[2018.06.15-10.45.15:971][351]LogInit: XAudio2 using 'רמקולים/אזניות (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.06.15-10.45.16:049][351]LogInit: FAudioDevice initialized.
+[2018.06.15-10.45.16:180][351]LogLoad: Game class is 'EncounterGameMode_C'
+[2018.06.15-10.45.16:182][351]LogWorld: Bringing World /Game/EncounterScene/Map/UEDPIE_0_EncounterMap.EncounterMap up for play (max tick rate 60) at 2018.06.15-13.45.16
+[2018.06.15-10.45.16:182][351]LogWorld: Bringing up level for play took: 0.000759
+[2018.06.15-10.45.16:185][351]LogScriptCore: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/EncounterScene/GameMode/EncounterPanel.EncounterPanel_C:Construct
+	Function /Game/EncounterScene/GameMode/EncounterPanel.EncounterPanel_C:ExecuteUbergraph_EncounterPanel
+
+[2018.06.15-10.45.16:186][351]LogScriptCore: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/EncounterScene/GameMode/EncounterPanel.EncounterPanel_C:Construct
+	Function /Game/EncounterScene/GameMode/EncounterPanel.EncounterPanel_C:ExecuteUbergraph_EncounterPanel
+
+[2018.06.15-10.45.16:186][351]LogBlueprintUserMessages: [EncounterPanel_C_171] 0.0
+[2018.06.15-10.45.16:191][351]PIE: Play in editor start time for /Game/EncounterScene/Map/UEDPIE_0_EncounterMap 0.897
+[2018.06.15-10.45.16:192][351]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/EncounterScene/Map/EncounterMap.EncounterMap:PersistentLevel' has LevelScriptBlueprint '/Game/EncounterScene/Map/EncounterMap.EncounterMap:PersistentLevel.EncounterMap' with GeneratedClass '/Game/EncounterScene/Map/EncounterMap.EncounterMap_C' with ClassGeneratedBy '/Game/EncounterScene/Map/EncounterMap.EncounterMap:PersistentLevel.EncounterMap'
+[2018.06.15-10.45.25:257][887]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/EncounterScene/Map/EncounterMap.EncounterMap:PersistentLevel' has LevelScriptBlueprint '/Game/EncounterScene/Map/EncounterMap.EncounterMap:PersistentLevel.EncounterMap' with GeneratedClass '/Game/EncounterScene/Map/EncounterMap.EncounterMap_C' with ClassGeneratedBy '/Game/EncounterScene/Map/EncounterMap.EncounterMap:PersistentLevel.EncounterMap'
+[2018.06.15-10.45.25:276][887]LogSlate: Window 'Advanced Turn Based Tile Toolkit Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.06.15-10.45.25:314][887]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/EncounterScene/Map/EncounterMap.EncounterMap:PersistentLevel' has LevelScriptBlueprint '/Game/EncounterScene/Map/EncounterMap.EncounterMap:PersistentLevel.EncounterMap' with GeneratedClass '/Game/EncounterScene/Map/EncounterMap.EncounterMap_C' with ClassGeneratedBy '/Game/EncounterScene/Map/EncounterMap.EncounterMap:PersistentLevel.EncounterMap'
+[2018.06.15-10.48.46:181][889]LogUObjectGlobals: Created PersistentFrame Addr=0x000002b305bf8170, Size=4, Default__SKEL_BP_GA_Tile_Box_02_C Function /Game/AdvancedTurnBasedTileToolkit/Maps/Advanced/Tiles/BP_GA_Tile_Box_02.SKEL_BP_GA_Tile_Box_02_C:ExecuteUbergraph_BP_GA_Tile_Box_02
+[2018.06.15-10.48.46:183][889]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/AdvancedTurnBasedTileToolkit/Core/Grid/BP_GridActor.BP_GridActor_C:UserConstructionScript'!
+[2018.06.15-10.48.46:184][889]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/AdvancedTurnBasedTileToolkit/Core/Grid/BP_GridActor.BP_GridActor_C:UserConstructionScript'!
+[2018.06.15-10.48.46:185][889]LogScript: Warning: Accessed None trying to read property GridManagerRef
+	BP_GA_Tile_Box_02_C /Engine/Transient.World_18:PersistentLevel.BP_GA_Tile_Box_02_C_461
+	Function /Game/AdvancedTurnBasedTileToolkit/Core/Grid/BP_GridActor.BP_GridActor_C:UserConstructionScript:00AB
+[2018.06.15-10.48.46:185][889]LogScript: Warning: Accessed None trying to read property GridManagerRef
+	BP_GA_Tile_Box_02_C /Engine/Transient.World_18:PersistentLevel.BP_GA_Tile_Box_02_C_461
+	Function /Game/AdvancedTurnBasedTileToolkit/Core/Grid/BP_GridActor.BP_GridActor_C:UserConstructionScript:01BA
+[2018.06.15-10.48.46:185][889]LogScript: Warning: Accessed None trying to read property GridManagerRef
+	BP_GA_Tile_Box_02_C /Engine/Transient.World_18:PersistentLevel.BP_GA_Tile_Box_02_C_461
+	Function /Game/AdvancedTurnBasedTileToolkit/Core/Grid/BP_GridActor.BP_GridActor_C:UserConstructionScript:0168
+[2018.06.15-10.48.55:547][448]BlueprintLog: New page: Compile BP_GA_Tile_Box_02
+[2018.06.15-10.48.55:555][448]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002b305bf8170, Size=4
+[2018.06.15-10.48.55:555][448]LogUObjectGlobals: Created PersistentFrame Addr=0x000002b305bf8170, Size=4, Default__SKEL_BP_GA_Tile_Box_02_C Function /Engine/Transient.REINST_SKEL_BP_GA_Tile_Box_02_C_529:ExecuteUbergraph_BP_GA_Tile_Box_02
+[2018.06.15-10.48.55:563][448]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002b3a5293000, Size=248
+[2018.06.15-10.48.55:564][448]LogUObjectGlobals: Created PersistentFrame Addr=0x000002b306473400, Size=248, Default__BP_GA_Tile_Box_02_C Function /Engine/Transient.REINST_BP_GA_Tile_Box_02_C_531:ExecuteUbergraph_BP_GA_Tile_Box_02
+[2018.06.15-10.48.55:570][448]LogUObjectGlobals: Created PersistentFrame Addr=0x000002b3064a7100, Size=704, Default__BP_GA_Tile_Box_02_C Function /Game/AdvancedTurnBasedTileToolkit/Maps/Advanced/Tiles/BP_GA_Tile_Box_02.BP_GA_Tile_Box_02_C:ExecuteUbergraph_BP_GA_Tile_Box_02
+[2018.06.15-10.48.55:573][448]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/AdvancedTurnBasedTileToolkit/Core/Grid/BP_GridActor.BP_GridActor_C:UserConstructionScript'!
+[2018.06.15-10.48.55:689][448]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/AdvancedTurnBasedTileToolkit/Core/Grid/BP_GridActor.BP_GridActor_C:UserConstructionScript'!
+[2018.06.15-10.48.55:690][448]LogScript: Warning: Accessed None trying to read property GridManagerRef
+	BP_GA_Tile_Box_02_C /Engine/Transient.World_18:PersistentLevel.BP_GA_Tile_Box_02_C_461
+	Function /Game/AdvancedTurnBasedTileToolkit/Core/Grid/BP_GridActor.BP_GridActor_C:UserConstructionScript:00AB
+[2018.06.15-10.48.55:690][448]LogScript: Warning: Accessed None trying to read property GridManagerRef
+	BP_GA_Tile_Box_02_C /Engine/Transient.World_18:PersistentLevel.BP_GA_Tile_Box_02_C_461
+	Function /Game/AdvancedTurnBasedTileToolkit/Core/Grid/BP_GridActor.BP_GridActor_C:UserConstructionScript:01BA
+[2018.06.15-10.48.55:691][448]LogScript: Warning: Accessed None trying to read property GridManagerRef
+	BP_GA_Tile_Box_02_C /Engine/Transient.World_18:PersistentLevel.BP_GA_Tile_Box_02_C_461
+	Function /Game/AdvancedTurnBasedTileToolkit/Core/Grid/BP_GridActor.BP_GridActor_C:UserConstructionScript:0168
+[2018.06.15-10.48.55:949][448]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002b305bf8170, Size=4
+[2018.06.15-10.48.55:951][448]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/AdvancedTurnBasedTileToolkit/Core/Grid/BP_GridActor.BP_GridActor_C:UserConstructionScript'!
+[2018.06.15-10.48.55:952][448]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/AdvancedTurnBasedTileToolkit/Core/Grid/BP_GridActor.BP_GridActor_C:UserConstructionScript'!
+[2018.06.15-10.48.55:953][448]LogScript: Warning: Accessed None trying to read property GridManagerRef
+	BP_GA_Tile_Box_02_C /Engine/Transient.World_18:PersistentLevel.BP_GA_Tile_Box_02_C_461
+	Function /Game/AdvancedTurnBasedTileToolkit/Core/Grid/BP_GridActor.BP_GridActor_C:UserConstructionScript:00AB
+[2018.06.15-10.48.55:953][448]LogScript: Warning: Accessed None trying to read property GridManagerRef
+	BP_GA_Tile_Box_02_C /Engine/Transient.World_18:PersistentLevel.BP_GA_Tile_Box_02_C_461
+	Function /Game/AdvancedTurnBasedTileToolkit/Core/Grid/BP_GridActor.BP_GridActor_C:UserConstructionScript:01BA
+[2018.06.15-10.48.55:953][448]LogScript: Warning: Accessed None trying to read property GridManagerRef
+	BP_GA_Tile_Box_02_C /Engine/Transient.World_18:PersistentLevel.BP_GA_Tile_Box_02_C_461
+	Function /Game/AdvancedTurnBasedTileToolkit/Core/Grid/BP_GridActor.BP_GridActor_C:UserConstructionScript:0168
+[2018.06.15-10.48.55:955][448]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/AdvancedTurnBasedTileToolkit/Core/Grid/BP_GridActor.BP_GridActor_C:UserConstructionScript'!
+[2018.06.15-10.48.55:955][448]LogScript: Warning: Accessed None trying to read property GridManagerRef
+	BP_GA_Tile_Box_02_C /Engine/Transient.World_18:PersistentLevel.BP_GA_Tile_Box_02_C_486
+	Function /Game/AdvancedTurnBasedTileToolkit/Core/Grid/BP_GridActor.BP_GridActor_C:UserConstructionScript:00AB
+[2018.06.15-10.48.55:955][448]LogScript: Warning: Accessed None trying to read property GridManagerRef
+	BP_GA_Tile_Box_02_C /Engine/Transient.World_18:PersistentLevel.BP_GA_Tile_Box_02_C_486
+	Function /Game/AdvancedTurnBasedTileToolkit/Core/Grid/BP_GridActor.BP_GridActor_C:UserConstructionScript:01BA
+[2018.06.15-10.48.55:956][448]LogScript: Warning: Accessed None trying to read property GridManagerRef
+	BP_GA_Tile_Box_02_C /Engine/Transient.World_18:PersistentLevel.BP_GA_Tile_Box_02_C_486
+	Function /Game/AdvancedTurnBasedTileToolkit/Core/Grid/BP_GridActor.BP_GridActor_C:UserConstructionScript:0168
+[2018.06.15-10.48.55:966][448]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/AdvancedTurnBasedTileToolkit/Core/Grid/BP_GridActor.BP_GridActor_C:UserConstructionScript'!
+[2018.06.15-10.48.55:967][448]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/AdvancedTurnBasedTileToolkit/Core/Grid/BP_GridActor.BP_GridActor_C:UserConstructionScript'!
+[2018.06.15-10.48.55:967][448]LogScript: Warning: Accessed None trying to read property GridManagerRef
+	BP_GA_Tile_Box_02_C /Engine/Transient.World_18:PersistentLevel.BP_GA_Tile_Box_02_C_486
+	Function /Game/AdvancedTurnBasedTileToolkit/Core/Grid/BP_GridActor.BP_GridActor_C:UserConstructionScript:00AB
+[2018.06.15-10.48.55:968][448]LogScript: Warning: Accessed None trying to read property GridManagerRef
+	BP_GA_Tile_Box_02_C /Engine/Transient.World_18:PersistentLevel.BP_GA_Tile_Box_02_C_486
+	Function /Game/AdvancedTurnBasedTileToolkit/Core/Grid/BP_GridActor.BP_GridActor_C:UserConstructionScript:01BA
+[2018.06.15-10.48.55:969][448]LogScript: Warning: Accessed None trying to read property GridManagerRef
+	BP_GA_Tile_Box_02_C /Engine/Transient.World_18:PersistentLevel.BP_GA_Tile_Box_02_C_486
+	Function /Game/AdvancedTurnBasedTileToolkit/Core/Grid/BP_GridActor.BP_GridActor_C:UserConstructionScript:0168
+[2018.06.15-10.48.56:450][475]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.06.15-10.48.56:482][475]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/EncounterScene/Map/EncounterMap.EncounterMap:PersistentLevel' has LevelScriptBlueprint '/Game/EncounterScene/Map/EncounterMap.EncounterMap:PersistentLevel.EncounterMap' with GeneratedClass '/Game/EncounterScene/Map/EncounterMap.EncounterMap_C' with ClassGeneratedBy '/Game/EncounterScene/Map/EncounterMap.EncounterMap:PersistentLevel.EncounterMap'
+[2018.06.15-10.48.56:483][475]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.06.15-10.48.56:483][475]PIE: New page: PIE session: EncounterMap (15 ביוני 2018, 16:48:56)
+[2018.06.15-10.48.56:484][475]LogPlayLevel: Creating play world package: /Game/EncounterScene/Map/UEDPIE_0_EncounterMap
+[2018.06.15-10.48.56:485][475]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000998s)
+[2018.06.15-10.48.56:485][475]LogAIModule: Creating AISystem for world EncounterMap
+[2018.06.15-10.48.56:486][475]LogPlayLevel: PIE: World Init took: (0.000805s)
+[2018.06.15-10.48.56:486][475]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/EncounterScene/Map/EncounterMap.EncounterMap to /Game/EncounterScene/Map/UEDPIE_0_EncounterMap.EncounterMap (0.002461s)
+[2018.06.15-10.48.56:519][475]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002b306473400, Size=248
+[2018.06.15-10.48.56:523][475]LogInit: XAudio2 using 'רמקולים/אזניות (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.06.15-10.48.56:600][475]LogInit: FAudioDevice initialized.
+[2018.06.15-10.48.56:746][475]LogLoad: Game class is 'EncounterGameMode_C'
+[2018.06.15-10.48.56:748][475]LogWorld: Bringing World /Game/EncounterScene/Map/UEDPIE_0_EncounterMap.EncounterMap up for play (max tick rate 60) at 2018.06.15-13.48.56
+[2018.06.15-10.48.56:748][475]LogWorld: Bringing up level for play took: 0.000974
+[2018.06.15-10.48.56:750][475]LogScriptCore: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/EncounterScene/GameMode/EncounterPanel.EncounterPanel_C:Construct
+	Function /Game/EncounterScene/GameMode/EncounterPanel.EncounterPanel_C:ExecuteUbergraph_EncounterPanel
+
+[2018.06.15-10.48.56:750][475]LogScriptCore: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/EncounterScene/GameMode/EncounterPanel.EncounterPanel_C:Construct
+	Function /Game/EncounterScene/GameMode/EncounterPanel.EncounterPanel_C:ExecuteUbergraph_EncounterPanel
+
+[2018.06.15-10.48.56:751][475]LogBlueprintUserMessages: [EncounterPanel_C_175] 0.0
+[2018.06.15-10.48.56:755][475]PIE: Play in editor start time for /Game/EncounterScene/Map/UEDPIE_0_EncounterMap ‎-0.539
+[2018.06.15-10.48.56:756][475]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/EncounterScene/Map/EncounterMap.EncounterMap:PersistentLevel' has LevelScriptBlueprint '/Game/EncounterScene/Map/EncounterMap.EncounterMap:PersistentLevel.EncounterMap' with GeneratedClass '/Game/EncounterScene/Map/EncounterMap.EncounterMap_C' with ClassGeneratedBy '/Game/EncounterScene/Map/EncounterMap.EncounterMap:PersistentLevel.EncounterMap'
+[2018.06.15-10.48.58:228][557]LogSlate: Window 'Advanced Turn Based Tile Toolkit Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.06.15-10.48.58:237][557]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/EncounterScene/Map/EncounterMap.EncounterMap:PersistentLevel' has LevelScriptBlueprint '/Game/EncounterScene/Map/EncounterMap.EncounterMap:PersistentLevel.EncounterMap' with GeneratedClass '/Game/EncounterScene/Map/EncounterMap.EncounterMap_C' with ClassGeneratedBy '/Game/EncounterScene/Map/EncounterMap.EncounterMap:PersistentLevel.EncounterMap'
+[2018.06.15-10.48.58:278][557]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/EncounterScene/Map/EncounterMap.EncounterMap:PersistentLevel' has LevelScriptBlueprint '/Game/EncounterScene/Map/EncounterMap.EncounterMap:PersistentLevel.EncounterMap' with GeneratedClass '/Game/EncounterScene/Map/EncounterMap.EncounterMap_C' with ClassGeneratedBy '/Game/EncounterScene/Map/EncounterMap.EncounterMap:PersistentLevel.EncounterMap'
+[2018.06.15-10.49.01:600][712]LogUObjectGlobals: Created PersistentFrame Addr=0x000002b3a6eeaf20, Size=32, Default__ULA_C Function /Game/Map/ULA.ULA_C:ExecuteUbergraph_ULA
+[2018.06.15-10.49.01:602][712]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002b3a6eeaf20, Size=32
+[2018.06.15-10.49.01:603][712]LogUObjectGlobals: Created PersistentFrame Addr=0x000002b3a6eeaf20, Size=32, Default__ULA_C Function /Engine/Transient.REINST_ULA_C_533:ExecuteUbergraph_ULA
+[2018.06.15-10.49.01:604][712]LogUObjectGlobals: Created PersistentFrame Addr=0x000002b3a6eea2e0, Size=32, Default__ULA_C Function /Game/Map/ULA.ULA_C:ExecuteUbergraph_ULA
+[2018.06.15-10.49.01:622][712]LogAIModule: Creating AISystem for world ULA
+[2018.06.15-10.49.01:677][712]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002b3a6eeaf20, Size=32
+[2018.06.15-10.49.02:859][712]LogSlate: Window 'Save Content' being destroyed
+[2018.06.15-10.49.02:952][712]LogSavePackage: Save=40.43ms
+[2018.06.15-10.49.02:952][712]LogSavePackage: Moving '../../../../Unreal_Projects/The-Unlucky-Astronautv2/Saved/BP_GA_Tile_Box_0243254B9242D94D0EA91307B287C61DC0.tmp' to '../../../../Unreal_Projects/The-Unlucky-Astronautv2/Content/AdvancedTurnBasedTileToolkit/Maps/Advanced/Tiles/BP_GA_Tile_Box_02.uasset'
+[2018.06.15-10.49.02:955][712]LogSavePackage: Display: Finished SavePackage ../../../../Unreal_Projects/The-Unlucky-Astronautv2/Content/AdvancedTurnBasedTileToolkit/Maps/Advanced/Tiles/BP_GA_Tile_Box_02.uasset
+[2018.06.15-10.49.02:957][712]Cmd: MAP LOAD FILE="../../../../Unreal_Projects/The-Unlucky-Astronautv2/Content/Map/ULA.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.06.15-10.49.02:958][712]LightingResults: New page: Lighting Build
+[2018.06.15-10.49.02:959][712]LoadErrors: New page: Loading map: ULA.umap
+[2018.06.15-10.49.02:959][712]MapCheck: New page: Map Check
+[2018.06.15-10.49.02:960][712]LightingResults: New page: Lighting Build
+[2018.06.15-10.49.03:703][712]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.06.15-10.49.03:764][712]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.06.15-10.49.03:837][712]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 72.198ms to complete.
+[2018.06.15-10.49.03:837][712]LogFileHelpers: Loading map 'ULA' took 0.882
+[2018.06.15-10.49.05:479][804]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.06.15-10.49.05:551][804]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Map/ULA.ULA:PersistentLevel' has LevelScriptBlueprint '/Game/Map/ULA.ULA:PersistentLevel.ULA' with GeneratedClass '/Game/Map/ULA.ULA_C' with ClassGeneratedBy '/Game/Map/ULA.ULA:PersistentLevel.ULA'
+[2018.06.15-10.49.05:552][804]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.06.15-10.49.05:552][804]PIE: New page: PIE session: ULA (15 ביוני 2018, 16:49:05)
+[2018.06.15-10.49.05:553][804]LogPlayLevel: Creating play world package: /Game/Map/UEDPIE_0_ULA
+[2018.06.15-10.49.05:558][804]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005386s)
+[2018.06.15-10.49.05:559][804]LogAIModule: Creating AISystem for world ULA
+[2018.06.15-10.49.05:560][804]LogPlayLevel: PIE: World Init took: (0.000819s)
+[2018.06.15-10.49.05:560][804]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Map/ULA.ULA to /Game/Map/UEDPIE_0_ULA.ULA (0.006985s)
+[2018.06.15-10.49.05:597][804]LogInit: XAudio2 using 'רמקולים/אזניות (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.06.15-10.49.05:675][804]LogInit: FAudioDevice initialized.
+[2018.06.15-10.49.05:831][804]LogLoad: Game class is 'BP_ATBTT_C'
+[2018.06.15-10.49.05:834][804]LogWorld: Bringing World /Game/Map/UEDPIE_0_ULA.ULA up for play (max tick rate 60) at 2018.06.15-13.49.05
+[2018.06.15-10.49.05:834][804]LogWorld: Bringing up level for play took: 0.002032
+[2018.06.15-10.49.05:835][804]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2018.06.15-10.49.05:835][804]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2018.06.15-10.49.05:835][804]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2018.06.15-10.49.05:841][804]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2018.06.15-10.49.05:846][804]PIE: Play in editor start time for /Game/Map/UEDPIE_0_ULA 0.551
+[2018.06.15-10.49.05:847][804]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Map/ULA.ULA:PersistentLevel' has LevelScriptBlueprint '/Game/Map/ULA.ULA:PersistentLevel.ULA' with GeneratedClass '/Game/Map/ULA.ULA_C' with ClassGeneratedBy '/Game/Map/ULA.ULA:PersistentLevel.ULA'
+[2018.06.15-10.49.06:783][853]LogBlueprintUserMessages: [GoToEncounter] Cool
+[2018.06.15-10.49.06:794][854]LogGameMode: Display: Match State Changed from InProgress to LeavingMap
+[2018.06.15-10.49.06:794][854]LogGameState: Match State Changed from InProgress to LeavingMap
+[2018.06.15-10.49.06:795][854]LogNet: Browse: /Game/EncounterScene/Map/EncounterMap
+[2018.06.15-10.49.06:796][854]LogLoad: LoadMap: /Game/EncounterScene/Map/EncounterMap
+[2018.06.15-10.49.06:905][854]LogAIModule: Creating AISystem for world EncounterMap
+[2018.06.15-10.49.06:905][854]LogLoad: Game class is 'EncounterGameMode_C'
+[2018.06.15-10.49.06:907][854]LogWorld: Bringing World /Game/EncounterScene/Map/UEDPIE_0_EncounterMap.EncounterMap up for play (max tick rate 60) at 2018.06.15-13.49.06
+[2018.06.15-10.49.06:908][854]LogWorld: Bringing up level for play took: 0.001465
+[2018.06.15-10.49.06:910][854]LogBlueprintUserMessages: [EncounterPanel_C_180] 0.75
+[2018.06.15-10.49.06:910][854]LogLoad: Took 0.113835 seconds to LoadMap(/Game/EncounterScene/Map/EncounterMap)
+[2018.06.15-10.49.08:775][958]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.15-10.49.08:890][964]LogSlate: Window 'Advanced Turn Based Tile Toolkit Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.06.15-10.49.08:900][964]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Map/ULA.ULA:PersistentLevel' has LevelScriptBlueprint '/Game/Map/ULA.ULA:PersistentLevel.ULA' with GeneratedClass '/Game/Map/ULA.ULA_C' with ClassGeneratedBy '/Game/Map/ULA.ULA:PersistentLevel.ULA'
+[2018.06.15-10.49.08:936][964]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Map/ULA.ULA:PersistentLevel' has LevelScriptBlueprint '/Game/Map/ULA.ULA:PersistentLevel.ULA' with GeneratedClass '/Game/Map/ULA.ULA_C' with ClassGeneratedBy '/Game/Map/ULA.ULA:PersistentLevel.ULA'
+[2018.06.15-10.49.45:510][135]BlueprintLog: New page: Compile BP_GA_Tile_Box_02
+[2018.06.15-10.49.45:526][135]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002b3064a7100, Size=704
+[2018.06.15-10.49.45:526][135]LogUObjectGlobals: Created PersistentFrame Addr=0x000002b3064a7100, Size=704, Default__BP_GA_Tile_Box_02_C Function /Engine/Transient.REINST_BP_GA_Tile_Box_02_C_537:ExecuteUbergraph_BP_GA_Tile_Box_02
+[2018.06.15-10.49.45:532][135]LogUObjectGlobals: Created PersistentFrame Addr=0x000002b38c549f00, Size=704, Default__BP_GA_Tile_Box_02_C Function /Game/AdvancedTurnBasedTileToolkit/Maps/Advanced/Tiles/BP_GA_Tile_Box_02.BP_GA_Tile_Box_02_C:ExecuteUbergraph_BP_GA_Tile_Box_02
+[2018.06.15-10.49.45:536][135]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/AdvancedTurnBasedTileToolkit/Core/Grid/BP_GridActor.BP_GridActor_C:UserConstructionScript'!
+[2018.06.15-10.49.45:760][135]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/AdvancedTurnBasedTileToolkit/Core/Grid/BP_GridActor.BP_GridActor_C:UserConstructionScript'!
+[2018.06.15-10.49.45:760][135]LogScript: Warning: Accessed None trying to read property GridManagerRef
+	BP_GA_Tile_Box_02_C /Engine/Transient.World_18:PersistentLevel.BP_GA_Tile_Box_02_C_486
+	Function /Game/AdvancedTurnBasedTileToolkit/Core/Grid/BP_GridActor.BP_GridActor_C:UserConstructionScript:00AB
+[2018.06.15-10.49.45:761][135]LogScript: Warning: Accessed None trying to read property GridManagerRef
+	BP_GA_Tile_Box_02_C /Engine/Transient.World_18:PersistentLevel.BP_GA_Tile_Box_02_C_486
+	Function /Game/AdvancedTurnBasedTileToolkit/Core/Grid/BP_GridActor.BP_GridActor_C:UserConstructionScript:01BA
+[2018.06.15-10.49.45:761][135]LogScript: Warning: Accessed None trying to read property GridManagerRef
+	BP_GA_Tile_Box_02_C /Engine/Transient.World_18:PersistentLevel.BP_GA_Tile_Box_02_C_486
+	Function /Game/AdvancedTurnBasedTileToolkit/Core/Grid/BP_GridActor.BP_GridActor_C:UserConstructionScript:0168
+[2018.06.15-10.49.46:024][135]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/AdvancedTurnBasedTileToolkit/Core/Grid/BP_GridActor.BP_GridActor_C:UserConstructionScript'!
+[2018.06.15-10.49.46:025][135]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/AdvancedTurnBasedTileToolkit/Core/Grid/BP_GridActor.BP_GridActor_C:UserConstructionScript'!
+[2018.06.15-10.49.46:026][135]LogScript: Warning: Accessed None trying to read property GridManagerRef
+	BP_GA_Tile_Box_02_C /Engine/Transient.World_18:PersistentLevel.BP_GA_Tile_Box_02_C_486
+	Function /Game/AdvancedTurnBasedTileToolkit/Core/Grid/BP_GridActor.BP_GridActor_C:UserConstructionScript:00AB
+[2018.06.15-10.49.46:026][135]LogScript: Warning: Accessed None trying to read property GridManagerRef
+	BP_GA_Tile_Box_02_C /Engine/Transient.World_18:PersistentLevel.BP_GA_Tile_Box_02_C_486
+	Function /Game/AdvancedTurnBasedTileToolkit/Core/Grid/BP_GridActor.BP_GridActor_C:UserConstructionScript:01BA
+[2018.06.15-10.49.46:027][135]LogScript: Warning: Accessed None trying to read property GridManagerRef
+	BP_GA_Tile_Box_02_C /Engine/Transient.World_18:PersistentLevel.BP_GA_Tile_Box_02_C_486
+	Function /Game/AdvancedTurnBasedTileToolkit/Core/Grid/BP_GridActor.BP_GridActor_C:UserConstructionScript:0168
+[2018.06.15-10.49.46:028][135]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/AdvancedTurnBasedTileToolkit/Core/Grid/BP_GridActor.BP_GridActor_C:UserConstructionScript'!
+[2018.06.15-10.49.46:028][135]LogScript: Warning: Accessed None trying to read property GridManagerRef
+	BP_GA_Tile_Box_02_C /Engine/Transient.World_18:PersistentLevel.BP_GA_Tile_Box_02_C_503
+	Function /Game/AdvancedTurnBasedTileToolkit/Core/Grid/BP_GridActor.BP_GridActor_C:UserConstructionScript:00AB
+[2018.06.15-10.49.46:028][135]LogScript: Warning: Accessed None trying to read property GridManagerRef
+	BP_GA_Tile_Box_02_C /Engine/Transient.World_18:PersistentLevel.BP_GA_Tile_Box_02_C_503
+	Function /Game/AdvancedTurnBasedTileToolkit/Core/Grid/BP_GridActor.BP_GridActor_C:UserConstructionScript:01BA
+[2018.06.15-10.49.46:029][135]LogScript: Warning: Accessed None trying to read property GridManagerRef
+	BP_GA_Tile_Box_02_C /Engine/Transient.World_18:PersistentLevel.BP_GA_Tile_Box_02_C_503
+	Function /Game/AdvancedTurnBasedTileToolkit/Core/Grid/BP_GridActor.BP_GridActor_C:UserConstructionScript:0168
+[2018.06.15-10.49.46:041][135]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/AdvancedTurnBasedTileToolkit/Core/Grid/BP_GridActor.BP_GridActor_C:UserConstructionScript'!
+[2018.06.15-10.49.46:042][135]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/AdvancedTurnBasedTileToolkit/Core/Grid/BP_GridActor.BP_GridActor_C:UserConstructionScript'!
+[2018.06.15-10.49.46:043][135]LogScript: Warning: Accessed None trying to read property GridManagerRef
+	BP_GA_Tile_Box_02_C /Engine/Transient.World_18:PersistentLevel.BP_GA_Tile_Box_02_C_503
+	Function /Game/AdvancedTurnBasedTileToolkit/Core/Grid/BP_GridActor.BP_GridActor_C:UserConstructionScript:00AB
+[2018.06.15-10.49.46:043][135]LogScript: Warning: Accessed None trying to read property GridManagerRef
+	BP_GA_Tile_Box_02_C /Engine/Transient.World_18:PersistentLevel.BP_GA_Tile_Box_02_C_503
+	Function /Game/AdvancedTurnBasedTileToolkit/Core/Grid/BP_GridActor.BP_GridActor_C:UserConstructionScript:01BA
+[2018.06.15-10.49.46:043][135]LogScript: Warning: Accessed None trying to read property GridManagerRef
+	BP_GA_Tile_Box_02_C /Engine/Transient.World_18:PersistentLevel.BP_GA_Tile_Box_02_C_503
+	Function /Game/AdvancedTurnBasedTileToolkit/Core/Grid/BP_GridActor.BP_GridActor_C:UserConstructionScript:0168
+[2018.06.15-10.49.46:691][172]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.06.15-10.49.46:744][172]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Map/ULA.ULA:PersistentLevel' has LevelScriptBlueprint '/Game/Map/ULA.ULA:PersistentLevel.ULA' with GeneratedClass '/Game/Map/ULA.ULA_C' with ClassGeneratedBy '/Game/Map/ULA.ULA:PersistentLevel.ULA'
+[2018.06.15-10.49.46:745][172]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.06.15-10.49.46:745][172]PIE: New page: PIE session: ULA (15 ביוני 2018, 16:49:46)
+[2018.06.15-10.49.46:748][172]LogPlayLevel: Creating play world package: /Game/Map/UEDPIE_0_ULA
+[2018.06.15-10.49.46:751][172]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002798s)
+[2018.06.15-10.49.46:753][172]LogAIModule: Creating AISystem for world ULA
+[2018.06.15-10.49.46:753][172]LogPlayLevel: PIE: World Init took: (0.001285s)
+[2018.06.15-10.49.46:753][172]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Map/ULA.ULA to /Game/Map/UEDPIE_0_ULA.ULA (0.004756s)
+[2018.06.15-10.49.46:795][172]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002b3064a7100, Size=704
+[2018.06.15-10.49.46:800][172]LogInit: XAudio2 using 'רמקולים/אזניות (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.06.15-10.49.46:881][172]LogInit: FAudioDevice initialized.
+[2018.06.15-10.49.46:977][172]LogLoad: Game class is 'BP_ATBTT_C'
+[2018.06.15-10.49.46:980][172]LogWorld: Bringing World /Game/Map/UEDPIE_0_ULA.ULA up for play (max tick rate 60) at 2018.06.15-13.49.46
+[2018.06.15-10.49.46:980][172]LogWorld: Bringing up level for play took: 0.002152
+[2018.06.15-10.49.46:981][172]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2018.06.15-10.49.46:981][172]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2018.06.15-10.49.46:981][172]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2018.06.15-10.49.46:985][172]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2018.06.15-10.49.46:988][172]PIE: Play in editor start time for /Game/Map/UEDPIE_0_ULA ‎-0.306
+[2018.06.15-10.49.46:989][172]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Map/ULA.ULA:PersistentLevel' has LevelScriptBlueprint '/Game/Map/ULA.ULA:PersistentLevel.ULA' with GeneratedClass '/Game/Map/ULA.ULA_C' with ClassGeneratedBy '/Game/Map/ULA.ULA:PersistentLevel.ULA'
+[2018.06.15-10.49.47:949][221]LogBlueprintUserMessages: [GoToEncounter] Cool
+[2018.06.15-10.49.47:960][222]LogGameMode: Display: Match State Changed from InProgress to LeavingMap
+[2018.06.15-10.49.47:961][222]LogGameState: Match State Changed from InProgress to LeavingMap
+[2018.06.15-10.49.47:961][222]LogNet: Browse: /Game/EncounterScene/Map/EncounterMap
+[2018.06.15-10.49.47:962][222]LogLoad: LoadMap: /Game/EncounterScene/Map/EncounterMap
+[2018.06.15-10.49.48:030][222]LogAIModule: Creating AISystem for world EncounterMap
+[2018.06.15-10.49.48:031][222]LogLoad: Game class is 'EncounterGameMode_C'
+[2018.06.15-10.49.48:033][222]LogWorld: Bringing World /Game/EncounterScene/Map/UEDPIE_0_EncounterMap.EncounterMap up for play (max tick rate 60) at 2018.06.15-13.49.48
+[2018.06.15-10.49.48:033][222]LogWorld: Bringing up level for play took: 0.001175
+[2018.06.15-10.49.48:035][222]LogBlueprintUserMessages: [EncounterPanel_C_185] 0.75
+[2018.06.15-10.49.48:035][222]LogLoad: Took 0.073254 seconds to LoadMap(/Game/EncounterScene/Map/EncounterMap)
+[2018.06.15-10.49.49:565][314]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.15-10.49.49:680][320]LogSlate: Window 'Advanced Turn Based Tile Toolkit Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.06.15-10.49.49:688][320]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Map/ULA.ULA:PersistentLevel' has LevelScriptBlueprint '/Game/Map/ULA.ULA:PersistentLevel.ULA' with GeneratedClass '/Game/Map/ULA.ULA_C' with ClassGeneratedBy '/Game/Map/ULA.ULA:PersistentLevel.ULA'
+[2018.06.15-10.49.49:729][320]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Map/ULA.ULA:PersistentLevel' has LevelScriptBlueprint '/Game/Map/ULA.ULA:PersistentLevel.ULA' with GeneratedClass '/Game/Map/ULA.ULA_C' with ClassGeneratedBy '/Game/Map/ULA.ULA:PersistentLevel.ULA'
+[2018.06.15-10.49.59:251][882]BlueprintLog: New page: Compile BP_GA_Tile_Box_02
+[2018.06.15-10.49.59:267][882]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002b38c549f00, Size=704
+[2018.06.15-10.49.59:268][882]LogUObjectGlobals: Created PersistentFrame Addr=0x000002b322f51f00, Size=704, Default__BP_GA_Tile_Box_02_C Function /Engine/Transient.REINST_BP_GA_Tile_Box_02_C_541:ExecuteUbergraph_BP_GA_Tile_Box_02
+[2018.06.15-10.49.59:273][882]LogUObjectGlobals: Created PersistentFrame Addr=0x000002b26a072200, Size=704, Default__BP_GA_Tile_Box_02_C Function /Game/AdvancedTurnBasedTileToolkit/Maps/Advanced/Tiles/BP_GA_Tile_Box_02.BP_GA_Tile_Box_02_C:ExecuteUbergraph_BP_GA_Tile_Box_02
+[2018.06.15-10.49.59:277][882]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/AdvancedTurnBasedTileToolkit/Core/Grid/BP_GridActor.BP_GridActor_C:UserConstructionScript'!
+[2018.06.15-10.49.59:506][882]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/AdvancedTurnBasedTileToolkit/Core/Grid/BP_GridActor.BP_GridActor_C:UserConstructionScript'!
+[2018.06.15-10.49.59:506][882]LogScript: Warning: Accessed None trying to read property GridManagerRef
+	BP_GA_Tile_Box_02_C /Engine/Transient.World_18:PersistentLevel.BP_GA_Tile_Box_02_C_503
+	Function /Game/AdvancedTurnBasedTileToolkit/Core/Grid/BP_GridActor.BP_GridActor_C:UserConstructionScript:00AB
+[2018.06.15-10.49.59:506][882]LogScript: Warning: Accessed None trying to read property GridManagerRef
+	BP_GA_Tile_Box_02_C /Engine/Transient.World_18:PersistentLevel.BP_GA_Tile_Box_02_C_503
+	Function /Game/AdvancedTurnBasedTileToolkit/Core/Grid/BP_GridActor.BP_GridActor_C:UserConstructionScript:01BA
+[2018.06.15-10.49.59:507][882]LogScript: Warning: Accessed None trying to read property GridManagerRef
+	BP_GA_Tile_Box_02_C /Engine/Transient.World_18:PersistentLevel.BP_GA_Tile_Box_02_C_503
+	Function /Game/AdvancedTurnBasedTileToolkit/Core/Grid/BP_GridActor.BP_GridActor_C:UserConstructionScript:0168
+[2018.06.15-10.49.59:765][882]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/AdvancedTurnBasedTileToolkit/Core/Grid/BP_GridActor.BP_GridActor_C:UserConstructionScript'!
+[2018.06.15-10.49.59:768][882]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/AdvancedTurnBasedTileToolkit/Core/Grid/BP_GridActor.BP_GridActor_C:UserConstructionScript'!
+[2018.06.15-10.49.59:768][882]LogScript: Warning: Accessed None trying to read property GridManagerRef
+	BP_GA_Tile_Box_02_C /Engine/Transient.World_18:PersistentLevel.BP_GA_Tile_Box_02_C_503
+	Function /Game/AdvancedTurnBasedTileToolkit/Core/Grid/BP_GridActor.BP_GridActor_C:UserConstructionScript:00AB
+[2018.06.15-10.49.59:769][882]LogScript: Warning: Accessed None trying to read property GridManagerRef
+	BP_GA_Tile_Box_02_C /Engine/Transient.World_18:PersistentLevel.BP_GA_Tile_Box_02_C_503
+	Function /Game/AdvancedTurnBasedTileToolkit/Core/Grid/BP_GridActor.BP_GridActor_C:UserConstructionScript:01BA
+[2018.06.15-10.49.59:769][882]LogScript: Warning: Accessed None trying to read property GridManagerRef
+	BP_GA_Tile_Box_02_C /Engine/Transient.World_18:PersistentLevel.BP_GA_Tile_Box_02_C_503
+	Function /Game/AdvancedTurnBasedTileToolkit/Core/Grid/BP_GridActor.BP_GridActor_C:UserConstructionScript:0168
+[2018.06.15-10.49.59:770][882]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/AdvancedTurnBasedTileToolkit/Core/Grid/BP_GridActor.BP_GridActor_C:UserConstructionScript'!
+[2018.06.15-10.49.59:770][882]LogScript: Warning: Accessed None trying to read property GridManagerRef
+	BP_GA_Tile_Box_02_C /Engine/Transient.World_18:PersistentLevel.BP_GA_Tile_Box_02_C_520
+	Function /Game/AdvancedTurnBasedTileToolkit/Core/Grid/BP_GridActor.BP_GridActor_C:UserConstructionScript:00AB
+[2018.06.15-10.49.59:771][882]LogScript: Warning: Accessed None trying to read property GridManagerRef
+	BP_GA_Tile_Box_02_C /Engine/Transient.World_18:PersistentLevel.BP_GA_Tile_Box_02_C_520
+	Function /Game/AdvancedTurnBasedTileToolkit/Core/Grid/BP_GridActor.BP_GridActor_C:UserConstructionScript:01BA
+[2018.06.15-10.49.59:771][882]LogScript: Warning: Accessed None trying to read property GridManagerRef
+	BP_GA_Tile_Box_02_C /Engine/Transient.World_18:PersistentLevel.BP_GA_Tile_Box_02_C_520
+	Function /Game/AdvancedTurnBasedTileToolkit/Core/Grid/BP_GridActor.BP_GridActor_C:UserConstructionScript:0168
+[2018.06.15-10.49.59:784][882]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/AdvancedTurnBasedTileToolkit/Core/Grid/BP_GridActor.BP_GridActor_C:UserConstructionScript'!
+[2018.06.15-10.49.59:787][882]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/AdvancedTurnBasedTileToolkit/Core/Grid/BP_GridActor.BP_GridActor_C:UserConstructionScript'!
+[2018.06.15-10.49.59:788][882]LogScript: Warning: Accessed None trying to read property GridManagerRef
+	BP_GA_Tile_Box_02_C /Engine/Transient.World_18:PersistentLevel.BP_GA_Tile_Box_02_C_520
+	Function /Game/AdvancedTurnBasedTileToolkit/Core/Grid/BP_GridActor.BP_GridActor_C:UserConstructionScript:00AB
+[2018.06.15-10.49.59:788][882]LogScript: Warning: Accessed None trying to read property GridManagerRef
+	BP_GA_Tile_Box_02_C /Engine/Transient.World_18:PersistentLevel.BP_GA_Tile_Box_02_C_520
+	Function /Game/AdvancedTurnBasedTileToolkit/Core/Grid/BP_GridActor.BP_GridActor_C:UserConstructionScript:01BA
+[2018.06.15-10.49.59:788][882]LogScript: Warning: Accessed None trying to read property GridManagerRef
+	BP_GA_Tile_Box_02_C /Engine/Transient.World_18:PersistentLevel.BP_GA_Tile_Box_02_C_520
+	Function /Game/AdvancedTurnBasedTileToolkit/Core/Grid/BP_GridActor.BP_GridActor_C:UserConstructionScript:0168
+[2018.06.15-10.50.00:583][928]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.06.15-10.50.00:626][928]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Map/ULA.ULA:PersistentLevel' has LevelScriptBlueprint '/Game/Map/ULA.ULA:PersistentLevel.ULA' with GeneratedClass '/Game/Map/ULA.ULA_C' with ClassGeneratedBy '/Game/Map/ULA.ULA:PersistentLevel.ULA'
+[2018.06.15-10.50.00:627][928]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.06.15-10.50.00:627][928]PIE: New page: PIE session: ULA (15 ביוני 2018, 16:50:00)
+[2018.06.15-10.50.00:630][928]LogPlayLevel: Creating play world package: /Game/Map/UEDPIE_0_ULA
+[2018.06.15-10.50.00:633][928]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003294s)
+[2018.06.15-10.50.00:634][928]LogAIModule: Creating AISystem for world ULA
+[2018.06.15-10.50.00:635][928]LogPlayLevel: PIE: World Init took: (0.001305s)
+[2018.06.15-10.50.00:635][928]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Map/ULA.ULA to /Game/Map/UEDPIE_0_ULA.ULA (0.005248s)
+[2018.06.15-10.50.00:669][928]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002b322f51f00, Size=704
+[2018.06.15-10.50.00:674][928]LogInit: XAudio2 using 'רמקולים/אזניות (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.06.15-10.50.00:751][928]LogInit: FAudioDevice initialized.
+[2018.06.15-10.50.00:843][928]LogLoad: Game class is 'BP_ATBTT_C'
+[2018.06.15-10.50.00:847][928]LogWorld: Bringing World /Game/Map/UEDPIE_0_ULA.ULA up for play (max tick rate 60) at 2018.06.15-13.50.00
+[2018.06.15-10.50.00:847][928]LogWorld: Bringing up level for play took: 0.002436
+[2018.06.15-10.50.00:848][928]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2018.06.15-10.50.00:848][928]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2018.06.15-10.50.00:848][928]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2018.06.15-10.50.00:852][928]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2018.06.15-10.50.00:856][928]PIE: Play in editor start time for /Game/Map/UEDPIE_0_ULA ‎-0.439
+[2018.06.15-10.50.00:856][928]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Map/ULA.ULA:PersistentLevel' has LevelScriptBlueprint '/Game/Map/ULA.ULA:PersistentLevel.ULA' with GeneratedClass '/Game/Map/ULA.ULA_C' with ClassGeneratedBy '/Game/Map/ULA.ULA:PersistentLevel.ULA'
+[2018.06.15-10.50.01:798][975]LogBlueprintUserMessages: [GoToEncounter] Cool
+[2018.06.15-10.50.01:809][976]LogGameMode: Display: Match State Changed from InProgress to LeavingMap
+[2018.06.15-10.50.01:810][976]LogGameState: Match State Changed from InProgress to LeavingMap
+[2018.06.15-10.50.01:810][976]LogNet: Browse: /Game/EncounterScene/Map/EncounterMap
+[2018.06.15-10.50.01:811][976]LogLoad: LoadMap: /Game/EncounterScene/Map/EncounterMap
+[2018.06.15-10.50.01:880][976]LogAIModule: Creating AISystem for world EncounterMap
+[2018.06.15-10.50.01:880][976]LogLoad: Game class is 'EncounterGameMode_C'
+[2018.06.15-10.50.01:882][976]LogWorld: Bringing World /Game/EncounterScene/Map/UEDPIE_0_EncounterMap.EncounterMap up for play (max tick rate 60) at 2018.06.15-13.50.01
+[2018.06.15-10.50.01:883][976]LogWorld: Bringing up level for play took: 0.001086
+[2018.06.15-10.50.01:884][976]LogBlueprintUserMessages: [EncounterPanel_C_190] 0.75
+[2018.06.15-10.50.01:885][976]LogLoad: Took 0.073277 seconds to LoadMap(/Game/EncounterScene/Map/EncounterMap)
+[2018.06.15-10.50.03:162][ 53]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.15-10.50.03:277][ 59]LogSlate: Window 'Advanced Turn Based Tile Toolkit Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.06.15-10.50.03:285][ 59]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Map/ULA.ULA:PersistentLevel' has LevelScriptBlueprint '/Game/Map/ULA.ULA:PersistentLevel.ULA' with GeneratedClass '/Game/Map/ULA.ULA_C' with ClassGeneratedBy '/Game/Map/ULA.ULA:PersistentLevel.ULA'
+[2018.06.15-10.50.03:324][ 59]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Map/ULA.ULA:PersistentLevel' has LevelScriptBlueprint '/Game/Map/ULA.ULA:PersistentLevel.ULA' with GeneratedClass '/Game/Map/ULA.ULA_C' with ClassGeneratedBy '/Game/Map/ULA.ULA:PersistentLevel.ULA'
+[2018.06.15-10.50.13:221][647]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.06.15-10.50.13:280][647]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Map/ULA.ULA:PersistentLevel' has LevelScriptBlueprint '/Game/Map/ULA.ULA:PersistentLevel.ULA' with GeneratedClass '/Game/Map/ULA.ULA_C' with ClassGeneratedBy '/Game/Map/ULA.ULA:PersistentLevel.ULA'
+[2018.06.15-10.50.13:280][647]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.06.15-10.50.13:281][647]PIE: New page: PIE session: ULA (15 ביוני 2018, 16:50:13)
+[2018.06.15-10.50.13:283][647]LogPlayLevel: Creating play world package: /Game/Map/UEDPIE_0_ULA
+[2018.06.15-10.50.13:286][647]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002919s)
+[2018.06.15-10.50.13:287][647]LogAIModule: Creating AISystem for world ULA
+[2018.06.15-10.50.13:287][647]LogPlayLevel: PIE: World Init took: (0.000875s)
+[2018.06.15-10.50.13:288][647]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Map/ULA.ULA to /Game/Map/UEDPIE_0_ULA.ULA (0.004413s)
+[2018.06.15-10.50.13:325][647]LogInit: XAudio2 using 'רמקולים/אזניות (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.06.15-10.50.13:403][647]LogInit: FAudioDevice initialized.
+[2018.06.15-10.50.13:525][647]LogLoad: Game class is 'BP_ATBTT_C'
+[2018.06.15-10.50.13:528][647]LogWorld: Bringing World /Game/Map/UEDPIE_0_ULA.ULA up for play (max tick rate 60) at 2018.06.15-13.50.13
+[2018.06.15-10.50.13:529][647]LogWorld: Bringing up level for play took: 0.002737
+[2018.06.15-10.50.13:530][647]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2018.06.15-10.50.13:530][647]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2018.06.15-10.50.13:530][647]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2018.06.15-10.50.13:534][647]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2018.06.15-10.50.13:537][647]PIE: Play in editor start time for /Game/Map/UEDPIE_0_ULA 0.242
+[2018.06.15-10.50.13:538][647]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Map/ULA.ULA:PersistentLevel' has LevelScriptBlueprint '/Game/Map/ULA.ULA:PersistentLevel.ULA' with GeneratedClass '/Game/Map/ULA.ULA_C' with ClassGeneratedBy '/Game/Map/ULA.ULA:PersistentLevel.ULA'
+[2018.06.15-10.50.19:059][967]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.15-10.50.19:189][974]LogSlate: Window 'Advanced Turn Based Tile Toolkit Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.06.15-10.50.19:197][974]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Map/ULA.ULA:PersistentLevel' has LevelScriptBlueprint '/Game/Map/ULA.ULA:PersistentLevel.ULA' with GeneratedClass '/Game/Map/ULA.ULA_C' with ClassGeneratedBy '/Game/Map/ULA.ULA:PersistentLevel.ULA'
+[2018.06.15-10.50.19:255][974]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Map/ULA.ULA:PersistentLevel' has LevelScriptBlueprint '/Game/Map/ULA.ULA:PersistentLevel.ULA' with GeneratedClass '/Game/Map/ULA.ULA_C' with ClassGeneratedBy '/Game/Map/ULA.ULA:PersistentLevel.ULA'
+[2018.06.15-10.51.07:812][878]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/AdvancedTurnBasedTileToolkit/Core/Grid/BP_GridActor.BP_GridActor_C:UserConstructionScript'!
+[2018.06.15-10.51.07:815][878]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/AdvancedTurnBasedTileToolkit/Core/Grid/BP_GridActor.BP_GridActor_C:UserConstructionScript'!
+[2018.06.15-10.51.07:815][878]LogScript: Warning: Accessed None trying to read property GridManagerRef
+	BP_GA_Tile_Box_02_C /Engine/Transient.World_18:PersistentLevel.BP_GA_Tile_Box_02_C_520
+	Function /Game/AdvancedTurnBasedTileToolkit/Core/Grid/BP_GridActor.BP_GridActor_C:UserConstructionScript:00AB
+[2018.06.15-10.51.07:816][878]LogScript: Warning: Accessed None trying to read property GridManagerRef
+	BP_GA_Tile_Box_02_C /Engine/Transient.World_18:PersistentLevel.BP_GA_Tile_Box_02_C_520
+	Function /Game/AdvancedTurnBasedTileToolkit/Core/Grid/BP_GridActor.BP_GridActor_C:UserConstructionScript:01BA
+[2018.06.15-10.51.07:816][878]LogScript: Warning: Accessed None trying to read property GridManagerRef
+	BP_GA_Tile_Box_02_C /Engine/Transient.World_18:PersistentLevel.BP_GA_Tile_Box_02_C_520
+	Function /Game/AdvancedTurnBasedTileToolkit/Core/Grid/BP_GridActor.BP_GridActor_C:UserConstructionScript:0168
+[2018.06.15-10.51.07:822][878]LogUObjectGlobals: Created PersistentFrame Addr=0x000002b3438f6270, Size=4, Default__SKEL_BP_GA_Tile_Box_02_C Function /Game/AdvancedTurnBasedTileToolkit/Maps/Advanced/Tiles/BP_GA_Tile_Box_02.SKEL_BP_GA_Tile_Box_02_C:ExecuteUbergraph_BP_GA_Tile_Box_02
+[2018.06.15-10.51.07:824][878]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/AdvancedTurnBasedTileToolkit/Core/Grid/BP_GridActor.BP_GridActor_C:UserConstructionScript'!
+[2018.06.15-10.51.07:825][878]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/AdvancedTurnBasedTileToolkit/Core/Grid/BP_GridActor.BP_GridActor_C:UserConstructionScript'!
+[2018.06.15-10.51.07:826][878]LogScript: Warning: Accessed None trying to read property GridManagerRef
+	BP_GA_Tile_Box_02_C /Engine/Transient.World_18:PersistentLevel.BP_GA_Tile_Box_02_C_520
+	Function /Game/AdvancedTurnBasedTileToolkit/Core/Grid/BP_GridActor.BP_GridActor_C:UserConstructionScript:00AB
+[2018.06.15-10.51.07:826][878]LogScript: Warning: Accessed None trying to read property GridManagerRef
+	BP_GA_Tile_Box_02_C /Engine/Transient.World_18:PersistentLevel.BP_GA_Tile_Box_02_C_520
+	Function /Game/AdvancedTurnBasedTileToolkit/Core/Grid/BP_GridActor.BP_GridActor_C:UserConstructionScript:01BA
+[2018.06.15-10.51.07:826][878]LogScript: Warning: Accessed None trying to read property GridManagerRef
+	BP_GA_Tile_Box_02_C /Engine/Transient.World_18:PersistentLevel.BP_GA_Tile_Box_02_C_520
+	Function /Game/AdvancedTurnBasedTileToolkit/Core/Grid/BP_GridActor.BP_GridActor_C:UserConstructionScript:0168
+[2018.06.15-10.51.39:607][762]LogBlueprint: Warning: [BP_GA_Tile_Box_02] 'PairedEncounter' variable not found. Base class was probably changed. /Game/AdvancedTurnBasedTileToolkit/Maps/Advanced/Tiles/BP_GA_Tile_Box_02.BP_GA_Tile_Box_02
+[2018.06.15-10.51.49:840][367]BlueprintLog: New page: Compile BP_GA_Tile_Box_02
+[2018.06.15-10.51.49:849][367]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002b3438f6270, Size=4
+[2018.06.15-10.51.49:849][367]LogUObjectGlobals: Created PersistentFrame Addr=0x000002b305bf9b80, Size=4, Default__SKEL_BP_GA_Tile_Box_02_C Function /Engine/Transient.REINST_SKEL_BP_GA_Tile_Box_02_C_545:ExecuteUbergraph_BP_GA_Tile_Box_02
+[2018.06.15-10.51.49:859][367]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002b26a072200, Size=704
+[2018.06.15-10.51.49:859][367]LogUObjectGlobals: Created PersistentFrame Addr=0x000002b2e99d0a00, Size=704, Default__BP_GA_Tile_Box_02_C Function /Engine/Transient.REINST_BP_GA_Tile_Box_02_C_547:ExecuteUbergraph_BP_GA_Tile_Box_02
+[2018.06.15-10.51.49:861][367]LogBlueprint: Warning: [Compiler BP_GA_Tile_Box_02] Could not find a variable named "PairedEncounter" in 'BP_GA_Tile_Box_02_C'.
+Make sure 'BP_GA_Tile_Box_02_C' has been compiled for  Get PairedEncounter
+[2018.06.15-10.51.49:862][367]LogBlueprint: Error: [Compiler BP_GA_Tile_Box_02] The property associated with  Paired Encounter  could not be found
+[2018.06.15-10.51.49:863][367]LogUObjectGlobals: Created PersistentFrame Addr=0x000002b24c636c00, Size=248, Default__BP_GA_Tile_Box_02_C Function /Game/AdvancedTurnBasedTileToolkit/Maps/Advanced/Tiles/BP_GA_Tile_Box_02.BP_GA_Tile_Box_02_C:ExecuteUbergraph_BP_GA_Tile_Box_02
+[2018.06.15-10.51.50:018][367]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002b305bf9b80, Size=4
+[2018.06.15-10.51.50:032][367]LogBlueprint: Warning: [Compiler BP_GA_Tile_Box_02] [0406.17] Compile of BP_GA_Tile_Box_02 failed. 1 Fatal Issue(s) 1 Warning(s) [in 191 ms] (/Game/AdvancedTurnBasedTileToolkit/Maps/Advanced/Tiles/BP_GA_Tile_Box_02.BP_GA_Tile_Box_02)
+[2018.06.15-10.53.43:418][237]BlueprintLog: New page: Compile BP_GA_Tile_Box_02
+[2018.06.15-10.53.43:433][237]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002b24c636c00, Size=248
+[2018.06.15-10.53.43:433][237]LogUObjectGlobals: Created PersistentFrame Addr=0x000002b306473800, Size=248, BP_GA_Tile_Box_02_C_546 Function /Engine/Transient.REINST_BP_GA_Tile_Box_02_C_551:ExecuteUbergraph_BP_GA_Tile_Box_02
+[2018.06.15-10.53.43:436][237]LogUObjectGlobals: Created PersistentFrame Addr=0x000002b254971700, Size=248, Default__BP_GA_Tile_Box_02_C Function /Game/AdvancedTurnBasedTileToolkit/Maps/Advanced/Tiles/BP_GA_Tile_Box_02.BP_GA_Tile_Box_02_C:ExecuteUbergraph_BP_GA_Tile_Box_02
+[2018.06.15-10.53.43:439][237]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/AdvancedTurnBasedTileToolkit/Core/Grid/BP_GridActor.BP_GridActor_C:UserConstructionScript'!
+[2018.06.15-10.53.43:441][237]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/AdvancedTurnBasedTileToolkit/Core/Grid/BP_GridActor.BP_GridActor_C:UserConstructionScript'!
+[2018.06.15-10.53.43:442][237]LogScript: Warning: Accessed None trying to read property GridManagerRef
+	BP_GA_Tile_Box_02_C /Engine/Transient.World_18:PersistentLevel.BP_GA_Tile_Box_02_C_545
+	Function /Game/AdvancedTurnBasedTileToolkit/Core/Grid/BP_GridActor.BP_GridActor_C:UserConstructionScript:00AB
+[2018.06.15-10.53.43:442][237]LogScript: Warning: Accessed None trying to read property GridManagerRef
+	BP_GA_Tile_Box_02_C /Engine/Transient.World_18:PersistentLevel.BP_GA_Tile_Box_02_C_545
+	Function /Game/AdvancedTurnBasedTileToolkit/Core/Grid/BP_GridActor.BP_GridActor_C:UserConstructionScript:01BA
+[2018.06.15-10.53.43:442][237]LogScript: Warning: Accessed None trying to read property GridManagerRef
+	BP_GA_Tile_Box_02_C /Engine/Transient.World_18:PersistentLevel.BP_GA_Tile_Box_02_C_545
+	Function /Game/AdvancedTurnBasedTileToolkit/Core/Grid/BP_GridActor.BP_GridActor_C:UserConstructionScript:0168
+[2018.06.15-10.53.43:593][237]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002b2e99d0a00, Size=704
+[2018.06.15-10.53.43:594][237]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/AdvancedTurnBasedTileToolkit/Core/Grid/BP_GridActor.BP_GridActor_C:UserConstructionScript'!
+[2018.06.15-10.53.43:596][237]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/AdvancedTurnBasedTileToolkit/Core/Grid/BP_GridActor.BP_GridActor_C:UserConstructionScript'!
+[2018.06.15-10.53.43:597][237]LogScript: Warning: Accessed None trying to read property GridManagerRef
+	BP_GA_Tile_Box_02_C /Engine/Transient.World_18:PersistentLevel.BP_GA_Tile_Box_02_C_545
+	Function /Game/AdvancedTurnBasedTileToolkit/Core/Grid/BP_GridActor.BP_GridActor_C:UserConstructionScript:00AB
+[2018.06.15-10.53.43:597][237]LogScript: Warning: Accessed None trying to read property GridManagerRef
+	BP_GA_Tile_Box_02_C /Engine/Transient.World_18:PersistentLevel.BP_GA_Tile_Box_02_C_545
+	Function /Game/AdvancedTurnBasedTileToolkit/Core/Grid/BP_GridActor.BP_GridActor_C:UserConstructionScript:01BA
+[2018.06.15-10.53.43:598][237]LogScript: Warning: Accessed None trying to read property GridManagerRef
+	BP_GA_Tile_Box_02_C /Engine/Transient.World_18:PersistentLevel.BP_GA_Tile_Box_02_C_545
+	Function /Game/AdvancedTurnBasedTileToolkit/Core/Grid/BP_GridActor.BP_GridActor_C:UserConstructionScript:0168
+[2018.06.15-10.53.43:599][237]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/AdvancedTurnBasedTileToolkit/Core/Grid/BP_GridActor.BP_GridActor_C:UserConstructionScript'!
+[2018.06.15-10.53.43:599][237]LogScript: Warning: Accessed None trying to read property GridManagerRef
+	BP_GA_Tile_Box_02_C /Engine/Transient.World_18:PersistentLevel.BP_GA_Tile_Box_02_C_555
+	Function /Game/AdvancedTurnBasedTileToolkit/Core/Grid/BP_GridActor.BP_GridActor_C:UserConstructionScript:00AB
+[2018.06.15-10.53.43:599][237]LogScript: Warning: Accessed None trying to read property GridManagerRef
+	BP_GA_Tile_Box_02_C /Engine/Transient.World_18:PersistentLevel.BP_GA_Tile_Box_02_C_555
+	Function /Game/AdvancedTurnBasedTileToolkit/Core/Grid/BP_GridActor.BP_GridActor_C:UserConstructionScript:01BA
+[2018.06.15-10.53.43:600][237]LogScript: Warning: Accessed None trying to read property GridManagerRef
+	BP_GA_Tile_Box_02_C /Engine/Transient.World_18:PersistentLevel.BP_GA_Tile_Box_02_C_555
+	Function /Game/AdvancedTurnBasedTileToolkit/Core/Grid/BP_GridActor.BP_GridActor_C:UserConstructionScript:0168
+[2018.06.15-10.53.43:610][237]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/AdvancedTurnBasedTileToolkit/Core/Grid/BP_GridActor.BP_GridActor_C:UserConstructionScript'!
+[2018.06.15-10.53.43:612][237]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/AdvancedTurnBasedTileToolkit/Core/Grid/BP_GridActor.BP_GridActor_C:UserConstructionScript'!
+[2018.06.15-10.53.43:612][237]LogScript: Warning: Accessed None trying to read property GridManagerRef
+	BP_GA_Tile_Box_02_C /Engine/Transient.World_18:PersistentLevel.BP_GA_Tile_Box_02_C_555
+	Function /Game/AdvancedTurnBasedTileToolkit/Core/Grid/BP_GridActor.BP_GridActor_C:UserConstructionScript:00AB
+[2018.06.15-10.53.43:612][237]LogScript: Warning: Accessed None trying to read property GridManagerRef
+	BP_GA_Tile_Box_02_C /Engine/Transient.World_18:PersistentLevel.BP_GA_Tile_Box_02_C_555
+	Function /Game/AdvancedTurnBasedTileToolkit/Core/Grid/BP_GridActor.BP_GridActor_C:UserConstructionScript:01BA
+[2018.06.15-10.53.43:613][237]LogScript: Warning: Accessed None trying to read property GridManagerRef
+	BP_GA_Tile_Box_02_C /Engine/Transient.World_18:PersistentLevel.BP_GA_Tile_Box_02_C_555
+	Function /Game/AdvancedTurnBasedTileToolkit/Core/Grid/BP_GridActor.BP_GridActor_C:UserConstructionScript:0168
+[2018.06.15-10.53.45:638][355]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002b306473800, Size=248
+[2018.06.15-10.53.45:736][355]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Map/ULA" FILE="../../../../Unreal_Projects/The-Unlucky-Astronautv2/Content/Map/ULA.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.06.15-10.53.45:785][355]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002b3a6eea2e0, Size=32
+[2018.06.15-10.53.45:785][355]LogUObjectGlobals: Created PersistentFrame Addr=0x000002b3893c3900, Size=32, Default__ULA_C Function /Engine/Transient.REINST_ULA_C_555:ExecuteUbergraph_ULA
+[2018.06.15-10.53.45:787][355]LogUObjectGlobals: Created PersistentFrame Addr=0x000002b396464bc0, Size=32, Default__ULA_C Function /Game/Map/ULA.ULA_C:ExecuteUbergraph_ULA
+[2018.06.15-10.53.45:955][355]LogSavePackage: Save=172.91ms
+[2018.06.15-10.53.45:955][355]LogSavePackage: Moving '../../../../Unreal_Projects/The-Unlucky-Astronautv2/Saved/ULA1F9380EA4AD22449ECC292BF02719C5F.tmp' to '../../../../Unreal_Projects/The-Unlucky-Astronautv2/Content/Map/ULA.umap'
+[2018.06.15-10.53.45:958][355]LogSavePackage: Display: Finished SavePackage ../../../../Unreal_Projects/The-Unlucky-Astronautv2/Content/Map/ULA.umap
+[2018.06.15-10.53.45:983][355]LogFileHelpers: Saving map 'ULA' took 0.323
+[2018.06.15-10.53.46:064][355]LogSavePackage: Save=34.49ms
+[2018.06.15-10.53.46:064][355]LogSavePackage: Moving '../../../../Unreal_Projects/The-Unlucky-Astronautv2/Saved/BP_GA_Tile_Box_021DF883744AD04690F8C64BBE91B93C1E.tmp' to '../../../../Unreal_Projects/The-Unlucky-Astronautv2/Content/AdvancedTurnBasedTileToolkit/Maps/Advanced/Tiles/BP_GA_Tile_Box_02.uasset'
+[2018.06.15-10.53.46:067][355]LogSavePackage: Display: Finished SavePackage ../../../../Unreal_Projects/The-Unlucky-Astronautv2/Content/AdvancedTurnBasedTileToolkit/Maps/Advanced/Tiles/BP_GA_Tile_Box_02.uasset
