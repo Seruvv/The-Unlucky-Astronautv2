@@ -1,0 +1,1309 @@
+﻿Log file open, 07/28/18 14:50:00
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: Ursa
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(1261511064) SRandInit(1261511064).
+LogInit: Read version file with build ID '3944462'
+LogInit: Overriding engine version to CL 3989454, compatible CL 3944462
+LogInit: Registered custom module enumerator with build ID '3944462'
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 18.154597
+LogD3D11RHI: Aftermath initialized
+LogICUInternationalization: Display: ICU TimeZone Detection - Raw Offset: +2:00, Platform Override: ''
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2D.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2DEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperSpriteSheetImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperTiledImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-SmartSnapping.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeRuntime.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/CLionSourceCodeAccess/Binaries/Win64/UE4Editor-CLionSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/GitSourceControl/Binaries/Win64/UE4Editor-GitSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/PerforceSourceControl/Binaries/Win64/UE4Editor-PerforceSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/SubversionSourceControl/Binaries/Win64/UE4Editor-SubversionSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/UObjectPlugin/Binaries/Win64/UE4Editor-UObjectPlugin.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioCodeSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioCodeSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AssetManagerEditor/Binaries/Win64/UE4Editor-AssetManagerEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/CryptoKeys/Binaries/Win64/UE4Editor-CryptoKeys.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/CryptoKeys/Binaries/Win64/UE4Editor-CryptoKeysOpenSSL.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/DataValidation/Binaries/Win64/UE4Editor-DataValidation.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimation.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimationEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/GameplayTagsEditor/Binaries/Win64/UE4Editor-GameplayTagsEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/MobileLauncherProfileWizard/Binaries/Win64/UE4Editor-MobileLauncherProfileWizard.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/PluginBrowser/Binaries/Win64/UE4Editor-PluginBrowser.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/SpeedTreeImporter/Binaries/Win64/UE4Editor-SpeedTreeImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Enterprise/DatasmithContent/Binaries/Win64/UE4Editor-DatasmithContent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicLibrary.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/CharacterAI/Binaries/Win64/UE4Editor-CharacterAI.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/HTML5Networking/Binaries/Win64/UE4Editor-HTML5Networking.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMedia.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-OpenExrWrapper.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/LinearTimecode/Binaries/Win64/UE4Editor-LinearTimecode.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositing.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositingEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaPlayerEditor/Binaries/Win64/UE4Editor-MediaPlayerEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMedia.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/TcpMessaging/Binaries/Win64/UE4Editor-TcpMessaging.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/UdpMessaging/Binaries/Win64/UE4Editor-UdpMessaging.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/ActorSequence/Binaries/Win64/UE4Editor-ActorSequence.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/LevelSequenceEditor/Binaries/Win64/UE4Editor-LevelSequenceEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/MatineeToLevelSequence/Binaries/Win64/UE4Editor-MatineeToLevelSequence.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/NetcodeUnitTest/NetcodeUnitTest/Binaries/Win64/UE4Editor-NetcodeUnitTest.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/NetcodeUnitTest/NUTUnrealEngine4/Binaries/Win64/UE4Editor-NUTUnrealEngine4.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystem/Binaries/Win64/UE4Editor-OnlineSubsystem.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidPermission/Binaries/Win64/UE4Editor-AndroidPermission.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemNull/Binaries/Win64/UE4Editor-OnlineSubsystemNull.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineSubsystemUtils.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineBlueprintSupport.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidDeviceProfileSelector/Binaries/Win64/UE4Editor-AndroidDeviceProfileSelector.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AppleARKit/Binaries/Win64/UE4Editor-AppleARKit.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponentEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Animation/LiveLink/Binaries/Win64/UE4Editor-LiveLink.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Animation/LiveLink/Binaries/Win64/UE4Editor-LiveLinkEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ArchVisCharacter/Binaries/Win64/UE4Editor-ArchVisCharacter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AudioCapture/Binaries/Win64/UE4Editor-AudioCapture.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AudioCapture/Binaries/Win64/UE4Editor-AudioCaptureEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CableComponent/Binaries/Win64/UE4Editor-CableComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CustomMeshComponent/Binaries/Win64/UE4Editor-CustomMeshComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ExampleDeviceProfileSelector/Binaries/Win64/UE4Editor-ExampleDeviceProfileSelector.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysics.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysicsEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/LocationServicesBPLibrary/Binaries/Win64/UE4Editor-LocationServicesBPLibrary.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/MobilePatchingUtils/Binaries/Win64/UE4Editor-MobilePatchingUtils.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusHMD.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusInput.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehicles.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehiclesEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/RuntimePhysXCooking/Binaries/Win64/UE4Editor-RuntimePhysXCooking.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVR.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVRController.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/WindowsMoviePlayer/Binaries/Win64/UE4Editor-WindowsMoviePlayer.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../../../Users/andre/OneDrive/Documents/Unreal Projects/The-Unlucky-Astronautv2/Plugins/MainMenuPlugin/Binaries/Win64/UE4Editor-MainMenuPluginRuntime.dll (API version 3944462).
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LiveLink
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleARKit
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin MainMenuPlugin
+LogStreaming: Display: Took  4.818s to configure plugins.
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: WinSock: I am DESKTOP-3G34NEP (10.0.0.1:0)
+LogInit: Build: ++UE4+Release-4.19-CL-3989454
+LogInit: Engine Version: 4.19.1-3989454+++UE4+Release-4.19
+LogInit: Compatible Engine Version: 4.19.0-3944462+++UE4+Release-4.19
+LogInit: Net CL: 3944462
+LogDevObjectVersion: Number of dev versions registered: 18
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 23
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 33
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 25
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 6
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 1
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 2
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 16
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogInit: Compiled (64-bit): Apr  6 2018 12:26:04
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.19
+LogInit: Command Line:  
+LogInit: Base Directory: G:/Epic Games/UE_4.19/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogStreaming: Display: Took  0.051s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.07.28-11.50.06:807][  0]LogInit: Selected Device Profile: [Windows]
+[2018.07.28-11.50.06:807][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.07.28-11.50.07:007][  0]LogInit: Computer: DESKTOP-3G34NEP
+[2018.07.28-11.50.07:007][  0]LogInit: User: andre
+[2018.07.28-11.50.07:007][  0]LogInit: CPU Page size=4096, Cores=4
+[2018.07.28-11.50.07:007][  0]LogInit: High frequency timer resolution =3.328124 MHz
+[2018.07.28-11.50.07:010][  0]LogMemory: Memory total: Physical=16.0GB (16GB approx)
+[2018.07.28-11.50.07:010][  0]LogMemory: Platform Memory Stats for Windows
+[2018.07.28-11.50.07:010][  0]LogMemory: Process Physical Memory: 274.04 MB used, 274.04 MB peak
+[2018.07.28-11.50.07:010][  0]LogMemory: Process Virtual Memory: 264.63 MB used, 264.63 MB peak
+[2018.07.28-11.50.07:010][  0]LogMemory: Physical Memory: 11968.43 MB used,  4378.23 MB free, 16346.66 MB total
+[2018.07.28-11.50.07:010][  0]LogMemory: Virtual Memory: 4779.76 MB used,  4378.23 MB free, 134217728.00 MB total
+[2018.07.28-11.50.07:790][  0]LogInit: Using OS detected language (ru-RU).
+[2018.07.28-11.50.07:790][  0]LogInit: Using OS detected locale (ru-RU).
+[2018.07.28-11.50.07:968][  0]LogTextLocalizationManager: No localization for 'ru-RU' exists, so 'en' will be used for the language.
+[2018.07.28-11.50.09:109][  0]LogStreaming: Display: Took  1.311s to EndInitTextLocalization.
+[2018.07.28-11.50.09:140][  0]LogInit: Setting process to per monitor DPI aware
+[2018.07.28-11.50.09:950][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2018.07.28-11.50.09:950][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2018.07.28-11.50.10:459][  0]LogD3D11RHI: D3D11 adapters:
+[2018.07.28-11.50.10:534][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1080' (Feature Level 11_0)
+[2018.07.28-11.50.10:534][  0]LogD3D11RHI:       8079/0/8173 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2018.07.28-11.50.10:538][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.07.28-11.50.10:538][  0]LogD3D11RHI:       0/0/8173 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.07.28-11.50.10:538][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.07.28-11.50.10:574][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.07.28-11.50.10:574][  0]LogD3D11RHI:     GPU DeviceId: 0x1b80 (for the marketing name, search the web for "GPU Device Id")
+[2018.07.28-11.50.10:574][  0]LogWindows: EnumDisplayDevices:
+[2018.07.28-11.50.10:574][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1080' (P:1 D:1)
+[2018.07.28-11.50.10:574][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1080' (P:0 D:0)
+[2018.07.28-11.50.10:575][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1080' (P:0 D:0)
+[2018.07.28-11.50.10:575][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1080' (P:0 D:0)
+[2018.07.28-11.50.10:575][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2018.07.28-11.50.10:575][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1080
+[2018.07.28-11.50.10:575][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2018.07.28-11.50.10:575][  0]LogD3D11RHI:      Driver Date: Unknown
+[2018.07.28-11.50.10:575][  0]LogRHI: Texture pool is 5655 MB (70% of 8079 MB)
+[2018.07.28-11.50.10:635][  0]LogD3D11RHI: [Aftermath] Aftermath enabled and primed
+[2018.07.28-11.50.10:635][  0]LogD3D11RHI: [Aftermath] Aftermath enabled and primed
+[2018.07.28-11.50.10:635][  0]LogD3D11RHI: Async texture creation enabled
+[2018.07.28-11.50.11:127][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2018.07.28-11.50.11:285][  0]LogShaderCompilers: Guid format shader working directory is -40 characters bigger than the processId version (../../../../../Users/andre/OneDrive/Documents/Unreal Projects/The-Unlucky-Astronautv2/Intermediate/Shaders/WorkingDirectory/25184/).
+[2018.07.28-11.50.11:297][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'G:/Users/andre/AppData/Local/Temp/UnrealShaderWorkingDir/ADCDE961432C80FF6ECD1B9D00D242C7/'.
+[2018.07.28-11.50.12:453][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.07.28-11.50.12:466][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.07.28-11.50.12:479][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.07.28-11.50.12:493][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.07.28-11.50.12:543][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.07.28-11.50.12:556][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.07.28-11.50.12:570][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.07.28-11.50.12:583][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.07.28-11.50.12:622][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.07.28-11.50.12:635][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2018.07.28-11.50.12:647][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2018.07.28-11.50.12:659][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2018.07.28-11.50.12:671][  0]LogTemp: Display: Loaded TP Android_ETC1aTargetPlatform
+[2018.07.28-11.50.12:683][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2018.07.28-11.50.12:696][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2018.07.28-11.50.12:720][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2018.07.28-11.50.12:720][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2018.07.28-11.50.12:739][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.07.28-11.50.12:741][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.07.28-11.50.12:923][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.07.28-11.50.12:935][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.07.28-11.50.12:948][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.07.28-11.50.12:966][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.07.28-11.50.12:979][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.07.28-11.50.13:013][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.07.28-11.50.13:013][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.07.28-11.50.13:831][  0]LogXGEController: Cleaning working directory: G:/Users/andre/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2018.07.28-11.50.13:831][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2018.07.28-11.50.13:859][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2018.07.28-11.50.13:859][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.07.28-11.50.16:776][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.07.28-11.50.17:473][  0]LogDerivedDataCache: Loaded boot cache 0.68s 74MB G:/Users/andre/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc.
+[2018.07.28-11.50.17:474][  0]LogDerivedDataCache: Display: Loaded Boot cache: G:/Users/andre/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc
+[2018.07.28-11.50.17:474][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../Users/andre/OneDrive/Documents/Unreal Projects/The-Unlucky-Astronautv2/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.07.28-11.50.17:474][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.07.28-11.50.17:474][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../Users/andre/OneDrive/Documents/Unreal Projects/The-Unlucky-Astronautv2/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.07.28-11.50.17:474][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.07.28-11.50.17:520][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.07.28-11.50.17:577][  0]LogDerivedDataCache: Using Local data cache path G:/Users/andre/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.07.28-11.50.17:683][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.07.28-11.50.17:757][  0]LogSlate: Using Freetype 2.6.0
+[2018.07.28-11.50.17:860][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.07.28-11.50.17:861][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.07.28-11.50.25:212][  0]LogAssetRegistry: FAssetRegistry took 0.0491 seconds to start up
+[2018.07.28-11.50.58:001][  0]LogInit: Selected Device Profile: [Windows]
+[2018.07.28-11.50.59:811][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.07.28-11.50.59:840][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.07.28-11.50.59:841][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.07.28-11.50.59:841][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.07.28-11.50.59:841][  0]LogMeshReduction: No automatic mesh merging module available
+[2018.07.28-11.50.59:841][  0]LogMeshMerging: No automatic mesh merging module available
+[2018.07.28-11.51.00:887][  0]LogNetVersion: Ursa , NetCL: 3944462, EngineNetVer: 2, GameNetVer: 0 (Checksum: 3086478172)
+[2018.07.28-11.51.05:635][  0]LogPackageLocalizationCache: Processed 10 localized package path(s) for 1 prioritized culture(s) in 0.202410 seconds
+[2018.07.28-11.51.05:673][  0]LogUObjectArray: 36728 objects as part of root set at end of initial load.
+[2018.07.28-11.51.05:673][  0]LogUObjectAllocator: 7314312 out of 0 bytes used by permanent object pool.
+[2018.07.28-11.51.05:673][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.07.28-11.51.22:104][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.07.28-11.51.22:187][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.07.28-11.51.24:117][  0]SourceControl: Source control is disabled
+[2018.07.28-11.51.24:117][  0]SourceControl: Source control is disabled
+[2018.07.28-11.51.24:250][  0]SourceControl: Source control is disabled
+[2018.07.28-11.51.24:322][  0]SourceControl: Source control is disabled
+[2018.07.28-11.51.26:042][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.07.28-11.51.26:489][  0]LogOcInput: OculusInput pre-init called
+[2018.07.28-11.51.26:707][  0]LogTemp: Start ClimbingPawnMovementComponent
+[2018.07.28-11.51.27:327][  0]LogEngine: Initializing Engine...
+[2018.07.28-11.51.27:455][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.07.28-11.51.27:484][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.07.28-11.51.27:484][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.07.28-11.51.28:814][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.07.28-11.51.29:067][  0]LogInit: XAudio2 using 'Динамики (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.07.28-11.51.29:088][  0]LogInit: FAudioDevice initialized.
+[2018.07.28-11.51.29:379][  0]LogDerivedDataCache: Saved boot cache 0.23s 74MB G:/Users/andre/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc.
+[2018.07.28-11.51.29:394][  0]LogInit: Texture streaming: Enabled
+[2018.07.28-11.51.29:627][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.07.28-11.51.29:948][  0]LogInit: Transaction tracking system initialized
+[2018.07.28-11.51.30:640][  0]BlueprintLog: New page: Editor Load
+[2018.07.28-11.51.32:632][  0]LocalizationService: Localization service is disabled
+[2018.07.28-11.51.33:317][  0]LogLinker: Warning: Can't find file '/Game/TopDownBP/TopDownOverview'
+[2018.07.28-11.51.33:332][  0]LogLinker: Warning: Can't find file '/Game/TopDownBP/TopDownOverview'
+[2018.07.28-11.51.33:332][  0]LogUObjectGlobals: Warning: Failed to find object 'Class /Game/TopDownBP/TopDownOverview.TopDownOverview_C'
+[2018.07.28-11.51.33:728][  0]LogConsoleResponse: Display: 
+[2018.07.28-11.51.36:809][  0]LogFileCache: Scanning file cache for directory 'G:/Users/andre/OneDrive/Documents/Unreal Projects/The-Unlucky-Astronautv2/Content/' took 0.15s
+[2018.07.28-11.51.36:809][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.07.28-11.51.36:809][  0]LogCook: Display: Mobile HDR setting 1
+[2018.07.28-11.51.36:809][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.07.28-11.51.36:826][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.07.28-11.51.36:826][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.07.28-11.51.38:975][  0]SourceControl: Source control is disabled
+[2018.07.28-11.51.39:014][  0]Cmd: MAP LOAD FILE="../../../../../Users/andre/OneDrive/Documents/Unreal Projects/The-Unlucky-Astronautv2/Content/Map/ULA.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.07.28-11.51.39:062][  0]LightingResults: New page: Lighting Build
+[2018.07.28-11.51.39:367][  0]MapCheck: New page: Map Check
+[2018.07.28-11.51.39:367][  0]LightingResults: New page: Lighting Build
+[2018.07.28-11.51.50:754][  0]LogProperty: Error: UStructProperty::Serialize Loading: Property 'StructProperty /Game/AdvancedTurnBasedTileToolkit/Maps/MP/Core/BP_Instance_ATBTT.BP_Instance_ATBTT_C:Player'. Unknown structure.
+[2018.07.28-11.51.50:769][  0]LogClass: Warning: Property Player of Player has a struct type mismatch (tag STRUCT_REINST_PlayerValuesStruct_44 != prop FallbackStruct) in package:  ../../../../../Users/andre/OneDrive/Documents/Unreal Projects/The-Unlucky-Astronautv2/Content/AdvancedTurnBasedTileToolkit/Maps/MP/Core/BP_Instance_ATBTT.uasset. If that struct got renamed, add an entry to ActiveStructRedirects.
+[2018.07.28-11.51.50:846][  0]LogClass: Warning: Property Player of Player has a struct type mismatch (tag FallbackStruct != prop PlayerValuesStruct) in package:  FObjectReader. If that struct got renamed, add an entry to ActiveStructRedirects.
+[2018.07.28-11.52.04:007][  0]LogSkeletalMesh: Skeletal Mesh found in DDC [58.916374ms] /Game/AdvancedTurnBasedTileToolkit/Units/SK_Mannequin_Mobile.SK_Mannequin_Mobile
+[2018.07.28-11.52.04:256][  0]LogAIModule: Creating AISystem for world ULA
+[2018.07.28-11.52.05:764][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.07.28-11.52.06:128][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.07.28-11.52.06:233][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 84,448ms to complete.
+[2018.07.28-11.52.06:260][  0]LogFileHelpers: Loading map 'ULA' took 27.256
+[2018.07.28-11.52.08:789][  0]LogCollectionManager: Loaded 0 collections in 0.003148 seconds
+[2018.07.28-11.52.09:025][  0]LogFileCache: Scanning file cache for directory 'G:/Users/andre/OneDrive/Documents/Unreal Projects/The-Unlucky-Astronautv2/Saved/Collections/' took 0.01s
+[2018.07.28-11.52.09:025][  0]LogFileCache: Scanning file cache for directory 'G:/Users/andre/OneDrive/Documents/Unreal Projects/The-Unlucky-Astronautv2/Content/Developers/andre/Collections/' took 0.01s
+[2018.07.28-11.52.09:025][  0]LogFileCache: Scanning file cache for directory 'G:/Users/andre/OneDrive/Documents/Unreal Projects/The-Unlucky-Astronautv2/Content/Collections/' took 0.01s
+[2018.07.28-11.52.09:025][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2018.07.28-11.52.09:059][  0]LogContentBrowser: Native class hierarchy populated in 0.0103 seconds. Added 2456 classes and 560 folders.
+[2018.07.28-11.52.09:263][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2018.07.28-11.52.10:907][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2018.07.28-11.52.11:001][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2018.07.28-11.52.12:326][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2018.07.28-11.52.12:327][  0]LogLoad: (Engine Initialization) Total time: 184.36 seconds
+[2018.07.28-11.52.12:327][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.07.28-11.52.14:062][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2018.07.28-11.52.14:245][  0]LogSlate: Took 0.012082 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.07.28-11.52.14:295][  0]LogSlate: Took 0.034565 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.07.28-11.52.14:356][  0]LogSlate: Took 0.018458 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.07.28-11.52.15:472][  1]LogRenderer: Reallocating scene render targets to support 860x392 Format 10 NumSamples 1 (Frame:1).
+[2018.07.28-11.52.15:754][  1]LogFileCache: Retrieving MD5 hashes for directory 'G:/Users/andre/OneDrive/Documents/Unreal Projects/The-Unlucky-Astronautv2/Content/' took 2.88s
+[2018.07.28-11.52.16:047][  1]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/AdvancedTurnBasedTileToolkit/Core/Grid/BP_GridActor.BP_GridActor_C:UserConstructionScript'!
+[2018.07.28-11.52.16:056][  1]LogScript: Warning: Accessed None trying to read property GridManagerRef
+	Encounter_C /Engine/Transient.World_0:PersistentLevel.Encounter_C_0
+	Function /Game/AdvancedTurnBasedTileToolkit/Core/Grid/BP_GridActor.BP_GridActor_C:UserConstructionScript:00AB
+[2018.07.28-11.52.16:069][  1]LogScript: Warning: Accessed None trying to read property GridManagerRef
+	Encounter_C /Engine/Transient.World_0:PersistentLevel.Encounter_C_0
+	Function /Game/AdvancedTurnBasedTileToolkit/Core/Grid/BP_GridActor.BP_GridActor_C:UserConstructionScript:01BA
+[2018.07.28-11.52.16:070][  1]LogScript: Warning: Accessed None trying to read property GridManagerRef
+	Encounter_C /Engine/Transient.World_0:PersistentLevel.Encounter_C_0
+	Function /Game/AdvancedTurnBasedTileToolkit/Core/Grid/BP_GridActor.BP_GridActor_C:UserConstructionScript:0168
+[2018.07.28-11.52.16:492][  2]LogSlate: Took 0.028372 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.07.28-11.52.17:143][  4]LogAssetRegistry: Asset discovery search completed in 111.9758 seconds
+[2018.07.28-11.52.17:159][  4]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2018.07.28-11.52.17:159][  4]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000476 seconds (updated 0 objects)
+[2018.07.28-11.52.33:746][ 49]LogRenderer: Reallocating scene render targets to support 860x736 Format 10 NumSamples 1 (Frame:3).
+[2018.07.28-12.09.05:040][278]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.28-12.16.09:953][372]LogAIModule: Creating AISystem for world Menu
+[2018.07.28-12.16.10:117][372]Cmd: MAP LOAD FILE="../../../../../Users/andre/OneDrive/Documents/Unreal Projects/The-Unlucky-Astronautv2/Content/Map/Menu.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.07.28-12.16.10:117][372]LightingResults: New page: Lighting Build
+[2018.07.28-12.16.10:125][372]LoadErrors: New page: Loading map: Menu.umap
+[2018.07.28-12.16.10:274][372]MapCheck: New page: Map Check
+[2018.07.28-12.16.10:274][372]LightingResults: New page: Lighting Build
+[2018.07.28-12.16.10:661][372]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.07.28-12.16.10:704][372]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.07.28-12.16.10:794][372]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 88,74ms to complete.
+[2018.07.28-12.16.10:794][372]LogFileHelpers: Loading map 'Menu' took 0.716
+[2018.07.28-12.16.11:755][429]LogTemp: Repeating last play command: Selected Viewport
+[2018.07.28-12.16.11:904][429]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Map/Menu.Menu:PersistentLevel' has LevelScriptBlueprint '/Game/Map/Menu.Menu:PersistentLevel.Menu' with GeneratedClass '/Game/Map/Menu.Menu_C' with ClassGeneratedBy '/Game/Map/Menu.Menu:PersistentLevel.Menu'
+[2018.07.28-12.16.11:950][429]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.07.28-12.16.12:037][429]PIE: New page: PIE session: Menu (28 июля 2018 г., 18:16:12)
+[2018.07.28-12.16.12:054][429]LogPlayLevel: Creating play world package: /Game/Map/UEDPIE_0_Menu
+[2018.07.28-12.16.12:072][429]LogPlayLevel: PIE: StaticDuplicateObject took: (0.017630s)
+[2018.07.28-12.16.12:073][429]LogAIModule: Creating AISystem for world Menu
+[2018.07.28-12.16.12:080][429]LogPlayLevel: PIE: World Init took: (0.007598s)
+[2018.07.28-12.16.12:080][429]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Map/Menu.Menu to /Game/Map/UEDPIE_0_Menu.Menu (0.025469s)
+[2018.07.28-12.16.12:116][429]LogInit: XAudio2 using 'Динамики (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.07.28-12.16.12:131][429]LogInit: FAudioDevice initialized.
+[2018.07.28-12.16.12:211][429]LogLoad: Game class is 'MenuGameMode_C'
+[2018.07.28-12.16.12:410][429]LogWorld: Bringing World /Game/Map/UEDPIE_0_Menu.Menu up for play (max tick rate 0) at 2018.07.28-15.16.12
+[2018.07.28-12.16.12:439][429]LogWorld: Bringing up level for play took: 0.029717
+[2018.07.28-12.16.12:690][429]LogPackageLocalizationCache: Processed 10 localized package path(s) for 1 prioritized culture(s) in 0.111737 seconds
+[2018.07.28-12.16.13:251][429]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 11 classes and 0 folders.
+[2018.07.28-12.16.13:417][429]PIE: Play in editor start time for /Game/Map/UEDPIE_0_Menu 2,06
+[2018.07.28-12.16.13:417][429]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Map/Menu.Menu:PersistentLevel' has LevelScriptBlueprint '/Game/Map/Menu.Menu:PersistentLevel.Menu' with GeneratedClass '/Game/Map/Menu.Menu_C' with ClassGeneratedBy '/Game/Map/Menu.Menu:PersistentLevel.Menu'
+[2018.07.28-12.17.28:596][429]LogStats: FPlatformStackWalk::StackWalkAndDump - 75.002 s
+[2018.07.28-12.17.28:596][429]LogOutputDevice: Error: === Handled ensure: ===
+[2018.07.28-12.17.28:596][429]LogOutputDevice: Error: 
+[2018.07.28-12.17.28:596][429]LogOutputDevice: Error: Ensure condition failed: false [File:D:\Build\++UE4+Release-4.19+Compile\Sync\Engine\Source\Runtime\SlateRHIRenderer\Private\SlateRHIResourceManager.cpp] [Line: 735]
+[2018.07.28-12.17.28:596][429]LogOutputDevice: Error: Slate RHI Error - Invalid Texture2D 'NewMediaPlayer'.
+[2018.07.28-12.17.28:596][429]LogOutputDevice: Error: Stack: 
+[2018.07.28-12.17.28:596][429]LogOutputDevice: Error: [Callstack] 0x00000000AF68B6F6 UE4Editor-Core.dll!FWindowsPlatformStackWalk::StackWalkAndDump() [d:\build\++ue4+release-4.19+compile\sync\engine\source\runtime\core\private\windows\windowsplatformstackwalk.cpp:234]
+[2018.07.28-12.17.28:596][429]LogOutputDevice: Error: [Callstack] 0x00000000AF3EAE2A UE4Editor-Core.dll!FDebug::EnsureFailed() [d:\build\++ue4+release-4.19+compile\sync\engine\source\runtime\core\private\misc\assertionmacros.cpp:299]
+[2018.07.28-12.17.28:596][429]LogOutputDevice: Error: [Callstack] 0x00000000AF3FECC6 UE4Editor-Core.dll!FDebug::OptionallyLogFormattedEnsureMessageReturningFalse() [d:\build\++ue4+release-4.19+compile\sync\engine\source\runtime\core\private\misc\assertionmacros.cpp:430]
+[2018.07.28-12.17.28:596][429]LogOutputDevice: Error: [Callstack] 0x0000000094A1D549 UE4Editor-SlateRHIRenderer.dll!FSlateRHIResourceManager::FindOrCreateDynamicTextureResource() [d:\build\++ue4+release-4.19+compile\sync\engine\source\runtime\slaterhirenderer\private\slaterhiresourcemanager.cpp:735]
+[2018.07.28-12.17.28:596][429]LogOutputDevice: Error: [Callstack] 0x0000000094A249C5 UE4Editor-SlateRHIRenderer.dll!FSlateRHIResourceManager::GetShaderResource() [d:\build\++ue4+release-4.19+compile\sync\engine\source\runtime\slaterhirenderer\private\slaterhiresourcemanager.cpp:549]
+[2018.07.28-12.17.28:596][429]LogOutputDevice: Error: [Callstack] 0x00000000AE444242 UE4Editor-SlateCore.dll!FSlateDrawElement::MakeBox() [d:\build\++ue4+release-4.19+compile\sync\engine\source\runtime\slatecore\private\rendering\drawelements.cpp:172]
+[2018.07.28-12.17.28:596][429]LogOutputDevice: Error: [Callstack] 0x00000000AE8A7B39 UE4Editor-Slate.dll!SImage::OnPaint() [d:\build\++ue4+release-4.19+compile\sync\engine\source\runtime\slate\private\widgets\images\simage.cpp:24]
+[2018.07.28-12.17.28:596][429]LogOutputDevice: Error: [Callstack] 0x00000000AE45333C UE4Editor-SlateCore.dll!SWidget::Paint() [d:\build\++ue4+release-4.19+compile\sync\engine\source\runtime\slatecore\private\widgets\swidget.cpp:912]
+[2018.07.28-12.17.28:596][429]LogOutputDevice: Error: [Callstack] 0x00000000AE92995B UE4Editor-Slate.dll!SConstraintCanvas::OnPaint() [d:\build\++ue4+release-4.19+compile\sync\engine\source\runtime\slate\private\widgets\layout\sconstraintcanvas.cpp:220]
+[2018.07.28-12.17.28:596][429]LogOutputDevice: Error: [Callstack] 0x00000000AE45333C UE4Editor-SlateCore.dll!SWidget::Paint() [d:\build\++ue4+release-4.19+compile\sync\engine\source\runtime\slatecore\private\widgets\swidget.cpp:912]
+[2018.07.28-12.17.28:596][429]LogOutputDevice: Error: [Callstack] 0x00000000AE4515B4 UE4Editor-SlateCore.dll!SCompoundWidget::OnPaint() [d:\build\++ue4+release-4.19+compile\sync\engine\source\runtime\slatecore\private\widgets\scompoundwidget.cpp:35]
+[2018.07.28-12.17.28:596][429]LogOutputDevice: Error: [Callstack] 0x000000009BCCE784 UE4Editor-UMG.dll!SObjectWidget::OnPaint() [d:\build\++ue4+release-4.19+compile\sync\engine\source\runtime\umg\private\slate\sobjectwidget.cpp:80]
+[2018.07.28-12.17.28:596][429]LogOutputDevice: Error: [Callstack] 0x00000000AE45333C UE4Editor-SlateCore.dll!SWidget::Paint() [d:\build\++ue4+release-4.19+compile\sync\engine\source\runtime\slatecore\private\widgets\swidget.cpp:912]
+[2018.07.28-12.17.28:596][429]LogOutputDevice: Error: [Callstack] 0x00000000AE92995B UE4Editor-Slate.dll!SConstraintCanvas::OnPaint() [d:\build\++ue4+release-4.19+compile\sync\engine\source\runtime\slate\private\widgets\layout\sconstraintcanvas.cpp:220]
+[2018.07.28-12.17.28:596][429]LogOutputDevice: Error: [Callstack] 0x00000000AE45333C UE4Editor-SlateCore.dll!SWidget::Paint() [d:\build\++ue4+release-4.19+compile\sync\engine\source\runtime\slatecore\private\widgets\swidget.cpp:912]
+[2018.07.28-12.17.28:596][429]LogOutputDevice: Error: [Callstack] 0x00000000AE451AF9 UE4Editor-SlateCore.dll!SOverlay::OnPaint() [d:\build\++ue4+release-4.19+compile\sync\engine\source\runtime\slatecore\private\widgets\soverlay.cpp:97]
+[2018.07.28-12.17.28:596][429]LogOutputDevice: Error: [Callstack] 0x00000000AE45333C UE4Editor-SlateCore.dll!SWidget::Paint() [d:\build\++ue4+release-4.19+compile\sync\engine\source\runtime\slatecore\private\widgets\swidget.cpp:912]
+[2018.07.28-12.17.28:596][429]LogOutputDevice: Error: [Callstack] 0x00000000AE451AF9 UE4Editor-SlateCore.dll!SOverlay::OnPaint() [d:\build\++ue4+release-4.19+compile\sync\engine\source\runtime\slatecore\private\widgets\soverlay.cpp:97]
+[2018.07.28-12.17.28:596][429]LogOutputDevice: Error: [Callstack] 0x00000000AE45333C UE4Editor-SlateCore.dll!SWidget::Paint() [d:\build\++ue4+release-4.19+compile\sync\engine\source\runtime\slatecore\private\widgets\swidget.cpp:912]
+[2018.07.28-12.17.28:596][429]LogOutputDevice: Error: [Callstack] 0x00000000AE453C76 UE4Editor-SlateCore.dll!SPanel::PaintArrangedChildren() [d:\build\++ue4+release-4.19+compile\sync\engine\source\runtime\slatecore\private\widgets\spanel.cpp:31]
+[2018.07.28-12.17.28:596][429]LogOutputDevice: Error: [Callstack] 0x00000000AE451C2E UE4Editor-SlateCore.dll!SPanel::OnPaint() [d:\build\++ue4+release-4.19+compile\sync\engine\source\runtime\slatecore\private\widgets\spanel.cpp:12]
+[2018.07.28-12.17.28:596][429]LogOutputDevice: Error: [Callstack] 0x00000000AE45333C UE4Editor-SlateCore.dll!SWidget::Paint() [d:\build\++ue4+release-4.19+compile\sync\engine\source\runtime\slatecore\private\widgets\swidget.cpp:912]
+[2018.07.28-12.17.28:596][429]LogOutputDevice: Error: [Callstack] 0x00000000AE453C76 UE4Editor-SlateCore.dll!SPanel::PaintArrangedChildren() [d:\build\++ue4+release-4.19+compile\sync\engine\source\runtime\slatecore\private\widgets\spanel.cpp:31]
+[2018.07.28-12.17.28:596][429]LogOutputDevice: Error: [Callstack] 0x00000000AE451C2E UE4Editor-SlateCore.dll!SPanel::OnPaint() [d:\build\++ue4+release-4.19+compile\sync\engine\source\runtime\slatecore\private\widgets\spanel.cpp:12]
+[2018.07.28-12.17.28:596][429]LogOutputDevice: Error: [Callstack] 0x00000000AE45333C UE4Editor-SlateCore.dll!SWidget::Paint() [d:\build\++ue4+release-4.19+compile\sync\engine\source\runtime\slatecore\private\widgets\swidget.cpp:912]
+[2018.07.28-12.17.28:596][429]LogOutputDevice: Error: [Callstack] 0x00000000AE4515B4 UE4Editor-SlateCore.dll!SCompoundWidget::OnPaint() [d:\build\++ue4+release-4.19+compile\sync\engine\source\runtime\slatecore\private\widgets\scompoundwidget.cpp:35]
+[2018.07.28-12.17.28:596][429]LogOutputDevice: Error: [Callstack] 0x000000009EC29D07 UE4Editor-Engine.dll!SGameLayerManager::OnPaint() [d:\build\++ue4+release-4.19+compile\sync\engine\source\runtime\engine\private\slate\sgamelayermanager.cpp:243]
+[2018.07.28-12.17.28:596][429]LogOutputDevice: Error: [Callstack] 0x00000000AE45333C UE4Editor-SlateCore.dll!SWidget::Paint() [d:\build\++ue4+release-4.19+compile\sync\engine\source\runtime\slatecore\private\widgets\swidget.cpp:912]
+[2018.07.28-12.17.28:596][429]LogOutputDevice: Error: [Callstack] 0x00000000AE451AF9 UE4Editor-SlateCore.dll!SOverlay::OnPaint() [d:\build\++ue4+release-4.19+compile\sync\engine\source\runtime\slatecore\private\widgets\soverlay.cpp:97]
+[2018.07.28-12.17.28:596][429]LogOutputDevice: Error: [Callstack] 0x00000000AE45333C UE4Editor-SlateCore.dll!SWidget::Paint() [d:\build\++ue4+release-4.19+compile\sync\engine\source\runtime\slatecore\private\widgets\swidget.cpp:912]
+[2018.07.28-12.17.28:596][429]LogOutputDevice: Error: [Callstack] 0x00000000AE4515B4 UE4Editor-SlateCore.dll!SCompoundWidget::OnPaint() [d:\build\++ue4+release-4.19+compile\sync\engine\source\runtime\slatecore\private\widgets\scompoundwidget.cpp:35]
+[2018.07.28-12.17.28:596][429]LogOutputDevice: Error: [Callstack] 0x00000000AE92E05A UE4Editor-Slate.dll!SViewport::OnPaint() [d:\build\++ue4+release-4.19+compile\sync\engine\source\runtime\slate\private\widgets\sviewport.cpp:128]
+[2018.07.28-12.17.28:596][429]LogOutputDevice: Error: [Callstack] 0x00000000AE45333C UE4Editor-SlateCore.dll!SWidget::Paint() [d:\build\++ue4+release-4.19+compile\sync\engine\source\runtime\slatecore\private\widgets\swidget.cpp:912]
+[2018.07.28-12.17.28:596][429]LogOutputDevice: Error: [Callstack] 0x00000000AE4515B4 UE4Editor-SlateCore.dll!SCompoundWidget::OnPaint() [d:\build\++ue4+release-4.19+compile\sync\engine\source\runtime\slatecore\private\widgets\scompoundwidget.cpp:35]
+[2018.07.28-12.17.28:596][429]LogOutputDevice: Error: [Callstack] 0x00000000AE45333C UE4Editor-SlateCore.dll!SWidget::Paint() [d:\build\++ue4+release-4.19+compile\sync\engine\source\runtime\slatecore\private\widgets\swidget.cpp:912]
+[2018.07.28-12.17.28:596][429]LogOutputDevice: Error: [Callstack] 0x00000000AE4515B4 UE4Editor-SlateCore.dll!SCompoundWidget::OnPaint() [d:\build\++ue4+release-4.19+compile\sync\engine\source\runtime\slatecore\private\widgets\scompoundwidget.cpp:35]
+[2018.07.28-12.17.28:596][429]LogOutputDevice: Error: [Callstack] 0x00000000AE45333C UE4Editor-SlateCore.dll!SWidget::Paint() [d:\build\++ue4+release-4.19+compile\sync\engine\source\runtime\slatecore\private\widgets\swidget.cpp:912]
+[2018.07.28-12.17.28:596][429]LogOutputDevice: Error: [Callstack] 0x00000000AE929633 UE4Editor-Slate.dll!SCanvas::OnPaint() [d:\build\++ue4+release-4.19+compile\sync\engine\source\runtime\slate\private\widgets\scanvas.cpp:116]
+[2018.07.28-12.17.28:596][429]LogOutputDevice: Error: [Callstack] 0x00000000AE45333C UE4Editor-SlateCore.dll!SWidget::Paint() [d:\build\++ue4+release-4.19+compile\sync\engine\source\runtime\slatecore\private\widgets\swidget.cpp:912]
+[2018.07.28-12.17.28:596][429]LogOutputDevice: Error: [Callstack] 0x00000000AE451AF9 UE4Editor-SlateCore.dll!SOverlay::OnPaint() [d:\build\++ue4+release-4.19+compile\sync\engine\source\runtime\slatecore\private\widgets\soverlay.cpp:97]
+[2018.07.28-12.17.28:596][429]LogOutputDevice: Error: [Callstack] 0x00000000AE45333C UE4Editor-SlateCore.dll!SWidget::Paint() [d:\build\++ue4+release-4.19+compile\sync\engine\source\runtime\slatecore\private\widgets\swidget.cpp:912]
+[2018.07.28-12.17.28:596][429]LogOutputDevice: Error: [Callstack] 0x00000000AE4515B4 UE4Editor-SlateCore.dll!SCompoundWidget::OnPaint() [d:\build\++ue4+release-4.19+compile\sync\engine\source\runtime\slatecore\private\widgets\scompoundwidget.cpp:35]
+[2018.07.28-12.17.28:597][429]LogOutputDevice: Error: [Callstack] 0x00000000AE45333C UE4Editor-SlateCore.dll!SWidget::Paint() [d:\build\++ue4+release-4.19+compile\sync\engine\source\runtime\slatecore\private\widgets\swidget.cpp:912]
+[2018.07.28-12.17.28:597][429]LogOutputDevice: Error: [Callstack] 0x00000000AE4515B4 UE4Editor-SlateCore.dll!SCompoundWidget::OnPaint() [d:\build\++ue4+release-4.19+compile\sync\engine\source\runtime\slatecore\private\widgets\scompoundwidget.cpp:35]
+[2018.07.28-12.17.28:597][429]LogOutputDevice: Error: [Callstack] 0x00000000AE9291E0 UE4Editor-Slate.dll!SBorder::OnPaint() [d:\build\++ue4+release-4.19+compile\sync\engine\source\runtime\slate\private\widgets\layout\sborder.cpp:85]
+[2018.07.28-12.17.28:597][429]LogOutputDevice: Error: [Callstack] 0x00000000AE45333C UE4Editor-SlateCore.dll!SWidget::Paint() [d:\build\++ue4+release-4.19+compile\sync\engine\source\runtime\slatecore\private\widgets\swidget.cpp:912]
+[2018.07.28-12.17.28:597][429]LogOutputDevice: Error: [Callstack] 0x00000000AE451AF9 UE4Editor-SlateCore.dll!SOverlay::OnPaint() [d:\build\++ue4+release-4.19+compile\sync\engine\source\runtime\slatecore\private\widgets\soverlay.cpp:97]
+[2018.07.28-12.17.28:597][429]LogOutputDevice: Error: [Callstack] 0x00000000AE45333C UE4Editor-SlateCore.dll!SWidget::Paint() [d:\build\++ue4+release-4.19+compile\sync\engine\source\runtime\slatecore\private\widgets\swidget.cpp:912]
+[2018.07.28-12.17.28:597][429]LogOutputDevice: Error: [Callstack] 0x00000000AE453C76 UE4Editor-SlateCore.dll!SPanel::PaintArrangedChildren() [d:\build\++ue4+release-4.19+compile\sync\engine\source\runtime\slatecore\private\widgets\spanel.cpp:31]
+[2018.07.28-12.17.28:597][429]LogOutputDevice: Error: [Callstack] 0x00000000AE451C2E UE4Editor-SlateCore.dll!SPanel::OnPaint() [d:\build\++ue4+release-4.19+compile\sync\engine\source\runtime\slatecore\private\widgets\spanel.cpp:12]
+[2018.07.28-12.17.28:597][429]LogOutputDevice: Error: [Callstack] 0x00000000AE45333C UE4Editor-SlateCore.dll!SWidget::Paint() [d:\build\++ue4+release-4.19+compile\sync\engine\source\runtime\slatecore\private\widgets\swidget.cpp:912]
+[2018.07.28-12.17.28:597][429]LogOutputDevice: Error: [Callstack] 0x00000000AE4515B4 UE4Editor-SlateCore.dll!SCompoundWidget::OnPaint() [d:\build\++ue4+release-4.19+compile\sync\engine\source\runtime\slatecore\private\widgets\scompoundwidget.cpp:35]
+[2018.07.28-12.17.28:597][429]LogOutputDevice: Error: [Callstack] 0x00000000AE45333C UE4Editor-SlateCore.dll!SWidget::Paint() [d:\build\++ue4+release-4.19+compile\sync\engine\source\runtime\slatecore\private\widgets\swidget.cpp:912]
+[2018.07.28-12.17.28:597][429]LogOutputDevice: Error: [Callstack] 0x00000000AE453C76 UE4Editor-SlateCore.dll!SPanel::PaintArrangedChildren() [d:\build\++ue4+release-4.19+compile\sync\engine\source\runtime\slatecore\private\widgets\spanel.cpp:31]
+[2018.07.28-12.17.28:597][429]LogOutputDevice: Error: [Callstack] 0x00000000AE92D731 UE4Editor-Slate.dll!SSplitter::OnPaint() [d:\build\++ue4+release-4.19+compile\sync\engine\source\runtime\slate\private\widgets\layout\ssplitter.cpp:164]
+[2018.07.28-12.17.28:597][429]LogOutputDevice: Error: [Callstack] 0x00000000AE45333C UE4Editor-SlateCore.dll!SWidget::Paint() [d:\build\++ue4+release-4.19+compile\sync\engine\source\runtime\slatecore\private\widgets\swidget.cpp:912]
+[2018.07.28-12.17.28:597][429]LogOutputDevice: Error: [Callstack] 0x00000000AE4515B4 UE4Editor-SlateCore.dll!SCompoundWidget::OnPaint() [d:\build\++ue4+release-4.19+compile\sync\engine\source\runtime\slatecore\private\widgets\scompoundwidget.cpp:35]
+[2018.07.28-12.17.28:597][429]LogOutputDevice: Error: [Callstack] 0x00000000AE45333C UE4Editor-SlateCore.dll!SWidget::Paint() [d:\build\++ue4+release-4.19+compile\sync\engine\source\runtime\slatecore\private\widgets\swidget.cpp:912]
+[2018.07.28-12.17.28:597][429]LogOutputDevice: Error: [Callstack] 0x00000000AE453C76 UE4Editor-SlateCore.dll!SPanel::PaintArrangedChildren() [d:\build\++ue4+release-4.19+compile\sync\engine\source\runtime\slatecore\private\widgets\spanel.cpp:31]
+[2018.07.28-12.17.28:597][429]LogOutputDevice: Error: [Callstack] 0x00000000AE92D731 UE4Editor-Slate.dll!SSplitter::OnPaint() [d:\build\++ue4+release-4.19+compile\sync\engine\source\runtime\slate\private\widgets\layout\ssplitter.cpp:164]
+[2018.07.28-12.17.28:597][429]LogOutputDevice: Error: [Callstack] 0x00000000AE45333C UE4Editor-SlateCore.dll!SWidget::Paint() [d:\build\++ue4+release-4.19+compile\sync\engine\source\runtime\slatecore\private\widgets\swidget.cpp:912]
+[2018.07.28-12.17.28:597][429]LogOutputDevice: Error: [Callstack] 0x00000000AE4515B4 UE4Editor-SlateCore.dll!SCompoundWidget::OnPaint() [d:\build\++ue4+release-4.19+compile\sync\engine\source\runtime\slatecore\private\widgets\scompoundwidget.cpp:35]
+[2018.07.28-12.17.28:597][429]LogOutputDevice: Error: [Callstack] 0x00000000AE45333C UE4Editor-SlateCore.dll!SWidget::Paint() [d:\build\++ue4+release-4.19+compile\sync\engine\source\runtime\slatecore\private\widgets\swidget.cpp:912]
+[2018.07.28-12.17.28:597][429]LogOutputDevice: Error: [Callstack] 0x00000000AE453C76 UE4Editor-SlateCore.dll!SPanel::PaintArrangedChildren() [d:\build\++ue4+release-4.19+compile\sync\engine\source\runtime\slatecore\private\widgets\spanel.cpp:31]
+[2018.07.28-12.17.28:597][429]LogOutputDevice: Error: [Callstack] 0x00000000AE92D731 UE4Editor-Slate.dll!SSplitter::OnPaint() [d:\build\++ue4+release-4.19+compile\sync\engine\source\runtime\slate\private\widgets\layout\ssplitter.cpp:164]
+[2018.07.28-12.17.28:597][429]LogOutputDevice: Error: [Callstack] 0x00000000AE45333C UE4Editor-SlateCore.dll!SWidget::Paint() [d:\build\++ue4+release-4.19+compile\sync\engine\source\runtime\slatecore\private\widgets\swidget.cpp:912]
+[2018.07.28-12.17.28:597][429]LogOutputDevice: Error: [Callstack] 0x00000000AE451AF9 UE4Editor-SlateCore.dll!SOverlay::OnPaint() [d:\build\++ue4+release-4.19+compile\sync\engine\source\runtime\slatecore\private\widgets\soverlay.cpp:97]
+[2018.07.28-12.17.28:597][429]LogOutputDevice: Error: [Callstack] 0x00000000AE45333C UE4Editor-SlateCore.dll!SWidget::Paint() [d:\build\++ue4+release-4.19+compile\sync\engine\source\runtime\slatecore\private\widgets\swidget.cpp:912]
+[2018.07.28-12.17.28:597][429]LogOutputDevice: Error: [Callstack] 0x00000000AE4515B4 UE4Editor-SlateCore.dll!SCompoundWidget::OnPaint() [d:\build\++ue4+release-4.19+compile\sync\engine\source\runtime\slatecore\private\widgets\scompoundwidget.cpp:35]
+[2018.07.28-12.17.28:597][429]LogOutputDevice: Error: [Callstack] 0x00000000AE45333C UE4Editor-SlateCore.dll!SWidget::Paint() [d:\build\++ue4+release-4.19+compile\sync\engine\source\runtime\slatecore\private\widgets\swidget.cpp:912]
+[2018.07.28-12.17.28:597][429]LogOutputDevice: Error: [Callstack] 0x00000000AE453C76 UE4Editor-SlateCore.dll!SPanel::PaintArrangedChildren() [d:\build\++ue4+release-4.19+compile\sync\engine\source\runtime\slatecore\private\widgets\spanel.cpp:31]
+[2018.07.28-12.17.28:597][429]LogOutputDevice: Error: [Callstack] 0x00000000AE451C2E UE4Editor-SlateCore.dll!SPanel::OnPaint() [d:\build\++ue4+release-4.19+compile\sync\engine\source\runtime\slatecore\private\widgets\spanel.cpp:12]
+[2018.07.28-12.17.28:597][429]LogOutputDevice: Error: [Callstack] 0x00000000AE45333C UE4Editor-SlateCore.dll!SWidget::Paint() [d:\build\++ue4+release-4.19+compile\sync\engine\source\runtime\slatecore\private\widgets\swidget.cpp:912]
+[2018.07.28-12.17.28:597][429]LogOutputDevice: Error: [Callstack] 0x00000000AE4515B4 UE4Editor-SlateCore.dll!SCompoundWidget::OnPaint() [d:\build\++ue4+release-4.19+compile\sync\engine\source\runtime\slatecore\private\widgets\scompoundwidget.cpp:35]
+[2018.07.28-12.17.28:597][429]LogOutputDevice: Error: [Callstack] 0x00000000AE45333C UE4Editor-SlateCore.dll!SWidget::Paint() [d:\build\++ue4+release-4.19+compile\sync\engine\source\runtime\slatecore\private\widgets\swidget.cpp:912]
+[2018.07.28-12.17.28:597][429]LogOutputDevice: Error: [Callstack] 0x00000000AE4515B4 UE4Editor-SlateCore.dll!SCompoundWidget::OnPaint() [d:\build\++ue4+release-4.19+compile\sync\engine\source\runtime\slatecore\private\widgets\scompoundwidget.cpp:35]
+[2018.07.28-12.17.28:597][429]LogOutputDevice: Error: [Callstack] 0x00000000AE9291E0 UE4Editor-Slate.dll!SBorder::OnPaint() [d:\build\++ue4+release-4.19+compile\sync\engine\source\runtime\slate\private\widgets\layout\sborder.cpp:85]
+[2018.07.28-12.17.28:597][429]LogOutputDevice: Error: [Callstack] 0x00000000AE45333C UE4Editor-SlateCore.dll!SWidget::Paint() [d:\build\++ue4+release-4.19+compile\sync\engine\source\runtime\slatecore\private\widgets\swidget.cpp:912]
+[2018.07.28-12.17.28:597][429]LogOutputDevice: Error: [Callstack] 0x00000000AE451AF9 UE4Editor-SlateCore.dll!SOverlay::OnPaint() [d:\build\++ue4+release-4.19+compile\sync\engine\source\runtime\slatecore\private\widgets\soverlay.cpp:97]
+[2018.07.28-12.17.28:597][429]LogOutputDevice: Error: [Callstack] 0x00000000AE45333C UE4Editor-SlateCore.dll!SWidget::Paint() [d:\build\++ue4+release-4.19+compile\sync\engine\source\runtime\slatecore\private\widgets\swidget.cpp:912]
+[2018.07.28-12.17.28:597][429]LogOutputDevice: Error: [Callstack] 0x00000000AE453C76 UE4Editor-SlateCore.dll!SPanel::PaintArrangedChildren() [d:\build\++ue4+release-4.19+compile\sync\engine\source\runtime\slatecore\private\widgets\spanel.cpp:31]
+[2018.07.28-12.17.28:597][429]LogOutputDevice: Error: [Callstack] 0x00000000AE451C2E UE4Editor-SlateCore.dll!SPanel::OnPaint() [d:\build\++ue4+release-4.19+compile\sync\engine\source\runtime\slatecore\private\widgets\spanel.cpp:12]
+[2018.07.28-12.17.28:597][429]LogOutputDevice: Error: [Callstack] 0x00000000AE45333C UE4Editor-SlateCore.dll!SWidget::Paint() [d:\build\++ue4+release-4.19+compile\sync\engine\source\runtime\slatecore\private\widgets\swidget.cpp:912]
+[2018.07.28-12.17.28:597][429]LogOutputDevice: Error: [Callstack] 0x00000000AE4515B4 UE4Editor-SlateCore.dll!SCompoundWidget::OnPaint() [d:\build\++ue4+release-4.19+compile\sync\engine\source\runtime\slatecore\private\widgets\scompoundwidget.cpp:35]
+[2018.07.28-12.17.28:597][429]LogOutputDevice: Error: [Callstack] 0x00000000AE45333C UE4Editor-SlateCore.dll!SWidget::Paint() [d:\build\++ue4+release-4.19+compile\sync\engine\source\runtime\slatecore\private\widgets\swidget.cpp:912]
+[2018.07.28-12.17.28:597][429]LogOutputDevice: Error: [Callstack] 0x00000000AE453C76 UE4Editor-SlateCore.dll!SPanel::PaintArrangedChildren() [d:\build\++ue4+release-4.19+compile\sync\engine\source\runtime\slatecore\private\widgets\spanel.cpp:31]
+[2018.07.28-12.17.28:597][429]LogOutputDevice: Error: [Callstack] 0x00000000AE92D731 UE4Editor-Slate.dll!SSplitter::OnPaint() [d:\build\++ue4+release-4.19+compile\sync\engine\source\runtime\slate\private\widgets\layout\ssplitter.cpp:164]
+[2018.07.28-12.17.28:597][429]LogOutputDevice: Error: [Callstack] 0x00000000AE45333C UE4Editor-SlateCore.dll!SWidget::Paint() [d:\build\++ue4+release-4.19+compile\sync\engine\source\runtime\slatecore\private\widgets\swidget.cpp:912]
+[2018.07.28-12.17.28:597][429]LogOutputDevice: Error: [Callstack] 0x00000000AE451AF9 UE4Editor-SlateCore.dll!SOverlay::OnPaint() [d:\build\++ue4+release-4.19+compile\sync\engine\source\runtime\slatecore\private\widgets\soverlay.cpp:97]
+[2018.07.28-12.17.28:597][429]LogOutputDevice: Error: [Callstack] 0x00000000AE45333C UE4Editor-SlateCore.dll!SWidget::Paint() [d:\build\++ue4+release-4.19+compile\sync\engine\source\runtime\slatecore\private\widgets\swidget.cpp:912]
+[2018.07.28-12.17.28:597][429]LogOutputDevice: Error: [Callstack] 0x00000000AE4515B4 UE4Editor-SlateCore.dll!SCompoundWidget::OnPaint() [d:\build\++ue4+release-4.19+compile\sync\engine\source\runtime\slatecore\private\widgets\scompoundwidget.cpp:35]
+[2018.07.28-12.17.28:597][429]LogOutputDevice: Error: [Callstack] 0x00000000AE45333C UE4Editor-SlateCore.dll!SWidget::Paint() [d:\build\++ue4+release-4.19+compile\sync\engine\source\runtime\slatecore\private\widgets\swidget.cpp:912]
+[2018.07.28-12.17.28:597][429]LogOutputDevice: Error: [Callstack] 0x00000000AE453C76 UE4Edit
+[2018.07.28-12.17.28:606][429]LogStats:                SubmitErrorReport -  0.000 s
+[2018.07.28-12.17.37:551][429]LogStats:                    SendNewReport -  8.945 s
+[2018.07.28-12.17.37:551][429]LogStats:             FDebug::EnsureFailed - 83.980 s
+[2018.07.28-12.17.37:690][430]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.28-12.17.37:845][430]LogSlate: Took 0.072998 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.07.28-12.17.37:866][430]LogSlate: Took 0.014423 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.07.28-12.17.37:972][430]LogSlate: Took 0.072516 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.07.28-12.17.38:019][430]LogSlate: Took 0.038647 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.07.28-12.19.56:127][620]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.28-12.20.23:949][710]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Map/Menu.Menu:PersistentLevel' has LevelScriptBlueprint '/Game/Map/Menu.Menu:PersistentLevel.Menu' with GeneratedClass '/Game/Map/Menu.Menu_C' with ClassGeneratedBy '/Game/Map/Menu.Menu:PersistentLevel.Menu'
+[2018.07.28-12.20.24:109][710]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Map/Menu.Menu:PersistentLevel' has LevelScriptBlueprint '/Game/Map/Menu.Menu:PersistentLevel.Menu' with GeneratedClass '/Game/Map/Menu.Menu_C' with ClassGeneratedBy '/Game/Map/Menu.Menu:PersistentLevel.Menu'
+[2018.07.28-12.20.46:425][874]LogMaterial: Missing cached shader map for material Material_0, compiling. 
+[2018.07.28-12.20.47:694][874]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.07.28-12.20.47:694][874]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.07.28-12.20.52:473][874]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0009 seconds. Added 116 classes and 0 folders.
+[2018.07.28-12.21.12:214][874]LogSlate: Took 0.100072 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.07.28-12.22.24:691][599]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.28-12.22.25:326][600]LogSlate: Took 0.016635 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.07.28-12.25.40:918][233]LogContentBrowser: Verbose: The majority of assets in the view are of type: FileMediaSource
+[2018.07.28-12.25.41:099][234]LogContentBrowser: Verbose: The majority of assets in the view are of type: FileMediaSource
+[2018.07.28-12.25.49:177][  8]LogSlate: Window 'MainMenuWidget' being destroyed
+[2018.07.28-13.01.28:550][790]LogSlate: Window 'Create Media Player' being destroyed
+[2018.07.28-13.01.31:899][131]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Map/Menu' took 0.184
+[2018.07.28-13.01.31:931][131]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Movies/Back_Ground] ([1] browsable assets)...
+[2018.07.28-13.01.31:931][131]OBJ SavePackage: Finished generating thumbnails for package [/Game/Movies/Back_Ground]
+[2018.07.28-13.01.32:055][131]LogSavePackage: Save=104.91ms
+[2018.07.28-13.01.32:055][131]LogSavePackage: Moving '../../../../../Users/andre/OneDrive/Documents/Unreal Projects/The-Unlucky-Astronautv2/Saved/Back_Ground_Auto104C61A2E4BD82973A6F2E2951433197F.tmp' to '../../../../../Users/andre/OneDrive/Documents/Unreal Projects/The-Unlucky-Astronautv2/Saved/Autosaves/Game/Movies/Back_Ground_Auto1.uasset'
+[2018.07.28-13.01.32:102][131]LogSavePackage: Display: Finished SavePackage ../../../../../Users/andre/OneDrive/Documents/Unreal Projects/The-Unlucky-Astronautv2/Saved/Autosaves/Game/Movies/Back_Ground_Auto1.uasset
+[2018.07.28-13.01.32:103][131]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Movies/NewMediaPlayer] ([1] browsable assets)...
+[2018.07.28-13.01.32:103][131]OBJ SavePackage: Finished generating thumbnails for package [/Game/Movies/NewMediaPlayer]
+[2018.07.28-13.01.32:108][131]LogSavePackage: Save=1.11ms
+[2018.07.28-13.01.32:108][131]LogSavePackage: Moving '../../../../../Users/andre/OneDrive/Documents/Unreal Projects/The-Unlucky-Astronautv2/Saved/NewMediaPlayer_Auto1A7B556CF45F4EC685BF47BAEF8FA0DC3.tmp' to '../../../../../Users/andre/OneDrive/Documents/Unreal Projects/The-Unlucky-Astronautv2/Saved/Autosaves/Game/Movies/NewMediaPlayer_Auto1.uasset'
+[2018.07.28-13.01.32:123][131]LogSavePackage: Display: Finished SavePackage ../../../../../Users/andre/OneDrive/Documents/Unreal Projects/The-Unlucky-Astronautv2/Saved/Autosaves/Game/Movies/NewMediaPlayer_Auto1.uasset
+[2018.07.28-13.01.32:124][131]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Movies/NewMediaPlayer_Video] ([1] browsable assets)...
+[2018.07.28-13.01.32:150][131]OBJ SavePackage:     Rendered thumbnail for [MediaTexture /Game/Movies/NewMediaPlayer_Video.NewMediaPlayer_Video]
+[2018.07.28-13.01.32:150][131]OBJ SavePackage: Finished generating thumbnails for package [/Game/Movies/NewMediaPlayer_Video]
+[2018.07.28-13.01.32:174][131]LogSavePackage: Save=21.59ms
+[2018.07.28-13.01.32:174][131]LogSavePackage: Moving '../../../../../Users/andre/OneDrive/Documents/Unreal Projects/The-Unlucky-Astronautv2/Saved/NewMediaPlayer_Video_Auto134E3CD964BE566E1B88B17849AAC9C4D.tmp' to '../../../../../Users/andre/OneDrive/Documents/Unreal Projects/The-Unlucky-Astronautv2/Saved/Autosaves/Game/Movies/NewMediaPlayer_Video_Auto1.uasset'
+[2018.07.28-13.01.32:187][131]LogSavePackage: Display: Finished SavePackage ../../../../../Users/andre/OneDrive/Documents/Unreal Projects/The-Unlucky-Astronautv2/Saved/Autosaves/Game/Movies/NewMediaPlayer_Video_Auto1.uasset
+[2018.07.28-13.01.32:187][131]LogFileHelpers: Auto-saving content packages took 0.286
+[2018.07.28-13.03.11:283][883]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Movies/MyPlayer" FILE="../../../../../Users/andre/OneDrive/Documents/Unreal Projects/The-Unlucky-Astronautv2/Content/Movies/MyPlayer.uasset" SILENT=true
+[2018.07.28-13.03.11:289][883]LogSavePackage: Save=1.14ms
+[2018.07.28-13.03.11:289][883]LogSavePackage: Moving '../../../../../Users/andre/OneDrive/Documents/Unreal Projects/The-Unlucky-Astronautv2/Saved/MyPlayer199676E14567E4A301AD45A12DA37EE1.tmp' to '../../../../../Users/andre/OneDrive/Documents/Unreal Projects/The-Unlucky-Astronautv2/Content/Movies/MyPlayer.uasset'
+[2018.07.28-13.03.11:293][883]LogSavePackage: Display: Finished SavePackage ../../../../../Users/andre/OneDrive/Documents/Unreal Projects/The-Unlucky-Astronautv2/Content/Movies/MyPlayer.uasset
+[2018.07.28-13.03.31:416][ 89]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Movies/MyPlayer_Video" FILE="../../../../../Users/andre/OneDrive/Documents/Unreal Projects/The-Unlucky-Astronautv2/Content/Movies/MyPlayer_Video.uasset" SILENT=true
+[2018.07.28-13.03.31:444][ 89]LogSavePackage: Save=25.14ms
+[2018.07.28-13.03.31:444][ 89]LogSavePackage: Moving '../../../../../Users/andre/OneDrive/Documents/Unreal Projects/The-Unlucky-Astronautv2/Saved/MyPlayer_Video41B35B3A4A3470ED829FEB96189B1341.tmp' to '../../../../../Users/andre/OneDrive/Documents/Unreal Projects/The-Unlucky-Astronautv2/Content/Movies/MyPlayer_Video.uasset'
+[2018.07.28-13.03.31:448][ 89]LogSavePackage: Display: Finished SavePackage ../../../../../Users/andre/OneDrive/Documents/Unreal Projects/The-Unlucky-Astronautv2/Content/Movies/MyPlayer_Video.uasset
+[2018.07.28-13.04.14:456][745]LogContentBrowser: Native class hierarchy updated for 'TextureEditor' in 0.0006 seconds. Added 1 classes and 2 folders.
+[2018.07.28-13.04.25:852][977]LogMaterial: Missing cached shader map for material Material_1, compiling. 
+[2018.07.28-13.04.25:993][977]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.07.28-13.04.25:993][977]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.07.28-13.04.26:001][977]LogContentBrowser: Verbose: The majority of assets in the view are of type: FileMediaSource
+[2018.07.28-13.09.07:970][680]BlueprintLog: New page: Compile MainMenuWidget
+[2018.07.28-13.09.11:996][970]LogSavePackage: Save=74.94ms
+[2018.07.28-13.09.11:996][970]LogSavePackage: Moving '../../../../../Users/andre/OneDrive/Documents/Unreal Projects/The-Unlucky-Astronautv2/Saved/MainMenuWidgetFB8B09C743AC5999CBC071807AB1FFC4.tmp' to '../../../../../Users/andre/OneDrive/Documents/Unreal Projects/The-Unlucky-Astronautv2/Plugins/MainMenuPlugin/Content/UMG/MainMenuWidget.uasset'
+[2018.07.28-13.09.12:012][970]LogSavePackage: Display: Finished SavePackage ../../../../../Users/andre/OneDrive/Documents/Unreal Projects/The-Unlucky-Astronautv2/Plugins/MainMenuPlugin/Content/UMG/MainMenuWidget.uasset
+[2018.07.28-13.09.19:470][755]LogTemp: Repeating last play command: Selected Viewport
+[2018.07.28-13.09.19:534][755]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Map/Menu.Menu:PersistentLevel' has LevelScriptBlueprint '/Game/Map/Menu.Menu:PersistentLevel.Menu' with GeneratedClass '/Game/Map/Menu.Menu_C' with ClassGeneratedBy '/Game/Map/Menu.Menu:PersistentLevel.Menu'
+[2018.07.28-13.09.19:590][755]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.07.28-13.09.19:610][755]PIE: New page: PIE session: Menu (28 июля 2018 г., 19:09:19)
+[2018.07.28-13.09.19:611][755]LogPlayLevel: Creating play world package: /Game/Map/UEDPIE_0_Menu
+[2018.07.28-13.09.19:612][755]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001263s)
+[2018.07.28-13.09.19:730][755]LogAIModule: Creating AISystem for world Menu
+[2018.07.28-13.09.19:730][755]LogPlayLevel: PIE: World Init took: (0.117208s)
+[2018.07.28-13.09.19:730][755]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Map/Menu.Menu to /Game/Map/UEDPIE_0_Menu.Menu (0.118635s)
+[2018.07.28-13.09.19:767][755]LogInit: XAudio2 using 'Динамики (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.07.28-13.09.19:783][755]LogInit: FAudioDevice initialized.
+[2018.07.28-13.09.19:816][755]LogLoad: Game class is 'MenuGameMode_C'
+[2018.07.28-13.09.19:817][755]LogWorld: Bringing World /Game/Map/UEDPIE_0_Menu.Menu up for play (max tick rate 0) at 2018.07.28-16.09.19
+[2018.07.28-13.09.19:817][755]LogWorld: Bringing up level for play took: 0.000390
+[2018.07.28-13.09.19:908][755]PIE: Play in editor start time for /Game/Map/UEDPIE_0_Menu 0,551
+[2018.07.28-13.09.19:908][755]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Map/Menu.Menu:PersistentLevel' has LevelScriptBlueprint '/Game/Map/Menu.Menu:PersistentLevel.Menu' with GeneratedClass '/Game/Map/Menu.Menu_C' with ClassGeneratedBy '/Game/Map/Menu.Menu:PersistentLevel.Menu'
+[2018.07.28-13.09.30:478][810]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.28-13.09.30:588][820]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Map/Menu.Menu:PersistentLevel' has LevelScriptBlueprint '/Game/Map/Menu.Menu:PersistentLevel.Menu' with GeneratedClass '/Game/Map/Menu.Menu_C' with ClassGeneratedBy '/Game/Map/Menu.Menu:PersistentLevel.Menu'
+[2018.07.28-13.09.30:630][820]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Map/Menu.Menu:PersistentLevel' has LevelScriptBlueprint '/Game/Map/Menu.Menu:PersistentLevel.Menu' with GeneratedClass '/Game/Map/Menu.Menu_C' with ClassGeneratedBy '/Game/Map/Menu.Menu:PersistentLevel.Menu'
+[2018.07.28-13.09.49:218][857]BlueprintLog: New page: Compile MainMenuWidget
+[2018.07.28-13.11.43:637][960]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Map/Menu' took 0.030
+[2018.07.28-13.11.43:639][960]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/MainMenuPlugin/UMG/MainMenuWidget] ([1] browsable assets)...
+[2018.07.28-13.11.43:639][960]OBJ SavePackage: Finished generating thumbnails for package [/MainMenuPlugin/UMG/MainMenuWidget]
+[2018.07.28-13.11.43:696][960]LogSavePackage: Save=43.26ms
+[2018.07.28-13.11.43:696][960]LogSavePackage: Moving '../../../../../Users/andre/OneDrive/Documents/Unreal Projects/The-Unlucky-Astronautv2/Saved/MainMenuWidget_Auto225DEF5114614E11216E8C8A883827A6A.tmp' to '../../../../../Users/andre/OneDrive/Documents/Unreal Projects/The-Unlucky-Astronautv2/Saved/Autosaves/MainMenuPlugin/UMG/MainMenuWidget_Auto2.uasset'
+[2018.07.28-13.11.43:699][960]LogSavePackage: Display: Finished SavePackage ../../../../../Users/andre/OneDrive/Documents/Unreal Projects/The-Unlucky-Astronautv2/Saved/Autosaves/MainMenuPlugin/UMG/MainMenuWidget_Auto2.uasset
+[2018.07.28-13.11.43:700][960]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Movies/MyPlayer] ([1] browsable assets)...
+[2018.07.28-13.11.43:700][960]OBJ SavePackage: Finished generating thumbnails for package [/Game/Movies/MyPlayer]
+[2018.07.28-13.11.43:716][960]LogSavePackage: Save=1.23ms
+[2018.07.28-13.11.43:716][960]LogSavePackage: Moving '../../../../../Users/andre/OneDrive/Documents/Unreal Projects/The-Unlucky-Astronautv2/Saved/MyPlayer_Auto2FFF7C363487EDE24B6EA1ABCDD5D627D.tmp' to '../../../../../Users/andre/OneDrive/Documents/Unreal Projects/The-Unlucky-Astronautv2/Saved/Autosaves/Game/Movies/MyPlayer_Auto2.uasset'
+[2018.07.28-13.11.43:720][960]LogSavePackage: Display: Finished SavePackage ../../../../../Users/andre/OneDrive/Documents/Unreal Projects/The-Unlucky-Astronautv2/Saved/Autosaves/Game/Movies/MyPlayer_Auto2.uasset
+[2018.07.28-13.11.43:720][960]LogFileHelpers: Auto-saving content packages took 0.082
+[2018.07.28-13.33.51:727][902]LogAIModule: Creating AISystem for world ULA
+[2018.07.28-13.34.03:982][902]LogSlate: Window 'Save Content' being destroyed
+[2018.07.28-13.34.03:994][902]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Movies/Back_Ground" FILE="../../../../../Users/andre/OneDrive/Documents/Unreal Projects/The-Unlucky-Astronautv2/Content/Movies/Back_Ground.uasset" SILENT=true
+[2018.07.28-13.34.03:999][902]LogSavePackage: Save=1.41ms
+[2018.07.28-13.34.03:999][902]LogSavePackage: Moving '../../../../../Users/andre/OneDrive/Documents/Unreal Projects/The-Unlucky-Astronautv2/Saved/Back_Ground888A326E41E7C93D134EFC861535A248.tmp' to '../../../../../Users/andre/OneDrive/Documents/Unreal Projects/The-Unlucky-Astronautv2/Content/Movies/Back_Ground.uasset'
+[2018.07.28-13.34.04:004][902]LogSavePackage: Display: Finished SavePackage ../../../../../Users/andre/OneDrive/Documents/Unreal Projects/The-Unlucky-Astronautv2/Content/Movies/Back_Ground.uasset
+[2018.07.28-13.34.04:004][902]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Movies/MyPlayer" FILE="../../../../../Users/andre/OneDrive/Documents/Unreal Projects/The-Unlucky-Astronautv2/Content/Movies/MyPlayer.uasset" SILENT=true
+[2018.07.28-13.34.04:021][902]LogSavePackage: Save=1.19ms
+[2018.07.28-13.34.04:021][902]LogSavePackage: Moving '../../../../../Users/andre/OneDrive/Documents/Unreal Projects/The-Unlucky-Astronautv2/Saved/MyPlayer0A657F7E4108CAB80365D2A9FDA3CE14.tmp' to '../../../../../Users/andre/OneDrive/Documents/Unreal Projects/The-Unlucky-Astronautv2/Content/Movies/MyPlayer.uasset'
+[2018.07.28-13.34.04:031][902]LogSavePackage: Display: Finished SavePackage ../../../../../Users/andre/OneDrive/Documents/Unreal Projects/The-Unlucky-Astronautv2/Content/Movies/MyPlayer.uasset
+[2018.07.28-13.34.04:094][902]LogSavePackage: Save=46.25ms
+[2018.07.28-13.34.04:094][902]LogSavePackage: Moving '../../../../../Users/andre/OneDrive/Documents/Unreal Projects/The-Unlucky-Astronautv2/Saved/MainMenuWidget1A8DA98C4B44084685E3BEB18813B9C0.tmp' to '../../../../../Users/andre/OneDrive/Documents/Unreal Projects/The-Unlucky-Astronautv2/Plugins/MainMenuPlugin/Content/UMG/MainMenuWidget.uasset'
+[2018.07.28-13.34.04:099][902]LogSavePackage: Display: Finished SavePackage ../../../../../Users/andre/OneDrive/Documents/Unreal Projects/The-Unlucky-Astronautv2/Plugins/MainMenuPlugin/Content/UMG/MainMenuWidget.uasset
+[2018.07.28-13.34.04:104][902]Cmd: MAP LOAD FILE="../../../../../Users/andre/OneDrive/Documents/Unreal Projects/The-Unlucky-Astronautv2/Content/Map/ULA.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.07.28-13.34.04:104][902]LightingResults: New page: Lighting Build
+[2018.07.28-13.34.04:130][902]LoadErrors: New page: Loading map: ULA.umap
+[2018.07.28-13.34.04:162][902]MapCheck: New page: Map Check
+[2018.07.28-13.34.04:162][902]LightingResults: New page: Lighting Build
+[2018.07.28-13.34.05:044][902]LogEditorServer: Finished looking for orphan Actors (0.001 secs)
+[2018.07.28-13.34.05:101][902]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.07.28-13.34.07:039][902]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 1 937,168ms to complete.
+[2018.07.28-13.34.07:043][902]LogFileHelpers: Loading map 'ULA' took 2.943
+[2018.07.28-13.34.09:480][ 79]LogAIModule: Creating AISystem for world Menu
+[2018.07.28-13.34.31:611][ 70]LogSlate: Window 'Delete Assets' being destroyed
+[2018.07.28-13.34.55:808][ 94]LogSlate: Window 'Save Content' being destroyed
+[2018.07.28-13.34.55:817][ 94]Cmd: MAP LOAD FILE="../../../../../Users/andre/OneDrive/Documents/Unreal Projects/The-Unlucky-Astronautv2/Content/Map/MainMenu.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.07.28-13.34.55:820][ 94]LightingResults: New page: Lighting Build
+[2018.07.28-13.34.55:821][ 94]LoadErrors: New page: Loading map: MainMenu.umap
+[2018.07.28-13.34.55:822][ 94]MapCheck: New page: Map Check
+[2018.07.28-13.34.55:822][ 94]LightingResults: New page: Lighting Build
+[2018.07.28-13.34.55:952][ 94]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.07.28-13.34.55:952][ 94]LogAIModule: Creating AISystem for world MainMenu
+[2018.07.28-13.34.56:040][ 94]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.07.28-13.34.56:169][ 94]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 128,739ms to complete.
+[2018.07.28-13.34.56:173][ 94]LogFileHelpers: Loading map 'MainMenu' took 0.358
+[2018.07.28-13.38.05:198][171]LogSlate: Window 'Delete Assets' being destroyed
+[2018.07.28-13.38.20:728][605]LogSlate: Window 'Pick Parent Class' being destroyed
+[2018.07.28-13.38.54:058][150]LogRenderer: Reallocating scene render targets to support 860x880 Format 10 NumSamples 1 (Frame:1).
+[2018.07.28-13.40.30:777][458]BlueprintLog: New page: Compile MainMenu_HUD
+[2018.07.28-13.40.30:847][458]LogBlueprint: Error: [Compiler MainMenu_HUD] Spawn node  Create Widget  must have a class specified.
+[2018.07.28-13.40.32:197][458]LogBlueprint: Warning: [Compiler MainMenu_HUD] [6684,23] Compile of MainMenu_HUD failed. 1 Fatal Issue(s) 0 Warning(s) [in 1 418 ms] (/Game/UI/MainMenu_HUD.MainMenu_HUD)
+[2018.07.28-13.41.28:891][196]LogMetaData: Removing '/Game/UI/MainMenu_Widget.SKEL_MainMenu_Widget_C' ref from Metadata '/Game/UI/MainMenu_Wiget.PackageMetaData'
+[2018.07.28-13.41.28:891][196]LogMetaData: Removing '/Game/UI/MainMenu_Widget.MainMenu_Widget_C' ref from Metadata '/Game/UI/MainMenu_Wiget.PackageMetaData'
+[2018.07.28-13.41.28:891][196]LogMetaData: Removing '/Game/UI/MainMenu_Widget.MainMenu_Widget:EventGraph.K2Node_Event_0' ref from Metadata '/Game/UI/MainMenu_Wiget.PackageMetaData'
+[2018.07.28-13.41.28:891][196]LogMetaData: Removing '/Game/UI/MainMenu_Widget.MainMenu_Widget:EventGraph.K2Node_Event_1' ref from Metadata '/Game/UI/MainMenu_Wiget.PackageMetaData'
+[2018.07.28-13.41.28:891][196]LogMetaData: Removing '/Game/UI/MainMenu_Widget.MainMenu_Widget:EventGraph.K2Node_Event_2' ref from Metadata '/Game/UI/MainMenu_Wiget.PackageMetaData'
+[2018.07.28-13.41.28:931][196]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/MainMenu_Widget" FILE="../../../../../Users/andre/OneDrive/Documents/Unreal Projects/The-Unlucky-Astronautv2/Content/UI/MainMenu_Widget.uasset" SILENT=true
+[2018.07.28-13.41.28:940][196]LogSavePackage: Save=5.67ms
+[2018.07.28-13.41.28:940][196]LogSavePackage: Moving '../../../../../Users/andre/OneDrive/Documents/Unreal Projects/The-Unlucky-Astronautv2/Saved/MainMenu_Widget4C5491114F4DABC87CA17C9FBC3D93A3.tmp' to '../../../../../Users/andre/OneDrive/Documents/Unreal Projects/The-Unlucky-Astronautv2/Content/UI/MainMenu_Widget.uasset'
+[2018.07.28-13.41.28:946][196]LogSavePackage: Display: Finished SavePackage ../../../../../Users/andre/OneDrive/Documents/Unreal Projects/The-Unlucky-Astronautv2/Content/UI/MainMenu_Widget.uasset
+[2018.07.28-13.41.39:325][837]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2018.07.28-13.41.56:517][115]BlueprintLog: New page: Compile MainMenu_HUD
+[2018.07.28-13.41.56:561][115]LogBlueprint: Error: [Compiler MainMenu_HUD] This blueprint (self) is not a UserWidget, therefore ' Target ' must have a connection.
+[2018.07.28-13.41.56:715][115]LogBlueprint: Warning: [Compiler MainMenu_HUD] [6768,75] Compile of MainMenu_HUD failed. 1 Fatal Issue(s) 0 Warning(s) [in 197 ms] (/Game/UI/MainMenu_HUD.MainMenu_HUD)
+[2018.07.28-13.42.09:729][302]BlueprintLog: New page: Compile MainMenu_HUD
+[2018.07.28-13.43.16:137][648]LogSlate: Window 'Pick Parent Class' being destroyed
+[2018.07.28-13.43.45:325][986]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2018.07.28-13.44.02:445][  1]BlueprintLog: New page: Compile MainMenu_HUD
+[2018.07.28-13.44.05:227][259]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2018.07.28-13.44.52:501][627]LogSavePackage: Save=3.56ms
+[2018.07.28-13.44.52:501][627]LogSavePackage: Moving '../../../../../Users/andre/OneDrive/Documents/Unreal Projects/The-Unlucky-Astronautv2/Saved/MainMenu_Auto31B59C4B941C45C686C6F94820DE03342.tmp' to '../../../../../Users/andre/OneDrive/Documents/Unreal Projects/The-Unlucky-Astronautv2/Saved/Autosaves/Game/Map/MainMenu_Auto3.umap'
+[2018.07.28-13.44.52:504][627]LogSavePackage: Display: Finished SavePackage ../../../../../Users/andre/OneDrive/Documents/Unreal Projects/The-Unlucky-Astronautv2/Saved/Autosaves/Game/Map/MainMenu_Auto3.umap
+[2018.07.28-13.44.52:543][627]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Map/MainMenu' took 0.127
+[2018.07.28-13.44.52:543][627]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.127
+[2018.07.28-13.44.52:547][627]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/UI/MainMenu_HUD] ([1] browsable assets)...
+[2018.07.28-13.44.52:547][627]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/MainMenu_HUD]
+[2018.07.28-13.44.52:571][627]LogSavePackage: Save=21.13ms
+[2018.07.28-13.44.52:571][627]LogSavePackage: Moving '../../../../../Users/andre/OneDrive/Documents/Unreal Projects/The-Unlucky-Astronautv2/Saved/MainMenu_HUD_Auto37C5529704EF3B9C5809477813DB74882.tmp' to '../../../../../Users/andre/OneDrive/Documents/Unreal Projects/The-Unlucky-Astronautv2/Saved/Autosaves/Game/UI/MainMenu_HUD_Auto3.uasset'
+[2018.07.28-13.44.52:577][627]LogSavePackage: Display: Finished SavePackage ../../../../../Users/andre/OneDrive/Documents/Unreal Projects/The-Unlucky-Astronautv2/Saved/Autosaves/Game/UI/MainMenu_HUD_Auto3.uasset
+[2018.07.28-13.44.52:578][627]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/UI/MainMenu_GameMode] ([1] browsable assets)...
+[2018.07.28-13.44.52:578][627]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/MainMenu_GameMode]
+[2018.07.28-13.44.52:620][627]LogSavePackage: Save=37.17ms
+[2018.07.28-13.44.52:620][627]LogSavePackage: Moving '../../../../../Users/andre/OneDrive/Documents/Unreal Projects/The-Unlucky-Astronautv2/Saved/MainMenu_GameMode_Auto31634620B4476A918E9B473812E8084AD.tmp' to '../../../../../Users/andre/OneDrive/Documents/Unreal Projects/The-Unlucky-Astronautv2/Saved/Autosaves/Game/UI/MainMenu_GameMode_Auto3.uasset'
+[2018.07.28-13.44.52:624][627]LogSavePackage: Display: Finished SavePackage ../../../../../Users/andre/OneDrive/Documents/Unreal Projects/The-Unlucky-Astronautv2/Saved/Autosaves/Game/UI/MainMenu_GameMode_Auto3.uasset
+[2018.07.28-13.44.52:624][627]LogFileHelpers: Auto-saving content packages took 0.079
+[2018.07.28-13.45.16:228][ 24]LogTemp: Repeating last play command: Selected Viewport
+[2018.07.28-13.45.16:251][ 24]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.07.28-13.45.16:252][ 24]PIE: New page: PIE session: MainMenu (28 июля 2018 г., 19:45:16)
+[2018.07.28-13.45.16:252][ 24]LogPlayLevel: Creating play world package: /Game/Map/UEDPIE_0_MainMenu
+[2018.07.28-13.45.16:253][ 24]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000885s)
+[2018.07.28-13.45.16:254][ 24]LogAIModule: Creating AISystem for world MainMenu
+[2018.07.28-13.45.16:254][ 24]LogPlayLevel: PIE: World Init took: (0.001220s)
+[2018.07.28-13.45.16:254][ 24]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Map/MainMenu.MainMenu to /Game/Map/UEDPIE_0_MainMenu.MainMenu (0.002290s)
+[2018.07.28-13.45.16:293][ 24]LogInit: XAudio2 using 'Динамики (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.07.28-13.45.16:307][ 24]LogInit: FAudioDevice initialized.
+[2018.07.28-13.45.16:343][ 24]LogLoad: Game class is 'MainMenu_GameMode_C'
+[2018.07.28-13.45.16:345][ 24]LogWorld: Bringing World /Game/Map/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 0) at 2018.07.28-16.45.16
+[2018.07.28-13.45.16:345][ 24]LogWorld: Bringing up level for play took: 0.000384
+[2018.07.28-13.45.16:367][ 24]PIE: Play in editor start time for /Game/Map/UEDPIE_0_MainMenu 1,011
+[2018.07.28-13.49.08:844][880]LogTexture: Display: Building textures: Радар (AutoDXT, 256X256)
+[2018.07.28-13.49.08:844][880]LogMaterial: Missing cached shader map for material RadarBack_Mat, compiling. 
+[2018.07.28-13.49.08:946][880]LogShaderCompilers: Display: Shaders left to compile 20
+[2018.07.28-13.49.08:946][880]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.07.28-13.49.08:946][880]LogMaterial: Missing cached shader map for material RadarFrame_Mat, compiling. 
+[2018.07.28-13.49.09:374][880]LogShaderCompilers: Display: Shaders left to compile 25
+[2018.07.28-13.49.09:374][880]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.07.28-13.49.09:374][880]LogMaterial: Missing cached shader map for material radioBoxChekedHowered_Mat, compiling. 
+[2018.07.28-13.49.09:565][880]LogMaterial: Missing cached shader map for material TextBox_Mat, compiling. 
+[2018.07.28-13.49.09:588][880]LogMaterial: Missing cached shader map for material ButtonOverMat, compiling. 
+[2018.07.28-13.49.09:676][880]LogMaterial: Missing cached shader map for material ButtonNormalMat, compiling. 
+[2018.07.28-13.49.09:845][880]LogMaterial: Missing cached shader map for material RadarBack_Mat, compiling. 
+[2018.07.28-13.49.09:887][880]LogMaterial: Missing cached shader map for material RadarFrame_Mat, compiling. 
+[2018.07.28-13.49.10:565][903]LogShaderCompilers: Display: Shaders left to compile 145
+[2018.07.28-13.49.11:144][926]LogShaderCompilers: Display: Shaders left to compile 135
+[2018.07.28-13.49.11:997][963]LogShaderCompilers: Display: Shaders left to compile 125
+[2018.07.28-13.49.12:122][969]LogShaderCompilers: Display: Shaders left to compile 115
+[2018.07.28-13.49.12:270][971]LogShaderCompilers: Display: Shaders left to compile 105
+[2018.07.28-13.49.13:436][ 41]LogShaderCompilers: Display: Shaders left to compile 95
+[2018.07.28-13.49.13:611][ 51]LogShaderCompilers: Display: Shaders left to compile 85
+[2018.07.28-13.49.13:752][ 61]LogShaderCompilers: Display: Shaders left to compile 75
+[2018.07.28-13.49.14:694][114]LogShaderCompilers: Display: Shaders left to compile 65
+[2018.07.28-13.49.15:102][141]LogShaderCompilers: Display: Shaders left to compile 55
+[2018.07.28-13.49.15:419][162]LogShaderCompilers: Display: Shaders left to compile 45
+[2018.07.28-13.49.16:105][207]LogShaderCompilers: Display: Shaders left to compile 35
+[2018.07.28-13.49.16:458][227]LogShaderCompilers: Display: Shaders left to compile 25
+[2018.07.28-13.49.17:096][270]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.07.28-13.49.17:427][292]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.07.28-13.52.09:032][ 78]BlueprintLog: New page: Compile MainMenu_Widget
+[2018.07.28-13.52.12:592][424]LogTemp: Repeating last play command: Selected Viewport
+[2018.07.28-13.52.12:615][424]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.07.28-13.52.12:615][424]PIE: New page: PIE session: MainMenu (28 июля 2018 г., 19:52:12)
+[2018.07.28-13.52.12:616][424]LogPlayLevel: Creating play world package: /Game/Map/UEDPIE_0_MainMenu
+[2018.07.28-13.52.12:616][424]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000492s)
+[2018.07.28-13.52.12:617][424]LogAIModule: Creating AISystem for world MainMenu
+[2018.07.28-13.52.12:617][424]LogPlayLevel: PIE: World Init took: (0.000638s)
+[2018.07.28-13.52.12:617][424]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Map/MainMenu.MainMenu to /Game/Map/UEDPIE_0_MainMenu.MainMenu (0.001225s)
+[2018.07.28-13.52.12:652][424]LogInit: XAudio2 using 'Динамики (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.07.28-13.52.12:668][424]LogInit: FAudioDevice initialized.
+[2018.07.28-13.52.12:704][424]LogLoad: Game class is 'MainMenu_GameMode_C'
+[2018.07.28-13.52.12:705][424]LogWorld: Bringing World /Game/Map/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 0) at 2018.07.28-16.52.12
+[2018.07.28-13.52.12:705][424]LogWorld: Bringing up level for play took: 0.000297
+[2018.07.28-13.52.12:706][424]PIE: Play in editor start time for /Game/Map/UEDPIE_0_MainMenu -0,65
+[2018.07.28-13.52.25:569][682]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.28-13.52.25:670][692]LogTemp: Repeating last play command: Selected Viewport
+[2018.07.28-13.52.25:694][692]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.07.28-13.52.25:695][692]PIE: New page: PIE session: MainMenu (28 июля 2018 г., 19:52:25)
+[2018.07.28-13.52.25:695][692]LogPlayLevel: Creating play world package: /Game/Map/UEDPIE_0_MainMenu
+[2018.07.28-13.52.25:696][692]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000724s)
+[2018.07.28-13.52.25:696][692]LogAIModule: Creating AISystem for world MainMenu
+[2018.07.28-13.52.25:697][692]LogPlayLevel: PIE: World Init took: (0.000867s)
+[2018.07.28-13.52.25:697][692]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Map/MainMenu.MainMenu to /Game/Map/UEDPIE_0_MainMenu.MainMenu (0.001718s)
+[2018.07.28-13.52.25:733][692]LogInit: XAudio2 using 'Динамики (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.07.28-13.52.25:747][692]LogInit: FAudioDevice initialized.
+[2018.07.28-13.52.25:780][692]LogLoad: Game class is 'MainMenu_GameMode_C'
+[2018.07.28-13.52.25:781][692]LogWorld: Bringing World /Game/Map/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 0) at 2018.07.28-16.52.25
+[2018.07.28-13.52.25:781][692]LogWorld: Bringing up level for play took: 0.000323
+[2018.07.28-13.52.25:783][692]PIE: Play in editor start time for /Game/Map/UEDPIE_0_MainMenu 0,426
+[2018.07.28-13.52.31:627][275]LogRenderer: Reallocating scene render targets to support 1452x880 Format 10 NumSamples 1 (Frame:572).
+[2018.07.28-13.55.28:044][ 26]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Map/MainMenu' took 0.037
+[2018.07.28-13.55.28:048][ 26]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/UI/MainMenu_HUD] ([1] browsable assets)...
+[2018.07.28-13.55.28:048][ 26]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/MainMenu_HUD]
+[2018.07.28-13.55.28:076][ 26]LogSavePackage: Save=24.75ms
+[2018.07.28-13.55.28:076][ 26]LogSavePackage: Moving '../../../../../Users/andre/OneDrive/Documents/Unreal Projects/The-Unlucky-Astronautv2/Saved/MainMenu_HUD_Auto4AE172C5A42EE96B185FD009B73698108.tmp' to '../../../../../Users/andre/OneDrive/Documents/Unreal Projects/The-Unlucky-Astronautv2/Saved/Autosaves/Game/UI/MainMenu_HUD_Auto4.uasset'
+[2018.07.28-13.55.28:080][ 26]LogSavePackage: Display: Finished SavePackage ../../../../../Users/andre/OneDrive/Documents/Unreal Projects/The-Unlucky-Astronautv2/Saved/Autosaves/Game/UI/MainMenu_HUD_Auto4.uasset
+[2018.07.28-13.55.28:081][ 26]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/UI/MainMenu_GameMode] ([1] browsable assets)...
+[2018.07.28-13.55.28:081][ 26]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/MainMenu_GameMode]
+[2018.07.28-13.55.28:088][ 26]LogSavePackage: Save=5.10ms
+[2018.07.28-13.55.28:088][ 26]LogSavePackage: Moving '../../../../../Users/andre/OneDrive/Documents/Unreal Projects/The-Unlucky-Astronautv2/Saved/MainMenu_GameMode_Auto4BC37298A420380E80778379FE4A0C841.tmp' to '../../../../../Users/andre/OneDrive/Documents/Unreal Projects/The-Unlucky-Astronautv2/Saved/Autosaves/Game/UI/MainMenu_GameMode_Auto4.uasset'
+[2018.07.28-13.55.28:096][ 26]LogSavePackage: Display: Finished SavePackage ../../../../../Users/andre/OneDrive/Documents/Unreal Projects/The-Unlucky-Astronautv2/Saved/Autosaves/Game/UI/MainMenu_GameMode_Auto4.uasset
+[2018.07.28-13.55.28:097][ 26]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/UI/MainMenu_Widget] ([1] browsable assets)...
+[2018.07.28-13.55.28:097][ 26]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/MainMenu_Widget]
+[2018.07.28-13.55.28:122][ 26]LogSavePackage: Save=6.46ms
+[2018.07.28-13.55.28:122][ 26]LogSavePackage: Moving '../../../../../Users/andre/OneDrive/Documents/Unreal Projects/The-Unlucky-Astronautv2/Saved/MainMenu_Widget_Auto4D6B50A534F60AA212AE58880269BF734.tmp' to '../../../../../Users/andre/OneDrive/Documents/Unreal Projects/The-Unlucky-Astronautv2/Saved/Autosaves/Game/UI/MainMenu_Widget_Auto4.uasset'
+[2018.07.28-13.55.28:130][ 26]LogSavePackage: Display: Finished SavePackage ../../../../../Users/andre/OneDrive/Documents/Unreal Projects/The-Unlucky-Astronautv2/Saved/Autosaves/Game/UI/MainMenu_Widget_Auto4.uasset
+[2018.07.28-13.55.28:132][ 26]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/UI/MenuAssets/checkBoxUnChekedHowered_Mat_Inst] ([1] browsable assets)...
+[2018.07.28-13.55.28:146][ 26]OBJ SavePackage:     Rendered thumbnail for [MaterialInstanceConstant /Game/UI/MenuAssets/checkBoxUnChekedHowered_Mat_Inst.checkBoxUnChekedHowered_Mat_Inst]
+[2018.07.28-13.55.28:146][ 26]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/MenuAssets/checkBoxUnChekedHowered_Mat_Inst]
+[2018.07.28-13.55.28:194][ 26]LogSavePackage: Save=44.55ms
+[2018.07.28-13.55.28:194][ 26]LogSavePackage: Moving '../../../../../Users/andre/OneDrive/Documents/Unreal Projects/The-Unlucky-Astronautv2/Saved/checkBoxUnChekedHowered_Mat_InstC8829C42476489079D008E96968FB4D7.tmp' to '../../../../../Users/andre/OneDrive/Documents/Unreal Projects/The-Unlucky-Astronautv2/Saved/Autosaves/Game/UI/MenuAssets/checkBoxUnChekedHowered_Mat_Inst_Auto4.uasset'
+[2018.07.28-13.55.28:198][ 26]LogSavePackage: Display: Finished SavePackage ../../../../../Users/andre/OneDrive/Documents/Unreal Projects/The-Unlucky-Astronautv2/Saved/Autosaves/Game/UI/MenuAssets/checkBoxUnChekedHowered_Mat_Inst_Auto4.uasset
+[2018.07.28-13.55.28:199][ 26]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/UI/MenuAssets/checkBoxUnchecked] ([1] browsable assets)...
+[2018.07.28-13.55.28:211][ 26]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/UI/MenuAssets/checkBoxUnchecked.checkBoxUnchecked]
+[2018.07.28-13.55.28:211][ 26]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/MenuAssets/checkBoxUnchecked]
+[2018.07.28-13.55.28:221][ 26]LogSavePackage: Save=5.02ms
+[2018.07.28-13.55.28:221][ 26]LogSavePackage: Moving '../../../../../Users/andre/OneDrive/Documents/Unreal Projects/The-Unlucky-Astronautv2/Saved/checkBoxUnchecked_Auto4134D63F14B30694977A12180D9750FD1.tmp' to '../../../../../Users/andre/OneDrive/Documents/Unreal Projects/The-Unlucky-Astronautv2/Saved/Autosaves/Game/UI/MenuAssets/checkBoxUnchecked_Auto4.uasset'
+[2018.07.28-13.55.28:225][ 26]LogSavePackage: Display: Finished SavePackage ../../../../../Users/andre/OneDrive/Documents/Unreal Projects/The-Unlucky-Astronautv2/Saved/Autosaves/Game/UI/MenuAssets/checkBoxUnchecked_Auto4.uasset
+[2018.07.28-13.55.28:227][ 26]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/UI/MenuAssets/checkBoxChekedHowered_Mat_Inst] ([1] browsable assets)...
+[2018.07.28-13.55.28:238][ 26]OBJ SavePackage:     Rendered thumbnail for [MaterialInstanceConstant /Game/UI/MenuAssets/checkBoxChekedHowered_Mat_Inst.checkBoxChekedHowered_Mat_Inst]
+[2018.07.28-13.55.28:238][ 26]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/MenuAssets/checkBoxChekedHowered_Mat_Inst]
+[2018.07.28-13.55.28:251][ 26]LogSavePackage: Save=9.70ms
+[2018.07.28-13.55.28:251][ 26]LogSavePackage: Moving '../../../../../Users/andre/OneDrive/Documents/Unreal Projects/The-Unlucky-Astronautv2/Saved/checkBoxChekedHowered_Mat_Inst_A80A8CD014C54F7E22925428A1157D4D2.tmp' to '../../../../../Users/andre/OneDrive/Documents/Unreal Projects/The-Unlucky-Astronautv2/Saved/Autosaves/Game/UI/MenuAssets/checkBoxChekedHowered_Mat_Inst_Auto4.uasset'
+[2018.07.28-13.55.28:257][ 26]LogSavePackage: Display: Finished SavePackage ../../../../../Users/andre/OneDrive/Documents/Unreal Projects/The-Unlucky-Astronautv2/Saved/Autosaves/Game/UI/MenuAssets/checkBoxChekedHowered_Mat_Inst_Auto4.uasset
+[2018.07.28-13.55.28:258][ 26]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/UI/MenuAssets/checkBoxChecked] ([1] browsable assets)...
+[2018.07.28-13.55.28:268][ 26]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/UI/MenuAssets/checkBoxChecked.checkBoxChecked]
+[2018.07.28-13.55.28:268][ 26]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/MenuAssets/checkBoxChecked]
+[2018.07.28-13.55.28:278][ 26]LogSavePackage: Save=4.71ms
+[2018.07.28-13.55.28:278][ 26]LogSavePackage: Moving '../../../../../Users/andre/OneDrive/Documents/Unreal Projects/The-Unlucky-Astronautv2/Saved/checkBoxChecked_Auto4428925EC4D523828B428BF965DCB2DF1.tmp' to '../../../../../Users/andre/OneDrive/Documents/Unreal Projects/The-Unlucky-Astronautv2/Saved/Autosaves/Game/UI/MenuAssets/checkBoxChecked_Auto4.uasset'
+[2018.07.28-13.55.28:282][ 26]LogSavePackage: Display: Finished SavePackage ../../../../../Users/andre/OneDrive/Documents/Unreal Projects/The-Unlucky-Astronautv2/Saved/Autosaves/Game/UI/MenuAssets/checkBoxChecked_Auto4.uasset
+[2018.07.28-13.55.28:283][ 26]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/UI/MenuAssets/radioBoxChekedHowered_Mat] ([1] browsable assets)...
+[2018.07.28-13.55.28:296][ 26]OBJ SavePackage:     Rendered thumbnail for [Material /Game/UI/MenuAssets/radioBoxChekedHowered_Mat.radioBoxChekedHowered_Mat]
+[2018.07.28-13.55.28:296][ 26]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/MenuAssets/radioBoxChekedHowered_Mat]
+[2018.07.28-13.55.28:339][ 26]LogSavePackage: Save=41.66ms
+[2018.07.28-13.55.28:339][ 26]LogSavePackage: Moving '../../../../../Users/andre/OneDrive/Documents/Unreal Projects/The-Unlucky-Astronautv2/Saved/radioBoxChekedHowered_Mat_Auto43010E9C74317043F76551B995890B2BD.tmp' to '../../../../../Users/andre/OneDrive/Documents/Unreal Projects/The-Unlucky-Astronautv2/Saved/Autosaves/Game/UI/MenuAssets/radioBoxChekedHowered_Mat_Auto4.uasset'
+[2018.07.28-13.55.28:376][ 26]LogSavePackage: Display: Finished SavePackage ../../../../../Users/andre/OneDrive/Documents/Unreal Projects/The-Unlucky-Astronautv2/Saved/Autosaves/Game/UI/MenuAssets/radioBoxChekedHowered_Mat_Auto4.uasset
+[2018.07.28-13.55.28:377][ 26]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/UI/MenuAssets/radioBoxChecked] ([1] browsable assets)...
+[2018.07.28-13.55.28:386][ 26]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/UI/MenuAssets/radioBoxChecked.radioBoxChecked]
+[2018.07.28-13.55.28:386][ 26]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/MenuAssets/radioBoxChecked]
+[2018.07.28-13.55.28:423][ 26]LogSavePackage: Save=5.08ms
+[2018.07.28-13.55.28:424][ 26]LogSavePackage: Moving '../../../../../Users/andre/OneDrive/Documents/Unreal Projects/The-Unlucky-Astronautv2/Saved/radioBoxChecked_Auto425E014F140A496D2F370C2BB875D439F.tmp' to '../../../../../Users/andre/OneDrive/Documents/Unreal Projects/The-Unlucky-Astronautv2/Saved/Autosaves/Game/UI/MenuAssets/radioBoxChecked_Auto4.uasset'
+[2018.07.28-13.55.28:427][ 26]LogSavePackage: Display: Finished SavePackage ../../../../../Users/andre/OneDrive/Documents/Unreal Projects/The-Unlucky-Astronautv2/Saved/Autosaves/Game/UI/MenuAssets/radioBoxChecked_Auto4.uasset
+[2018.07.28-13.55.28:428][ 26]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/UI/MenuAssets/TextBoxPressed_Mat_Inst] ([1] browsable assets)...
+[2018.07.28-13.55.28:437][ 26]OBJ SavePackage:     Rendered thumbnail for [MaterialInstanceConstant /Game/UI/MenuAssets/TextBoxPressed_Mat_Inst.TextBoxPressed_Mat_Inst]
+[2018.07.28-13.55.28:438][ 26]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/MenuAssets/TextBoxPressed_Mat_Inst]
+[2018.07.28-13.55.28:448][ 26]LogSavePackage: Save=7.73ms
+[2018.07.28-13.55.28:448][ 26]LogSavePackage: Moving '../../../../../Users/andre/OneDrive/Documents/Unreal Projects/The-Unlucky-Astronautv2/Saved/TextBoxPressed_Mat_Inst_Auto412928A174056F79E30CD0495C721D02F.tmp' to '../../../../../Users/andre/OneDrive/Documents/Unreal Projects/The-Unlucky-Astronautv2/Saved/Autosaves/Game/UI/MenuAssets/TextBoxPressed_Mat_Inst_Auto4.uasset'
+[2018.07.28-13.55.28:454][ 26]LogSavePackage: Display: Finished SavePackage ../../../../../Users/andre/OneDrive/Documents/Unreal Projects/The-Unlucky-Astronautv2/Saved/Autosaves/Game/UI/MenuAssets/TextBoxPressed_Mat_Inst_Auto4.uasset
+[2018.07.28-13.55.28:455][ 26]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/UI/MenuAssets/TextBoxHowered_Mat_Inst] ([1] browsable assets)...
+[2018.07.28-13.55.28:469][ 26]OBJ SavePackage:     Rendered thumbnail for [MaterialInstanceConstant /Game/UI/MenuAssets/TextBoxHowered_Mat_Inst.TextBoxHowered_Mat_Inst]
+[2018.07.28-13.55.28:469][ 26]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/MenuAssets/TextBoxHowered_Mat_Inst]
+[2018.07.28-13.55.28:483][ 26]LogSavePackage: Save=6.69ms
+[2018.07.28-13.55.28:483][ 26]LogSavePackage: Moving '../../../../../Users/andre/OneDrive/Documents/Unreal Projects/The-Unlucky-Astronautv2/Saved/TextBoxHowered_Mat_Inst_Auto441C6BFD749229360F6178685FCB93C4F.tmp' to '../../../../../Users/andre/OneDrive/Documents/Unreal Projects/The-Unlucky-Astronautv2/Saved/Autosaves/Game/UI/MenuAssets/TextBoxHowered_Mat_Inst_Auto4.uasset'
+[2018.07.28-13.55.28:486][ 26]LogSavePackage: Display: Finished SavePackage ../../../../../Users/andre/OneDrive/Documents/Unreal Projects/The-Unlucky-Astronautv2/Saved/Autosaves/Game/UI/MenuAssets/TextBoxHowered_Mat_Inst_Auto4.uasset
+[2018.07.28-13.55.28:487][ 26]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/UI/MenuAssets/TextBoxClear_Mat_Inst] ([1] browsable assets)...
+[2018.07.28-13.55.28:498][ 26]OBJ SavePackage:     Rendered thumbnail for [MaterialInstanceConstant /Game/UI/MenuAssets/TextBoxClear_Mat_Inst.TextBoxClear_Mat_Inst]
+[2018.07.28-13.55.28:498][ 26]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/MenuAssets/TextBoxClear_Mat_Inst]
+[2018.07.28-13.55.28:508][ 26]LogSavePackage: Save=8.00ms
+[2018.07.28-13.55.28:508][ 26]LogSavePackage: Moving '../../../../../Users/andre/OneDrive/Documents/Unreal Projects/The-Unlucky-Astronautv2/Saved/TextBoxClear_Mat_Inst_Auto42B77F9A5453BA3A78A6361A352465BBE.tmp' to '../../../../../Users/andre/OneDrive/Documents/Unreal Projects/The-Unlucky-Astronautv2/Saved/Autosaves/Game/UI/MenuAssets/TextBoxClear_Mat_Inst_Auto4.uasset'
+[2018.07.28-13.55.28:512][ 26]LogSavePackage: Display: Finished SavePackage ../../../../../Users/andre/OneDrive/Documents/Unreal Projects/The-Unlucky-Astronautv2/Saved/Autosaves/Game/UI/MenuAssets/TextBoxClear_Mat_Inst_Auto4.uasset
+[2018.07.28-13.55.28:513][ 26]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/UI/MenuAssets/TextBox_Mat] ([1] browsable assets)...
+[2018.07.28-13.55.28:522][ 26]OBJ SavePackage:     Rendered thumbnail for [Material /Game/UI/MenuAssets/TextBox_Mat.TextBox_Mat]
+[2018.07.28-13.55.28:522][ 26]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/MenuAssets/TextBox_Mat]
+[2018.07.28-13.55.28:533][ 26]LogSavePackage: Save=7.42ms
+[2018.07.28-13.55.28:533][ 26]LogSavePackage: Moving '../../../../../Users/andre/OneDrive/Documents/Unreal Projects/The-Unlucky-Astronautv2/Saved/TextBox_Mat_Auto42E1C5EF2402595904CC459913A735BB1.tmp' to '../../../../../Users/andre/OneDrive/Documents/Unreal Projects/The-Unlucky-Astronautv2/Saved/Autosaves/Game/UI/MenuAssets/TextBox_Mat_Auto4.uasset'
+[2018.07.28-13.55.28:535][ 26]LogSavePackage: Display: Finished SavePackage ../../../../../Users/andre/OneDrive/Documents/Unreal Projects/The-Unlucky-Astronautv2/Saved/Autosaves/Game/UI/MenuAssets/TextBox_Mat_Auto4.uasset
+[2018.07.28-13.55.28:536][ 26]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/UI/MenuAssets/ButtonPressedMat] ([1] browsable assets)...
+[2018.07.28-13.55.28:546][ 26]OBJ SavePackage:     Rendered thumbnail for [MaterialInstanceConstant /Game/UI/MenuAssets/ButtonPressedMat.ButtonPressedMat]
+[2018.07.28-13.55.28:546][ 26]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/MenuAssets/ButtonPressedMat]
+[2018.07.28-13.55.28:559][ 26]LogSavePackage: Save=10.29ms
+[2018.07.28-13.55.28:559][ 26]LogSavePackage: Moving '../../../../../Users/andre/OneDrive/Documents/Unreal Projects/The-Unlucky-Astronautv2/Saved/ButtonPressedMat_Auto4A91A641041D2D9AF2496929E1B3BA3D7.tmp' to '../../../../../Users/andre/OneDrive/Documents/Unreal Projects/The-Unlucky-Astronautv2/Saved/Autosaves/Game/UI/MenuAssets/ButtonPressedMat_Auto4.uasset'
+[2018.07.28-13.55.28:564][ 26]LogSavePackage: Display: Finished SavePackage ../../../../../Users/andre/OneDrive/Documents/Unreal Projects/The-Unlucky-Astronautv2/Saved/Autosaves/Game/UI/MenuAssets/ButtonPressedMat_Auto4.uasset
+[2018.07.28-13.55.28:565][ 26]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/UI/MenuAssets/ButtonOverMat] ([1] browsable assets)...
+[2018.07.28-13.55.28:574][ 26]OBJ SavePackage:     Rendered thumbnail for [Material /Game/UI/MenuAssets/ButtonOverMat.ButtonOverMat]
+[2018.07.28-13.55.28:574][ 26]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/MenuAssets/ButtonOverMat]
+[2018.07.28-13.55.28:587][ 26]LogSavePackage: Save=10.49ms
+[2018.07.28-13.55.28:587][ 26]LogSavePackage: Moving '../../../../../Users/andre/OneDrive/Documents/Unreal Projects/The-Unlucky-Astronautv2/Saved/ButtonOverMat_Auto4B1F1DFE84039B04FE80E15BF01611B89.tmp' to '../../../../../Users/andre/OneDrive/Documents/Unreal Projects/The-Unlucky-Astronautv2/Saved/Autosaves/Game/UI/MenuAssets/ButtonOverMat_Auto4.uasset'
+[2018.07.28-13.55.28:596][ 26]LogSavePackage: Display: Finished SavePackage ../../../../../Users/andre/OneDrive/Documents/Unreal Projects/The-Unlucky-Astronautv2/Saved/Autosaves/Game/UI/MenuAssets/ButtonOverMat_Auto4.uasset
+[2018.07.28-13.55.28:597][ 26]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/UI/MenuAssets/ButtonNormalMat] ([1] browsable assets)...
+[2018.07.28-13.55.28:607][ 26]OBJ SavePackage:     Rendered thumbnail for [Material /Game/UI/MenuAssets/ButtonNormalMat.ButtonNormalMat]
+[2018.07.28-13.55.28:607][ 26]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/MenuAssets/ButtonNormalMat]
+[2018.07.28-13.55.28:621][ 26]LogSavePackage: Save=10.79ms
+[2018.07.28-13.55.28:621][ 26]LogSavePackage: Moving '../../../../../Users/andre/OneDrive/Documents/Unreal Projects/The-Unlucky-Astronautv2/Saved/ButtonNormalMat_Auto4F8CC3EDE475DDC93947CEA85A06AB643.tmp' to '../../../../../Users/andre/OneDrive/Documents/Unreal Projects/The-Unlucky-Astronautv2/Saved/Autosaves/Game/UI/MenuAssets/ButtonNormalMat_Auto4.uasset'
+[2018.07.28-13.55.28:626][ 26]LogSavePackage: Display: Finished SavePackage ../../../../../Users/andre/OneDrive/Documents/Unreal Projects/The-Unlucky-Astronautv2/Saved/Autosaves/Game/UI/MenuAssets/ButtonNormalMat_Auto4.uasset
+[2018.07.28-13.55.28:627][ 26]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/UI/MenuAssets/ButtonTexture] ([1] browsable assets)...
+[2018.07.28-13.55.28:629][ 26]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/UI/MenuAssets/ButtonTexture.ButtonTexture]
+[2018.07.28-13.55.28:629][ 26]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/MenuAssets/ButtonTexture]
+[2018.07.28-13.55.28:645][ 26]LogSavePackage: Save=13.47ms
+[2018.07.28-13.55.28:645][ 26]LogSavePackage: Moving '../../../../../Users/andre/OneDrive/Documents/Unreal Projects/The-Unlucky-Astronautv2/Saved/ButtonTexture_Auto44EFA18CE4AC6F00ABE5833BB30873DAF.tmp' to '../../../../../Users/andre/OneDrive/Documents/Unreal Projects/The-Unlucky-Astronautv2/Saved/Autosaves/Game/UI/MenuAssets/ButtonTexture_Auto4.uasset'
+[2018.07.28-13.55.28:649][ 26]LogSavePackage: Display: Finished SavePackage ../../../../../Users/andre/OneDrive/Documents/Unreal Projects/The-Unlucky-Astronautv2/Saved/Autosaves/Game/UI/MenuAssets/ButtonTexture_Auto4.uasset
+[2018.07.28-13.55.28:650][ 26]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/UI/MenuAssets/RadarBack_Mat] ([1] browsable assets)...
+[2018.07.28-13.55.28:661][ 26]OBJ SavePackage:     Rendered thumbnail for [Material /Game/UI/MenuAssets/RadarBack_Mat.RadarBack_Mat]
+[2018.07.28-13.55.28:661][ 26]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/MenuAssets/RadarBack_Mat]
+[2018.07.28-13.55.28:679][ 26]LogSavePackage: Save=10.37ms
+[2018.07.28-13.55.28:679][ 26]LogSavePackage: Moving '../../../../../Users/andre/OneDrive/Documents/Unreal Projects/The-Unlucky-Astronautv2/Saved/RadarBack_Mat_Auto4AB49B91C47B47134DD16A99CADB379E9.tmp' to '../../../../../Users/andre/OneDrive/Documents/Unreal Projects/The-Unlucky-Astronautv2/Saved/Autosaves/Game/UI/MenuAssets/RadarBack_Mat_Auto4.uasset'
+[2018.07.28-13.55.28:706][ 26]LogSavePackage: Display: Finished SavePackage ../../../../../Users/andre/OneDrive/Documents/Unreal Projects/The-Unlucky-Astronautv2/Saved/Autosaves/Game/UI/MenuAssets/RadarBack_Mat_Auto4.uasset
+[2018.07.28-13.55.28:707][ 26]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/UI/MenuAssets/RadarFrame_Mat] ([1] browsable assets)...
+[2018.07.28-13.55.28:717][ 26]OBJ SavePackage:     Rendered thumbnail for [Material /Game/UI/MenuAssets/RadarFrame_Mat.RadarFrame_Mat]
+[2018.07.28-13.55.28:717][ 26]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/MenuAssets/RadarFrame_Mat]
+[2018.07.28-13.55.28:729][ 26]LogSavePackage: Save=9.30ms
+[2018.07.28-13.55.28:729][ 26]LogSavePackage: Moving '../../../../../Users/andre/OneDrive/Documents/Unreal Projects/The-Unlucky-Astronautv2/Saved/RadarFrame_Mat_Auto41200BF144DE3B5234CEDFE9722152E45.tmp' to '../../../../../Users/andre/OneDrive/Documents/Unreal Projects/The-Unlucky-Astronautv2/Saved/Autosaves/Game/UI/MenuAssets/RadarFrame_Mat_Auto4.uasset'
+[2018.07.28-13.55.28:733][ 26]LogSavePackage: Display: Finished SavePackage ../../../../../Users/andre/OneDrive/Documents/Unreal Projects/The-Unlucky-Astronautv2/Saved/Autosaves/Game/UI/MenuAssets/RadarFrame_Mat_Auto4.uasset
+[2018.07.28-13.55.28:734][ 26]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/UI/MenuAssets/Радар] ([1] browsable assets)...
+[2018.07.28-13.55.28:740][ 26]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/UI/MenuAssets/Радар.Радар]
+[2018.07.28-13.55.28:740][ 26]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/MenuAssets/Радар]
+[2018.07.28-13.55.28:748][ 26]LogSavePackage: Save=4.26ms
+[2018.07.28-13.55.28:748][ 26]LogSavePackage: Moving '../../../../../Users/andre/OneDrive/Documents/Unreal Projects/The-Unlucky-Astronautv2/Saved/Радар_Auto45F3321B94CA39C29D3CCF7A439011B47.tmp' to '../../../../../Users/andre/OneDrive/Documents/Unreal Projects/The-Unlucky-Astronautv2/Saved/Autosaves/Game/UI/MenuAssets/Радар_Auto4.uasset'
+[2018.07.28-13.55.28:752][ 26]LogSavePackage: Display: Finished SavePackage ../../../../../Users/andre/OneDrive/Documents/Unreal Projects/The-Unlucky-Astronautv2/Saved/Autosaves/Game/UI/MenuAssets/Радар_Auto4.uasset
+[2018.07.28-13.55.28:753][ 26]LogFileHelpers: Auto-saving content packages took 0.707
+[2018.07.28-13.57.43:234][734]LogMaterial: Missing cached shader map for material MyPlayer_Video_Mat, compiling. 
+[2018.07.28-13.57.43:310][735]LogShaderCompilers: Display: Shaders left to compile 22
+[2018.07.28-13.57.43:310][735]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.07.28-13.57.43:310][735]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.07.28-13.58.45:472][697]LogSavePackage: Save=10.30ms
+[2018.07.28-13.58.45:472][697]LogSavePackage: Moving '../../../../../Users/andre/OneDrive/Documents/Unreal Projects/The-Unlucky-Astronautv2/Saved/Animation_Backgound_MainMenuA2BC3863488043B0CB2989A524CCAF5F.tmp' to '../../../../../Users/andre/OneDrive/Documents/Unreal Projects/The-Unlucky-Astronautv2/Content/Movies/Animation_Backgound_MainMenu.uasset'
+[2018.07.28-13.58.45:478][697]LogSavePackage: Display: Finished SavePackage ../../../../../Users/andre/OneDrive/Documents/Unreal Projects/The-Unlucky-Astronautv2/Content/Movies/Animation_Backgound_MainMenu.uasset
+[2018.07.28-13.59.05:787][721]LogMaterial: Missing cached shader map for material Animation_Backgound_MainMenu, compiling. 
+[2018.07.28-13.59.07:124][721]LogMaterial: Missing cached shader map for material Animation_Backgound_MainMenu, compiling. 
+[2018.07.28-13.59.07:161][721]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.07.28-13.59.07:161][721]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.07.28-13.59.07:161][721]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.07.28-13.59.07:161][721]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.07.28-13.59.07:163][721]LogMaterial: Missing cached shader map for material Animation_Backgound_MainMenu, compiling. 
+[2018.07.28-13.59.07:228][721]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2018.07.28-13.59.07:855][741]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.07.28-13.59.07:925][746]LogShaderCompilers: Display: Shaders left to compile 17
+[2018.07.28-13.59.08:059][757]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.07.28-13.59.08:135][761]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.07.28-13.59.08:198][764]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.07.28-13.59.08:305][766]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.07.28-13.59.08:350][768]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.07.28-13.59.08:425][775]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.07.28-13.59.08:425][775]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.07.28-13.59.08:584][786]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.07.28-13.59.08:634][787]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.07.28-13.59.08:929][805]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.07.28-13.59.09:011][812]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.07.28-13.59.09:079][819]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.07.28-13.59.09:178][827]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.07.28-13.59.09:404][844]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.07.28-13.59.09:494][851]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.07.28-13.59.09:569][858]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.07.28-13.59.09:682][868]MaterialEditorStats: Base pass shader: 105 instructions
+[2018.07.28-13.59.09:682][868]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 178 instructions
+[2018.07.28-13.59.09:682][868]MaterialEditorStats: Vertex shader: 38 instructions
+[2018.07.28-13.59.09:682][868]MaterialEditorStats: Texture samplers: 3/16
+[2018.07.28-13.59.09:682][868]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.07.28-13.59.15:182][  3]LogMaterial: Missing cached shader map for material Animation_Backgound_MainMenu, compiling. 
+[2018.07.28-13.59.15:267][  3]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.07.28-13.59.15:267][  3]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.07.28-13.59.15:267][  3]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.07.28-13.59.15:267][  3]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.07.28-13.59.15:267][  3]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2018.07.28-13.59.15:488][ 15]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.07.28-13.59.15:551][ 21]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.07.28-13.59.15:597][ 26]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.07.28-13.59.15:597][ 26]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.07.28-13.59.15:838][ 46]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.07.28-13.59.15:879][ 50]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.07.28-13.59.15:957][ 57]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.07.28-13.59.16:153][ 72]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.07.28-13.59.16:505][ 73]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.07.28-13.59.16:505][ 73]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.07.28-13.59.16:505][ 73]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.07.28-13.59.16:828][ 74]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.07.28-13.59.16:828][ 74]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.07.28-13.59.16:828][ 74]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.07.28-13.59.17:143][ 74]MaterialEditorStats: Base pass shader: 106 instructions
+[2018.07.28-13.59.17:143][ 74]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 179 instructions
+[2018.07.28-13.59.17:143][ 74]MaterialEditorStats: Vertex shader: 38 instructions
+[2018.07.28-13.59.17:143][ 74]MaterialEditorStats: Texture samplers: 3/16
+[2018.07.28-13.59.17:143][ 74]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.07.28-14.00.08:173][230]LogMaterialEditor: Saving and Compiling material Animation_Backgound_MainMenu
+[2018.07.28-14.00.10:100][230]LogMaterial: Missing cached shader map for material Animation_Backgound_MainMenu, compiling. 
+[2018.07.28-14.00.10:130][230]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.07.28-14.00.10:130][230]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.07.28-14.00.10:131][230]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.07.28-14.00.10:131][230]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.07.28-14.00.10:181][230]LogMaterial: Missing cached shader map for material Animation_Backgound_MainMenu, compiling. 
+[2018.07.28-14.00.10:200][230]LogMaterial: Missing cached shader map for material Animation_Backgound_MainMenu, compiling. 
+[2018.07.28-14.00.10:277][230]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy Animation_Backgound_MainMenu, compiling. 
+[2018.07.28-14.00.11:947][230]LogShaderCompilers: Display: Shaders left to compile 35
+[2018.07.28-14.00.11:947][230]LogShaderCompilers: Display: Shaders left to compile 34
+[2018.07.28-14.00.11:947][230]LogShaderCompilers: Display: Shaders left to compile 33
+[2018.07.28-14.00.11:947][230]LogShaderCompilers: Display: Shaders left to compile 32
+[2018.07.28-14.00.11:947][230]LogShaderCompilers: Display: Shaders left to compile 31
+[2018.07.28-14.00.11:947][230]LogShaderCompilers: Display: Shaders left to compile 30
+[2018.07.28-14.00.11:947][230]LogShaderCompilers: Display: Shaders left to compile 29
+[2018.07.28-14.00.11:947][230]LogShaderCompilers: Display: Shaders left to compile 28
+[2018.07.28-14.00.11:947][230]LogShaderCompilers: Display: Shaders left to compile 27
+[2018.07.28-14.00.11:947][230]LogShaderCompilers: Display: Shaders left to compile 26
+[2018.07.28-14.00.11:947][230]LogShaderCompilers: Display: Shaders left to compile 25
+[2018.07.28-14.00.11:947][230]LogShaderCompilers: Display: Shaders left to compile 24
+[2018.07.28-14.00.11:947][230]LogShaderCompilers: Display: Shaders left to compile 23
+[2018.07.28-14.00.11:947][230]LogShaderCompilers: Display: Shaders left to compile 22
+[2018.07.28-14.00.11:947][230]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.07.28-14.00.11:947][230]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.07.28-14.00.11:960][230]TextureStreamingBuild: Display: Compiling optional shaders took 1.684 seconds.
+[2018.07.28-14.00.14:090][230]LogSavePackage: Save=11.14ms
+[2018.07.28-14.00.14:090][230]LogSavePackage: Moving '../../../../../Users/andre/OneDrive/Documents/Unreal Projects/The-Unlucky-Astronautv2/Saved/Animation_Backgound_MainMenu47707FCB49FFA3438AC45CA60683098B.tmp' to '../../../../../Users/andre/OneDrive/Documents/Unreal Projects/The-Unlucky-Astronautv2/Content/Movies/Animation_Backgound_MainMenu.uasset'
+[2018.07.28-14.00.14:120][230]LogSavePackage: Display: Finished SavePackage ../../../../../Users/andre/OneDrive/Documents/Unreal Projects/The-Unlucky-Astronautv2/Content/Movies/Animation_Backgound_MainMenu.uasset
+[2018.07.28-14.00.14:135][230]MaterialEditorStats: Base pass shader: 106 instructions
+[2018.07.28-14.00.14:136][230]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 179 instructions
+[2018.07.28-14.00.14:136][230]MaterialEditorStats: Vertex shader: 38 instructions
+[2018.07.28-14.00.14:136][230]MaterialEditorStats: Texture samplers: 4/16
+[2018.07.28-14.00.14:136][230]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.07.28-14.02.01:494][255]LogSlate: Window 'Save Content' being destroyed
+[2018.07.28-14.02.01:685][255]LogSavePackage: Save=6.04ms
+[2018.07.28-14.02.01:685][255]LogSavePackage: Moving '../../../../../Users/andre/OneDrive/Documents/Unreal Projects/The-Unlucky-Astronautv2/Saved/MainMenu8EE02A4F467FFC24DCDBCE8CF6E63BE4.tmp' to '../../../../../Users/andre/OneDrive/Documents/Unreal Projects/The-Unlucky-Astronautv2/Content/Map/MainMenu.umap'
+[2018.07.28-14.02.01:692][255]LogSavePackage: Display: Finished SavePackage ../../../../../Users/andre/OneDrive/Documents/Unreal Projects/The-Unlucky-Astronautv2/Content/Map/MainMenu.umap
+[2018.07.28-14.02.01:719][255]LogFileHelpers: Saving map 'MainMenu' took 0.179
+[2018.07.28-14.02.01:723][255]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/MainMenu_GameMode" FILE="../../../../../Users/andre/OneDrive/Documents/Unreal Projects/The-Unlucky-Astronautv2/Content/UI/MainMenu_GameMode.uasset" SILENT=true
+[2018.07.28-14.02.01:751][255]LogSavePackage: Save=25.26ms
+[2018.07.28-14.02.01:751][255]LogSavePackage: Moving '../../../../../Users/andre/OneDrive/Documents/Unreal Projects/The-Unlucky-Astronautv2/Saved/MainMenu_GameMode0617A1424B1F59B8810C5C9A6059FCA4.tmp' to '../../../../../Users/andre/OneDrive/Documents/Unreal Projects/The-Unlucky-Astronautv2/Content/UI/MainMenu_GameMode.uasset'
+[2018.07.28-14.02.01:756][255]LogSavePackage: Display: Finished SavePackage ../../../../../Users/andre/OneDrive/Documents/Unreal Projects/The-Unlucky-Astronautv2/Content/UI/MainMenu_GameMode.uasset
+[2018.07.28-14.02.01:760][255]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/MainMenu_HUD" FILE="../../../../../Users/andre/OneDrive/Documents/Unreal Projects/The-Unlucky-Astronautv2/Content/UI/MainMenu_HUD.uasset" SILENT=true
+[2018.07.28-14.02.01:770][255]LogSavePackage: Save=7.16ms
+[2018.07.28-14.02.01:770][255]LogSavePackage: Moving '../../../../../Users/andre/OneDrive/Documents/Unreal Projects/The-Unlucky-Astronautv2/Saved/MainMenu_HUD235595A34D9701471084208E5F9023B0.tmp' to '../../../../../Users/andre/OneDrive/Documents/Unreal Projects/The-Unlucky-Astronautv2/Content/UI/MainMenu_HUD.uasset'
+[2018.07.28-14.02.01:776][255]LogSavePackage: Display: Finished SavePackage ../../../../../Users/andre/OneDrive/Documents/Unreal Projects/The-Unlucky-Astronautv2/Content/UI/MainMenu_HUD.uasset
+[2018.07.28-14.02.01:779][255]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/MainMenu_Widget" FILE="../../../../../Users/andre/OneDrive/Documents/Unreal Projects/The-Unlucky-Astronautv2/Content/UI/MainMenu_Widget.uasset" SILENT=true
+[2018.07.28-14.02.01:809][255]LogSavePackage: Save=4.17ms
+[2018.07.28-14.02.01:809][255]LogSavePackage: Moving '../../../../../Users/andre/OneDrive/Documents/Unreal Projects/The-Unlucky-Astronautv2/Saved/MainMenu_Widget64BAE52E4D08D6DB6E9852AD69E81C8B.tmp' to '../../../../../Users/andre/OneDrive/Documents/Unreal Projects/The-Unlucky-Astronautv2/Content/UI/MainMenu_Widget.uasset'
+[2018.07.28-14.02.01:813][255]LogSavePackage: Display: Finished SavePackage ../../../../../Users/andre/OneDrive/Documents/Unreal Projects/The-Unlucky-Astronautv2/Content/UI/MainMenu_Widget.uasset
+[2018.07.28-14.02.01:852][255]LogSavePackage: Save=11.35ms
+[2018.07.28-14.02.01:852][255]LogSavePackage: Moving '../../../../../Users/andre/OneDrive/Documents/Unreal Projects/The-Unlucky-Astronautv2/Saved/ButtonNormalMatACEF5ECA466891F883291DA7685C97C3.tmp' to '../../../../../Users/andre/OneDrive/Documents/Unreal Projects/The-Unlucky-Astronautv2/Content/UI/MenuAssets/ButtonNormalMat.uasset'
+[2018.07.28-14.02.01:857][255]LogSavePackage: Display: Finished SavePackage ../../../../../Users/andre/OneDrive/Documents/Unreal Projects/The-Unlucky-Astronautv2/Content/UI/MenuAssets/ButtonNormalMat.uasset
+[2018.07.28-14.02.01:892][255]LogSavePackage: Save=12.46ms
+[2018.07.28-14.02.01:892][255]LogSavePackage: Moving '../../../../../Users/andre/OneDrive/Documents/Unreal Projects/The-Unlucky-Astronautv2/Saved/ButtonOverMatBC57850F408F86261F3362B2A7A7CAEB.tmp' to '../../../../../Users/andre/OneDrive/Documents/Unreal Projects/The-Unlucky-Astronautv2/Content/UI/MenuAssets/ButtonOverMat.uasset'
+[2018.07.28-14.02.01:898][255]LogSavePackage: Display: Finished SavePackage ../../../../../Users/andre/OneDrive/Documents/Unreal Projects/The-Unlucky-Astronautv2/Content/UI/MenuAssets/ButtonOverMat.uasset
+[2018.07.28-14.02.01:930][255]LogSavePackage: Save=10.55ms
+[2018.07.28-14.02.01:930][255]LogSavePackage: Moving '../../../../../Users/andre/OneDrive/Documents/Unreal Projects/The-Unlucky-Astronautv2/Saved/ButtonPressedMat8542987D4348A51C6ADA66A2ABE1C960.tmp' to '../../../../../Users/andre/OneDrive/Documents/Unreal Projects/The-Unlucky-Astronautv2/Content/UI/MenuAssets/ButtonPressedMat.uasset'
+[2018.07.28-14.02.01:938][255]LogSavePackage: Display: Finished SavePackage ../../../../../Users/andre/OneDrive/Documents/Unreal Projects/The-Unlucky-Astronautv2/Content/UI/MenuAssets/ButtonPressedMat.uasset
+[2018.07.28-14.02.01:966][255]LogSavePackage: Save=11.35ms
+[2018.07.28-14.02.01:966][255]LogSavePackage: Moving '../../../../../Users/andre/OneDrive/Documents/Unreal Projects/The-Unlucky-Astronautv2/Saved/ButtonTexture187D72744F2A6DB053ECE881E38E5AFD.tmp' to '../../../../../Users/andre/OneDrive/Documents/Unreal Projects/The-Unlucky-Astronautv2/Content/UI/MenuAssets/ButtonTexture.uasset'
+[2018.07.28-14.02.01:971][255]LogSavePackage: Display: Finished SavePackage ../../../../../Users/andre/OneDrive/Documents/Unreal Projects/The-Unlucky-Astronautv2/Content/UI/MenuAssets/ButtonTexture.uasset
+[2018.07.28-14.02.02:003][255]LogSavePackage: Save=4.49ms
+[2018.07.28-14.02.02:003][255]LogSavePackage: Moving '../../../../../Users/andre/OneDrive/Documents/Unreal Projects/The-Unlucky-Astronautv2/Saved/checkBoxChecked22A4EB3B46054B608CB677A057F1F585.tmp' to '../../../../../Users/andre/OneDrive/Documents/Unreal Projects/The-Unlucky-Astronautv2/Content/UI/MenuAssets/checkBoxChecked.uasset'
+[2018.07.28-14.02.02:009][255]LogSavePackage: Display: Finished SavePackage ../../../../../Users/andre/OneDrive/Documents/Unreal Projects/The-Unlucky-Astronautv2/Content/UI/MenuAssets/checkBoxChecked.uasset
+[2018.07.28-14.02.02:045][255]LogSavePackage: Save=8.05ms
+[2018.07.28-14.02.02:045][255]LogSavePackage: Moving '../../../../../Users/andre/OneDrive/Documents/Unreal Projects/The-Unlucky-Astronautv2/Saved/checkBoxChekedHowered_Mat_InstE993E8A74CA3A1FDB35B0D8BCEE11E58.tmp' to '../../../../../Users/andre/OneDrive/Documents/Unreal Projects/The-Unlucky-Astronautv2/Content/UI/MenuAssets/checkBoxChekedHowered_Mat_Inst.uasset'
+[2018.07.28-14.02.02:051][255]LogSavePackage: Display: Finished SavePackage ../../../../../Users/andre/OneDrive/Documents/Unreal Projects/The-Unlucky-Astronautv2/Content/UI/MenuAssets/checkBoxChekedHowered_Mat_Inst.uasset
+[2018.07.28-14.02.02:072][255]LogSavePackage: Save=4.15ms
+[2018.07.28-14.02.02:072][255]LogSavePackage: Moving '../../../../../Users/andre/OneDrive/Documents/Unreal Projects/The-Unlucky-Astronautv2/Saved/checkBoxUncheckedD0FEAF3D47EAA1B706BA8EB798418D5D.tmp' to '../../../../../Users/andre/OneDrive/Documents/Unreal Projects/The-Unlucky-Astronautv2/Content/UI/MenuAssets/checkBoxUnchecked.uasset'
+[2018.07.28-14.02.02:080][255]LogSavePackage: Display: Finished SavePackage ../../../../../Users/andre/OneDrive/Documents/Unreal Projects/The-Unlucky-Astronautv2/Content/UI/MenuAssets/checkBoxUnchecked.uasset
+[2018.07.28-14.02.02:152][255]LogSavePackage: Save=8.70ms
+[2018.07.28-14.02.02:152][255]LogSavePackage: Moving '../../../../../Users/andre/OneDrive/Documents/Unreal Projects/The-Unlucky-Astronautv2/Saved/checkBoxUnChekedHowered_Mat_Inst5C222C1A4DA91037A92288A1135A6ABD.tmp' to '../../../../../Users/andre/OneDrive/Documents/Unreal Projects/The-Unlucky-Astronautv2/Content/UI/MenuAssets/checkBoxUnChekedHowered_Mat_Inst.uasset'
+[2018.07.28-14.02.02:157][255]LogSavePackage: Display: Finished SavePackage ../../../../../Users/andre/OneDrive/Documents/Unreal Projects/The-Unlucky-Astronautv2/Content/UI/MenuAssets/checkBoxUnChekedHowered_Mat_Inst.uasset
+[2018.07.28-14.02.02:192][255]LogSavePackage: Save=9.42ms
+[2018.07.28-14.02.02:192][255]LogSavePackage: Moving '../../../../../Users/andre/OneDrive/Documents/Unreal Projects/The-Unlucky-Astronautv2/Saved/RadarBack_Mat22A6642E4271F39BB73CB78C13669517.tmp' to '../../../../../Users/andre/OneDrive/Documents/Unreal Projects/The-Unlucky-Astronautv2/Content/UI/MenuAssets/RadarBack_Mat.uasset'
+[2018.07.28-14.02.02:198][255]LogSavePackage: Display: Finished SavePackage ../../../../../Users/andre/OneDrive/Documents/Unreal Projects/The-Unlucky-Astronautv2/Content/UI/MenuAssets/RadarBack_Mat.uasset
+[2018.07.28-14.02.02:236][255]LogSavePackage: Save=9.01ms
+[2018.07.28-14.02.02:236][255]LogSavePackage: Moving '../../../../../Users/andre/OneDrive/Documents/Unreal Projects/The-Unlucky-Astronautv2/Saved/RadarFrame_Mat03F3424645F61F34EF46898EA6D92CD8.tmp' to '../../../../../Users/andre/OneDrive/Documents/Unreal Projects/The-Unlucky-Astronautv2/Content/UI/MenuAssets/RadarFrame_Mat.uasset'
+[2018.07.28-14.02.02:245][255]LogSavePackage: Display: Finished SavePackage ../../../../../Users/andre/OneDrive/Documents/Unreal Projects/The-Unlucky-Astronautv2/Content/UI/MenuAssets/RadarFrame_Mat.uasset
+[2018.07.28-14.02.02:266][255]LogSavePackage: Save=4.92ms
+[2018.07.28-14.02.02:266][255]LogSavePackage: Moving '../../../../../Users/andre/OneDrive/Documents/Unreal Projects/The-Unlucky-Astronautv2/Saved/radioBoxChecked42338CB74D00AA802CF26CA4ECF58200.tmp' to '../../../../../Users/andre/OneDrive/Documents/Unreal Projects/The-Unlucky-Astronautv2/Content/UI/MenuAssets/radioBoxChecked.uasset'
+[2018.07.28-14.02.02:273][255]LogSavePackage: Display: Finished SavePackage ../../../../../Users/andre/OneDrive/Documents/Unreal Projects/The-Unlucky-Astronautv2/Content/UI/MenuAssets/radioBoxChecked.uasset
+[2018.07.28-14.02.02:306][255]LogSavePackage: Save=8.19ms
+[2018.07.28-14.02.02:306][255]LogSavePackage: Moving '../../../../../Users/andre/OneDrive/Documents/Unreal Projects/The-Unlucky-Astronautv2/Saved/radioBoxChekedHowered_Mat11D2DC5A45B3C467FC02D1B164D0138A.tmp' to '../../../../../Users/andre/OneDrive/Documents/Unreal Projects/The-Unlucky-Astronautv2/Content/UI/MenuAssets/radioBoxChekedHowered_Mat.uasset'
+[2018.07.28-14.02.02:334][255]LogSavePackage: Display: Finished SavePackage ../../../../../Users/andre/OneDrive/Documents/Unreal Projects/The-Unlucky-Astronautv2/Content/UI/MenuAssets/radioBoxChekedHowered_Mat.uasset
+[2018.07.28-14.02.02:368][255]LogSavePackage: Save=9.71ms
+[2018.07.28-14.02.02:368][255]LogSavePackage: Moving '../../../../../Users/andre/OneDrive/Documents/Unreal Projects/The-Unlucky-Astronautv2/Saved/TextBox_Mat42D14C8646708EC3DFEFA99EA78F5894.tmp' to '../../../../../Users/andre/OneDrive/Documents/Unreal Projects/The-Unlucky-Astronautv2/Content/UI/MenuAssets/TextBox_Mat.uasset'
+[2018.07.28-14.02.02:373][255]LogSavePackage: Display: Finished SavePackage ../../../../../Users/andre/OneDrive/Documents/Unreal Projects/The-Unlucky-Astronautv2/Content/UI/MenuAssets/TextBox_Mat.uasset
+[2018.07.28-14.02.02:404][255]LogSavePackage: Save=7.71ms
+[2018.07.28-14.02.02:405][255]LogSavePackage: Moving '../../../../../Users/andre/OneDrive/Documents/Unreal Projects/The-Unlucky-Astronautv2/Saved/TextBoxClear_Mat_Inst4760CA8A4E0C7658421366946947BE56.tmp' to '../../../../../Users/andre/OneDrive/Documents/Unreal Projects/The-Unlucky-Astronautv2/Content/UI/MenuAssets/TextBoxClear_Mat_Inst.uasset'
+[2018.07.28-14.02.02:410][255]LogSavePackage: Display: Finished SavePackage ../../../../../Users/andre/OneDrive/Documents/Unreal Projects/The-Unlucky-Astronautv2/Content/UI/MenuAssets/TextBoxClear_Mat_Inst.uasset
+[2018.07.28-14.02.02:439][255]LogSavePackage: Save=7.44ms
+[2018.07.28-14.02.02:439][255]LogSavePackage: Moving '../../../../../Users/andre/OneDrive/Documents/Unreal Projects/The-Unlucky-Astronautv2/Saved/TextBoxHowered_Mat_Inst20534DBA4FA5662B7AA95A998491DB2E.tmp' to '../../../../../Users/andre/OneDrive/Documents/Unreal Projects/The-Unlucky-Astronautv2/Content/UI/MenuAssets/TextBoxHowered_Mat_Inst.uasset'
+[2018.07.28-14.02.02:445][255]LogSavePackage: Display: Finished SavePackage ../../../../../Users/andre/OneDrive/Documents/Unreal Projects/The-Unlucky-Astronautv2/Content/UI/MenuAssets/TextBoxHowered_Mat_Inst.uasset
+[2018.07.28-14.02.02:477][255]LogSavePackage: Save=8.02ms
+[2018.07.28-14.02.02:477][255]LogSavePackage: Moving '../../../../../Users/andre/OneDrive/Documents/Unreal Projects/The-Unlucky-Astronautv2/Saved/TextBoxPressed_Mat_InstEBFB1B924F58F74E0C522AA4A8E0BE87.tmp' to '../../../../../Users/andre/OneDrive/Documents/Unreal Projects/The-Unlucky-Astronautv2/Content/UI/MenuAssets/TextBoxPressed_Mat_Inst.uasset'
+[2018.07.28-14.02.02:483][255]LogSavePackage: Display: Finished SavePackage ../../../../../Users/andre/OneDrive/Documents/Unreal Projects/The-Unlucky-Astronautv2/Content/UI/MenuAssets/TextBoxPressed_Mat_Inst.uasset
+[2018.07.28-14.02.02:515][255]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/MenuAssets/Радар" FILE="../../../../../Users/andre/OneDrive/Documents/Unreal Projects/The-Unlucky-Astronautv2/Content/UI/MenuAssets/Радар.uasset" SILENT=true
+[2018.07.28-14.02.02:522][255]LogSavePackage: Save=4.59ms
+[2018.07.28-14.02.02:523][255]LogSavePackage: Moving '../../../../../Users/andre/OneDrive/Documents/Unreal Projects/The-Unlucky-Astronautv2/Saved/РадарD04093514FA327DF1169BDA82DFF2A1F.tmp' to '../../../../../Users/andre/OneDrive/Documents/Unreal Projects/The-Unlucky-Astronautv2/Content/UI/MenuAssets/Радар.uasset'
+[2018.07.28-14.02.02:528][255]LogSavePackage: Display: Finished SavePackage ../../../../../Users/andre/OneDrive/Documents/Unreal Projects/The-Unlucky-Astronautv2/Content/UI/MenuAssets/Радар.uasset
+[2018.07.28-14.03.37:637][387]LogMaterial: Missing cached shader map for material Animation_Backgound_MainMenu, compiling. 
+[2018.07.28-14.03.37:658][388]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.07.28-14.03.37:658][388]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.07.28-14.03.39:789][522]MaterialEditorStats: Default UI Pixel Shader: 21 instructions
+[2018.07.28-14.03.39:789][522]MaterialEditorStats: Default UI Vertex Shader: 17 instructions
+[2018.07.28-14.03.39:789][522]MaterialEditorStats: Instanced UI Vertex Shader: 17 instructions
+[2018.07.28-14.03.39:789][522]MaterialEditorStats: Texture samplers: 2/16
+[2018.07.28-14.03.39:789][522]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.07.28-14.04.01:146][587]BlueprintLog: New page: Compile MainMenu_Widget
+[2018.07.28-14.04.04:419][674]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/MainMenu_Widget" FILE="../../../../../Users/andre/OneDrive/Documents/Unreal Projects/The-Unlucky-Astronautv2/Content/UI/MainMenu_Widget.uasset" SILENT=true
+[2018.07.28-14.04.04:438][674]LogSavePackage: Save=4.49ms
+[2018.07.28-14.04.04:438][674]LogSavePackage: Moving '../../../../../Users/andre/OneDrive/Documents/Unreal Projects/The-Unlucky-Astronautv2/Saved/MainMenu_WidgetE77CB754430D82CD09E1BDBBCE05B2E5.tmp' to '../../../../../Users/andre/OneDrive/Documents/Unreal Projects/The-Unlucky-Astronautv2/Content/UI/MainMenu_Widget.uasset'
+[2018.07.28-14.04.04:455][674]LogSavePackage: Display: Finished SavePackage ../../../../../Users/andre/OneDrive/Documents/Unreal Projects/The-Unlucky-Astronautv2/Content/UI/MainMenu_Widget.uasset
+[2018.07.28-14.04.12:187][887]LogTemp: Repeating last play command: Selected Viewport
+[2018.07.28-14.04.12:211][887]BlueprintLog: New page: Pre-Play auto-recompile
+[2018.07.28-14.04.12:213][887]LogPlayLevel: [PlayLevel] Compiling MainMenu_HUD before play...
+[2018.07.28-14.04.12:465][887]LogPlayLevel: PlayLevel: Blueprint regeneration took 253 ms (1 blueprints)
+[2018.07.28-14.04.12:465][887]PIE: New page: PIE session: MainMenu (28 июля 2018 г., 20:04:12)
+[2018.07.28-14.04.12:466][887]LogPlayLevel: Creating play world package: /Game/Map/UEDPIE_0_MainMenu
+[2018.07.28-14.04.12:466][887]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000616s)
+[2018.07.28-14.04.12:467][887]LogAIModule: Creating AISystem for world MainMenu
+[2018.07.28-14.04.12:467][887]LogPlayLevel: PIE: World Init took: (0.000832s)
+[2018.07.28-14.04.12:467][887]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Map/MainMenu.MainMenu to /Game/Map/UEDPIE_0_MainMenu.MainMenu (0.001554s)
+[2018.07.28-14.04.12:502][887]LogInit: XAudio2 using 'Динамики (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.07.28-14.04.12:515][887]LogInit: FAudioDevice initialized.
+[2018.07.28-14.04.12:549][887]LogLoad: Game class is 'MainMenu_GameMode_C'
+[2018.07.28-14.04.12:550][887]LogWorld: Bringing World /Game/Map/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 0) at 2018.07.28-17.04.12
+[2018.07.28-14.04.12:550][887]LogWorld: Bringing up level for play took: 0.000344
+[2018.07.28-14.04.12:552][887]PIE: Play in editor start time for /Game/Map/UEDPIE_0_MainMenu 1,195
+[2018.07.28-14.04.40:394][ 42]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.28-14.04.42:246][228]LogTemp: Repeating last play command: Selected Viewport
+[2018.07.28-14.04.42:267][228]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.07.28-14.04.42:267][228]PIE: New page: PIE session: MainMenu (28 июля 2018 г., 20:04:42)
+[2018.07.28-14.04.42:268][228]LogPlayLevel: Creating play world package: /Game/Map/UEDPIE_0_MainMenu
+[2018.07.28-14.04.42:268][228]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000467s)
+[2018.07.28-14.04.42:269][228]LogAIModule: Creating AISystem for world MainMenu
+[2018.07.28-14.04.42:269][228]LogPlayLevel: PIE: World Init took: (0.000661s)
+[2018.07.28-14.04.42:269][228]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Map/MainMenu.MainMenu to /Game/Map/UEDPIE_0_MainMenu.MainMenu (0.001225s)
+[2018.07.28-14.04.42:307][228]LogInit: XAudio2 using 'Динамики (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.07.28-14.04.42:321][228]LogInit: FAudioDevice initialized.
+[2018.07.28-14.04.42:352][228]LogLoad: Game class is 'MainMenu_GameMode_C'
+[2018.07.28-14.04.42:353][228]LogWorld: Bringing World /Game/Map/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 0) at 2018.07.28-17.04.42
+[2018.07.28-14.04.42:353][228]LogWorld: Bringing up level for play took: 0.000279
+[2018.07.28-14.04.42:355][228]PIE: Play in editor start time for /Game/Map/UEDPIE_0_MainMenu 0,999
+[2018.07.28-14.05.17:700][ 23]LogMaterial: Missing cached shader map for material Animation_Backgound_MainMenu, compiling. 
+[2018.07.28-14.05.17:720][ 25]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.07.28-14.05.17:720][ 25]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.07.28-14.05.17:720][ 25]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.07.28-14.05.17:720][ 25]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.07.28-14.05.18:487][100]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.07.28-14.05.18:529][104]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.07.28-14.05.18:529][104]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.07.28-14.05.18:529][104]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.07.28-14.05.18:689][119]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.07.28-14.05.18:729][123]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.07.28-14.05.18:775][128]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.07.28-14.05.18:868][134]LogMaterial: Missing cached shader map for material Animation_Backgound_MainMenu, compiling. 
+[2018.07.28-14.05.19:000][143]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.07.28-14.05.19:035][146]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.07.28-14.05.19:098][151]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.07.28-14.05.19:265][164]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.07.28-14.05.19:315][168]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.07.28-14.05.19:377][174]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.07.28-14.05.19:377][174]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.07.28-14.05.19:540][189]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.07.28-14.05.19:587][193]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.07.28-14.05.19:671][197]LogMaterial: Missing cached shader map for material Animation_Backgound_MainMenu, compiling. 
+[2018.07.28-14.05.19:688][198]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.07.28-14.05.19:721][201]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.07.28-14.05.19:983][218]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.07.28-14.05.20:048][225]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.07.28-14.05.20:075][228]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.07.28-14.05.20:075][228]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.07.28-14.05.20:207][240]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.07.28-14.05.20:260][244]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.07.28-14.05.20:303][248]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.07.28-14.05.20:348][252]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.07.28-14.05.20:424][259]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.07.28-14.05.20:672][277]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.07.28-14.05.20:705][280]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.07.28-14.05.20:753][285]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.07.28-14.05.20:897][297]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.07.28-14.05.21:042][306]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.07.28-14.05.22:353][445]LogMaterial: Missing cached shader map for material Animation_Backgound_MainMenu, compiling. 
+[2018.07.28-14.05.22:368][446]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.07.28-14.05.22:368][446]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.07.28-14.05.22:368][446]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.07.28-14.05.22:368][446]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.07.28-14.05.22:619][468]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.07.28-14.05.22:658][471]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.07.28-14.05.22:726][477]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.07.28-14.05.22:726][477]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.07.28-14.05.22:848][488]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.07.28-14.05.22:898][493]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.07.28-14.05.22:935][497]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.07.28-14.05.23:194][514]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.07.28-14.05.23:252][520]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.07.28-14.05.23:309][526]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.07.28-14.05.23:385][533]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.07.28-14.05.23:593][546]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.07.28-14.05.34:279][791]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.28-14.05.34:419][804]LogMaterial: Missing cached shader map for material Animation_Backgound_MainMenu, compiling. 
+[2018.07.28-14.05.34:434][805]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.07.28-14.05.34:434][805]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.07.28-14.05.34:434][805]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.07.28-14.05.34:434][805]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.07.28-14.05.34:710][830]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.07.28-14.05.34:771][834]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.07.28-14.05.34:829][840]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.07.28-14.05.34:829][840]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.07.28-14.05.34:953][852]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.07.28-14.05.35:013][858]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.07.28-14.05.35:055][862]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.07.28-14.05.35:315][881]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.07.28-14.05.35:355][885]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.07.28-14.05.35:405][890]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.07.28-14.05.35:547][901]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.07.28-14.05.35:642][908]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.07.28-14.07.03:196][529]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.28-14.07.45:272][479]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Movies/MyPlayer" FILE="../../../../../Users/andre/OneDrive/Documents/Unreal Projects/The-Unlucky-Astronautv2/Content/Movies/MyPlayer.uasset" SILENT=true
+[2018.07.28-14.07.45:290][479]LogSavePackage: Save=1.47ms
+[2018.07.28-14.07.45:290][479]LogSavePackage: Moving '../../../../../Users/andre/OneDrive/Documents/Unreal Projects/The-Unlucky-Astronautv2/Saved/MyPlayer9D838E934590E2643CF5079EAF73312E.tmp' to '../../../../../Users/andre/OneDrive/Documents/Unreal Projects/The-Unlucky-Astronautv2/Content/Movies/MyPlayer.uasset'
+[2018.07.28-14.07.45:294][479]LogSavePackage: Display: Finished SavePackage ../../../../../Users/andre/OneDrive/Documents/Unreal Projects/The-Unlucky-Astronautv2/Content/Movies/MyPlayer.uasset
+[2018.07.28-14.08.40:630][782]LogTemp: Repeating last play command: Selected Viewport
+[2018.07.28-14.08.40:696][782]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.07.28-14.08.40:696][782]PIE: New page: PIE session: MainMenu (28 июля 2018 г., 20:08:40)
+[2018.07.28-14.08.40:697][782]LogPlayLevel: Creating play world package: /Game/Map/UEDPIE_0_MainMenu
+[2018.07.28-14.08.40:698][782]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000965s)
+[2018.07.28-14.08.40:698][782]LogAIModule: Creating AISystem for world MainMenu
+[2018.07.28-14.08.40:698][782]LogPlayLevel: PIE: World Init took: (0.000596s)
+[2018.07.28-14.08.40:698][782]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Map/MainMenu.MainMenu to /Game/Map/UEDPIE_0_MainMenu.MainMenu (0.001661s)
+[2018.07.28-14.08.40:733][782]LogInit: XAudio2 using 'Динамики (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.07.28-14.08.40:746][782]LogInit: FAudioDevice initialized.
+[2018.07.28-14.08.40:775][782]LogLoad: Game class is 'MainMenu_GameMode_C'
+[2018.07.28-14.08.40:776][782]LogWorld: Bringing World /Game/Map/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 0) at 2018.07.28-17.08.40
+[2018.07.28-14.08.40:776][782]LogWorld: Bringing up level for play took: 0.000391
+[2018.07.28-14.08.40:777][782]PIE: Play in editor start time for /Game/Map/UEDPIE_0_MainMenu -0,579
+[2018.07.28-14.10.50:776][953]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Video/MenuBack" FILE="../../../../../Users/andre/OneDrive/Documents/Unreal Projects/The-Unlucky-Astronautv2/Content/Video/MenuBack.uasset" SILENT=true
+[2018.07.28-14.10.50:792][953]LogSavePackage: Save=2.15ms
+[2018.07.28-14.10.50:792][953]LogSavePackage: Moving '../../../../../Users/andre/OneDrive/Documents/Unreal Projects/The-Unlucky-Astronautv2/Saved/MenuBackC6B1683B4D76FEC17DB102ACDD1D3854.tmp' to '../../../../../Users/andre/OneDrive/Documents/Unreal Projects/The-Unlucky-Astronautv2/Content/Video/MenuBack.uasset'
+[2018.07.28-14.10.50:796][953]LogSavePackage: Display: Finished SavePackage ../../../../../Users/andre/OneDrive/Documents/Unreal Projects/The-Unlucky-Astronautv2/Content/Video/MenuBack.uasset
+[2018.07.28-14.11.16:536][  1]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Video/MenuBack" FILE="../../../../../Users/andre/OneDrive/Documents/Unreal Projects/The-Unlucky-Astronautv2/Content/Video/MenuBack.uasset" SILENT=true
+[2018.07.28-14.11.16:550][  1]LogSavePackage: Save=1.02ms
+[2018.07.28-14.11.16:550][  1]LogSavePackage: Moving '../../../../../Users/andre/OneDrive/Documents/Unreal Projects/The-Unlucky-Astronautv2/Saved/MenuBack68D3608C4091CB6CA97D9F910E6D95E1.tmp' to '../../../../../Users/andre/OneDrive/Documents/Unreal Projects/The-Unlucky-Astronautv2/Content/Video/MenuBack.uasset'
+[2018.07.28-14.11.16:556][  1]LogSavePackage: Display: Finished SavePackage ../../../../../Users/andre/OneDrive/Documents/Unreal Projects/The-Unlucky-Astronautv2/Content/Video/MenuBack.uasset
+[2018.07.28-14.12.38:442][652]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Map/MainMenu' took 0.031
+[2018.07.28-14.12.38:447][652]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Movies/Animation_Backgound_MainMenu] ([1] browsable assets)...
+[2018.07.28-14.12.38:464][652]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Movies/Animation_Backgound_MainMenu.Animation_Backgound_MainMenu]
+[2018.07.28-14.12.38:464][652]OBJ SavePackage: Finished generating thumbnails for package [/Game/Movies/Animation_Backgound_MainMenu]
+[2018.07.28-14.12.38:503][652]LogSavePackage: Save=9.81ms
+[2018.07.28-14.12.38:504][652]LogSavePackage: Moving '../../../../../Users/andre/OneDrive/Documents/Unreal Projects/The-Unlucky-Astronautv2/Saved/Animation_Backgound_MainMenu_Aut64C8CF804B13E2E92BB98788539FCD86.tmp' to '../../../../../Users/andre/OneDrive/Documents/Unreal Projects/The-Unlucky-Astronautv2/Saved/Autosaves/Game/Movies/Animation_Backgound_MainMenu_Auto5.uasset'
+[2018.07.28-14.12.38:509][652]LogSavePackage: Display: Finished SavePackage ../../../../../Users/andre/OneDrive/Documents/Unreal Projects/The-Unlucky-Astronautv2/Saved/Autosaves/Game/Movies/Animation_Backgound_MainMenu_Auto5.uasset
+[2018.07.28-14.12.38:509][652]LogFileHelpers: Auto-saving content packages took 0.064
+[2018.07.28-14.12.47:937][366]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Video/MenuBack" FILE="../../../../../Users/andre/OneDrive/Documents/Unreal Projects/The-Unlucky-Astronautv2/Content/Video/MenuBack.uasset" SILENT=true
+[2018.07.28-14.12.47:955][366]LogSavePackage: Save=1.37ms
+[2018.07.28-14.12.47:955][366]LogSavePackage: Moving '../../../../../Users/andre/OneDrive/Documents/Unreal Projects/The-Unlucky-Astronautv2/Saved/MenuBackEEEDFC5A42CB08497D716DB3F700C261.tmp' to '../../../../../Users/andre/OneDrive/Documents/Unreal Projects/The-Unlucky-Astronautv2/Content/Video/MenuBack.uasset'
+[2018.07.28-14.12.47:958][366]LogSavePackage: Display: Finished SavePackage ../../../../../Users/andre/OneDrive/Documents/Unreal Projects/The-Unlucky-Astronautv2/Content/Video/MenuBack.uasset
+[2018.07.28-14.13.13:559][297]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Movies/MyPlayer" FILE="../../../../../Users/andre/OneDrive/Documents/Unreal Projects/The-Unlucky-Astronautv2/Content/Movies/MyPlayer.uasset" SILENT=true
+[2018.07.28-14.13.13:575][297]LogSavePackage: Save=1.54ms
+[2018.07.28-14.13.13:575][297]LogSavePackage: Moving '../../../../../Users/andre/OneDrive/Documents/Unreal Projects/The-Unlucky-Astronautv2/Saved/MyPlayer9534E60D4AC4BC370FE97B82084BCF64.tmp' to '../../../../../Users/andre/OneDrive/Documents/Unreal Projects/The-Unlucky-Astronautv2/Content/Movies/MyPlayer.uasset'
+[2018.07.28-14.13.13:581][297]LogSavePackage: Display: Finished SavePackage ../../../../../Users/andre/OneDrive/Documents/Unreal Projects/The-Unlucky-Astronautv2/Content/Movies/MyPlayer.uasset
+[2018.07.28-14.13.47:440][303]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Movies/MyPlayer" FILE="../../../../../Users/andre/OneDrive/Documents/Unreal Projects/The-Unlucky-Astronautv2/Content/Movies/MyPlayer.uasset" SILENT=true
+[2018.07.28-14.13.47:456][303]LogSavePackage: Save=1.10ms
+[2018.07.28-14.13.47:456][303]LogSavePackage: Moving '../../../../../Users/andre/OneDrive/Documents/Unreal Projects/The-Unlucky-Astronautv2/Saved/MyPlayerAE37A0BD4E1BD4431916249F0E9F406E.tmp' to '../../../../../Users/andre/OneDrive/Documents/Unreal Projects/The-Unlucky-Astronautv2/Content/Movies/MyPlayer.uasset'
+[2018.07.28-14.13.47:458][303]LogSavePackage: Display: Finished SavePackage ../../../../../Users/andre/OneDrive/Documents/Unreal Projects/The-Unlucky-Astronautv2/Content/Movies/MyPlayer.uasset
+[2018.07.28-14.14.02:585][ 70]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Movies/MyPlayer" FILE="../../../../../Users/andre/OneDrive/Documents/Unreal Projects/The-Unlucky-Astronautv2/Content/Movies/MyPlayer.uasset" SILENT=true
+[2018.07.28-14.14.02:600][ 70]LogSavePackage: Save=1.96ms
+[2018.07.28-14.14.02:600][ 70]LogSavePackage: Moving '../../../../../Users/andre/OneDrive/Documents/Unreal Projects/The-Unlucky-Astronautv2/Saved/MyPlayer0746916C4068593FB31A7EBF8BC19B01.tmp' to '../../../../../Users/andre/OneDrive/Documents/Unreal Projects/The-Unlucky-Astronautv2/Content/Movies/MyPlayer.uasset'
+[2018.07.28-14.14.02:603][ 70]LogSavePackage: Display: Finished SavePackage ../../../../../Users/andre/OneDrive/Documents/Unreal Projects/The-Unlucky-Astronautv2/Content/Movies/MyPlayer.uasset
+[2018.07.28-14.14.18:365][863]LogMaterialEditor: Saving and Compiling material Animation_Backgound_MainMenu
+[2018.07.28-14.14.18:792][863]LogMaterial: Missing cached shader map for material Animation_Backgound_MainMenu, compiling. 
+[2018.07.28-14.14.18:825][863]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.07.28-14.14.18:825][863]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.07.28-14.14.18:825][863]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.07.28-14.14.18:825][863]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.07.28-14.14.18:858][863]LogMaterial: Missing cached shader map for material Animation_Backgound_MainMenu, compiling. 
+[2018.07.28-14.14.18:896][863]LogMaterial: Missing cached shader map for material Animation_Backgound_MainMenu, compiling. 
+[2018.07.28-14.14.18:936][863]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy Animation_Backgound_MainMenu, compiling. 
+[2018.07.28-14.14.20:441][863]LogShaderCompilers: Display: Shaders left to compile 35
+[2018.07.28-14.14.20:441][863]LogShaderCompilers: Display: Shaders left to compile 34
+[2018.07.28-14.14.20:441][863]LogShaderCompilers: Display: Shaders left to compile 33
+[2018.07.28-14.14.20:441][863]LogShaderCompilers: Display: Shaders left to compile 32
+[2018.07.28-14.14.20:441][863]LogShaderCompilers: Display: Shaders left to compile 31
+[2018.07.28-14.14.20:441][863]LogShaderCompilers: Display: Shaders left to compile 30
+[2018.07.28-14.14.20:441][863]LogShaderCompilers: Display: Shaders left to compile 29
+[2018.07.28-14.14.20:441][863]LogShaderCompilers: Display: Shaders left to compile 28
+[2018.07.28-14.14.20:441][863]LogShaderCompilers: Display: Shaders left to compile 27
+[2018.07.28-14.14.20:441][863]LogShaderCompilers: Display: Shaders left to compile 26
+[2018.07.28-14.14.20:441][863]LogShaderCompilers: Display: Shaders left to compile 25
+[2018.07.28-14.14.20:441][863]LogShaderCompilers: Display: Shaders left to compile 24
+[2018.07.28-14.14.20:441][863]LogShaderCompilers: Display: Shaders left to compile 23
+[2018.07.28-14.14.20:442][863]LogShaderCompilers: Display: Shaders left to compile 22
+[2018.07.28-14.14.20:442][863]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.07.28-14.14.20:442][863]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.07.28-14.14.20:443][863]TextureStreamingBuild: Display: Compiling optional shaders took 1.512 seconds.
+[2018.07.28-14.14.22:414][863]LogSavePackage: Save=10.25ms
+[2018.07.28-14.14.22:414][863]LogSavePackage: Moving '../../../../../Users/andre/OneDrive/Documents/Unreal Projects/The-Unlucky-Astronautv2/Saved/Animation_Backgound_MainMenuE4442C174CB4218E8DD535B42C8E9FF8.tmp' to '../../../../../Users/andre/OneDrive/Documents/Unreal Projects/The-Unlucky-Astronautv2/Content/Movies/Animation_Backgound_MainMenu.uasset'
+[2018.07.28-14.14.22:420][863]LogSavePackage: Display: Finished SavePackage ../../../../../Users/andre/OneDrive/Documents/Unreal Projects/The-Unlucky-Astronautv2/Content/Movies/Animation_Backgound_MainMenu.uasset
+[2018.07.28-14.14.22:430][863]MaterialEditorStats: Base pass shader: 106 instructions
+[2018.07.28-14.14.22:430][863]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 179 instructions
+[2018.07.28-14.14.22:430][863]MaterialEditorStats: Vertex shader: 38 instructions
+[2018.07.28-14.14.22:430][863]MaterialEditorStats: Texture samplers: 4/16
+[2018.07.28-14.14.22:430][863]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.07.28-14.14.36:717][337]LogTemp: Repeating last play command: Selected Viewport
+[2018.07.28-14.14.36:752][337]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.07.28-14.14.36:752][337]PIE: New page: PIE session: MainMenu (28 июля 2018 г., 20:14:36)
+[2018.07.28-14.14.36:753][337]LogPlayLevel: Creating play world package: /Game/Map/UEDPIE_0_MainMenu
+[2018.07.28-14.14.36:755][337]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001398s)
+[2018.07.28-14.14.36:757][337]LogAIModule: Creating AISystem for world MainMenu
+[2018.07.28-14.14.36:758][337]LogPlayLevel: PIE: World Init took: (0.002733s)
+[2018.07.28-14.14.36:758][337]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Map/MainMenu.MainMenu to /Game/Map/UEDPIE_0_MainMenu.MainMenu (0.004424s)
+[2018.07.28-14.14.36:798][337]LogInit: XAudio2 using 'Динамики (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.07.28-14.14.36:811][337]LogInit: FAudioDevice initialized.
+[2018.07.28-14.14.36:864][337]LogLoad: Game class is 'MainMenu_GameMode_C'
+[2018.07.28-14.14.36:866][337]LogWorld: Bringing World /Game/Map/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 0) at 2018.07.28-17.14.36
+[2018.07.28-14.14.36:866][337]LogWorld: Bringing up level for play took: 0.000393
+[2018.07.28-14.14.36:867][337]PIE: Play in editor start time for /Game/Map/UEDPIE_0_MainMenu -0,489
+[2018.07.28-14.16.09:384][281]LogEditorViewport: Clicking Background
+[2018.07.28-14.16.11:901][526]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.28-14.16.12:030][539]LogTemp: Repeating last play command: Selected Viewport
+[2018.07.28-14.16.12:056][539]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.07.28-14.16.12:056][539]PIE: New page: PIE session: MainMenu (28 июля 2018 г., 20:16:12)
+[2018.07.28-14.16.12:057][539]LogPlayLevel: Creating play world package: /Game/Map/UEDPIE_0_MainMenu
+[2018.07.28-14.16.12:058][539]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000699s)
+[2018.07.28-14.16.12:058][539]LogAIModule: Creating AISystem for world MainMenu
+[2018.07.28-14.16.12:058][539]LogPlayLevel: PIE: World Init took: (0.000623s)
+[2018.07.28-14.16.12:058][539]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Map/MainMenu.MainMenu to /Game/Map/UEDPIE_0_MainMenu.MainMenu (0.001549s)
+[2018.07.28-14.16.12:108][539]LogInit: XAudio2 using 'Динамики (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.07.28-14.16.12:122][539]LogInit: FAudioDevice initialized.
+[2018.07.28-14.16.12:155][539]LogLoad: Game class is 'MainMenu_GameMode_C'
+[2018.07.28-14.16.12:156][539]LogWorld: Bringing World /Game/Map/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 0) at 2018.07.28-17.16.12
+[2018.07.28-14.16.12:156][539]LogWorld: Bringing up level for play took: 0.000279
+[2018.07.28-14.16.12:157][539]PIE: Play in editor start time for /Game/Map/UEDPIE_0_MainMenu 0,801
+[2018.07.28-14.16.41:164][603]LogSlate: Window 'Ursa - Unreal Editor' being destroyed
+[2018.07.28-14.16.41:165][603]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.07.28-14.16.41:755][604]Cmd: QUIT_EDITOR
+[2018.07.28-14.16.42:806][604]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2018.07.28-14.16.42:811][604]LogExit: Preparing to exit.
+[2018.07.28-14.16.46:723][604]LogDirectoryWatcher: A directory notification for 'G:/Users/andre/OneDrive/Documents/Unreal Projects/The-Unlucky-Astronautv2/Content/' was aborted.
+[2018.07.28-14.16.48:254][604]LogExit: Editor shut down
+[2018.07.28-14.16.48:306][604]LogExit: Transaction tracking system shut down
+[2018.07.28-14.16.49:332][604]LogDirectoryWatcher: A directory notification for '../../../Engine/Content/' was aborted.
+[2018.07.28-14.16.49:332][604]LogDirectoryWatcher: A directory notification for '../../../../../Users/andre/OneDrive/Documents/Unreal Projects/The-Unlucky-Astronautv2/Content/' was aborted.
+[2018.07.28-14.16.49:332][604]LogDirectoryWatcher: A directory notification for '../../Plugins/2D/Paper2D/Content/' was aborted.
+[2018.07.28-14.16.49:332][604]LogDirectoryWatcher: A directory notification for '../../Plugins/Enterprise/DatasmithContent/Content/' was aborted.
+[2018.07.28-14.16.49:332][604]LogDirectoryWatcher: A directory notification for '../../Plugins/Media/MediaCompositing/Content/' was aborted.
+[2018.07.28-14.16.49:332][604]LogDirectoryWatcher: A directory notification for '../../Plugins/Runtime/AppleARKit/Content/' was aborted.
+[2018.07.28-14.16.49:332][604]LogDirectoryWatcher: A directory notification for '../../Plugins/Runtime/Oculus/OculusVR/Content/' was aborted.
+[2018.07.28-14.16.49:332][604]LogDirectoryWatcher: A directory notification for '../../Plugins/Runtime/Steam/SteamVR/Content/' was aborted.
+[2018.07.28-14.16.49:332][604]LogDirectoryWatcher: A directory notification for '../../../../../Users/andre/OneDrive/Documents/Unreal Projects/The-Unlucky-Astronautv2/Plugins/MainMenuPlugin/Content/' was aborted.
+[2018.07.28-14.17.09:365][604]LogExit: Object subsystem successfully closed.
+[2018.07.28-14.17.11:599][604]LogShaderCompilers: Display: Shaders left to compile 0
+[2018.07.28-14.17.11:686][604]LogD3D11RHI: Shutdown
+[2018.07.28-14.17.11:737][604]LogD3D11RHI: CleanupD3DDevice
+[2018.07.28-14.17.13:086][604]LogD3D11RHI: ~FD3D11DynamicRHI
